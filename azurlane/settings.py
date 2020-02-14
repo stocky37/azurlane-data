@@ -14,6 +14,8 @@ BOT_NAME = "azurlane"
 SPIDER_MODULES = ["azurlane.spiders"]
 NEWSPIDER_MODULE = "azurlane.spiders"
 
+FILENAME_TEMPLATE = "json/{0}/{1}.json"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'azurlane (+http://www.yourdomain.com)'
@@ -64,9 +66,11 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-# ITEM_PIPELINES = {
-#    'azurlane.pipelines.ScraperPipeline': 300,
-# }
+ITEM_PIPELINES = {
+    "azurlane.pipelines.filter.FilterPipeline": 10,
+    "azurlane.pipelines.merge.JsonMergePipeline": 200,
+    "azurlane.pipelines.json.JsonPipeline": 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
