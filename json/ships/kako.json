@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "191",
   "name": "Kako",
+  "nationality": "sakura-empire",
   "slug": "kako"
 }

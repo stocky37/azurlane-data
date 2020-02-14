@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "227",
   "name": "Hiryuu",
+  "nationality": "sakura-empire",
   "slug": "hiryuu"
 }

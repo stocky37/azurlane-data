@@ -1,5 +1,10 @@
 {
+  "classification": "battlecruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "204",
   "name": "Kongou",
+  "nationality": "sakura-empire",
   "slug": "kongou"
 }

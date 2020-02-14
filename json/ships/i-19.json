@@ -1,5 +1,10 @@
 {
+  "classification": "submarine",
+  "construction": {
+    "time": "00:30:00"
+  },
   "id": "338",
   "name": "I-19",
+  "nationality": "sakura-empire",
   "slug": "i-19"
 }

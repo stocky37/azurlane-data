@@ -1,5 +1,10 @@
 {
+  "classification": "battlecruiser",
+  "construction": {
+    "time": "04:10:00"
+  },
   "id": "205",
   "name": "Hiei",
+  "nationality": "sakura-empire",
   "slug": "hiei"
 }

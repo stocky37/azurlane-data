@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "Collab035",
   "name": "Saraana",
+  "nationality": "utawarerumono",
   "slug": "saraana"
 }

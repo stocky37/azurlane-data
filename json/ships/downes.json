@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:23:00"
+  },
   "id": "006",
   "name": "Downes",
+  "nationality": "eagle-union",
   "slug": "downes"
 }

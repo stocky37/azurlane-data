@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "047",
   "name": "Quincy",
+  "nationality": "eagle-union",
   "slug": "quincy"
 }

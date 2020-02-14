@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:27:00"
+  },
   "id": "102",
   "name": "Juno",
+  "nationality": "royal-navy",
   "slug": "juno"
 }

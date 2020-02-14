@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:19:00"
+  },
   "id": "083",
   "name": "Ardent",
+  "nationality": "royal-navy",
   "slug": "ardent"
 }

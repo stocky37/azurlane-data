@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:20:00"
+  },
   "id": "117",
   "name": "Galatea",
+  "nationality": "royal-navy",
   "slug": "galatea"
 }

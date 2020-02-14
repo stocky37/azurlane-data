@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:27:00"
+  },
   "id": "319",
   "name": "Tanikaze",
+  "nationality": "sakura-empire",
   "slug": "tanikaze"
 }

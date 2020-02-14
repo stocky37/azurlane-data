@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "Collab036",
   "name": "Fumiruiru",
+  "nationality": "utawarerumono",
   "slug": "fumiruiru"
 }

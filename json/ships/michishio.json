@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Contructed"
+  },
   "id": "333",
   "name": "Michishio",
+  "nationality": "sakura-empire",
   "slug": "michishio"
 }

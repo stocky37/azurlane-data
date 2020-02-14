@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "168",
   "name": "Shiranui",
+  "nationality": "sakura-empire",
   "slug": "shiranui"
 }

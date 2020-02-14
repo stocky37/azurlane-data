@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:17:30"
+  },
   "id": "Collab051",
   "name": "Shirakami Fubuki",
+  "nationality": "hololive",
   "slug": "shirakami-fubuki"
 }

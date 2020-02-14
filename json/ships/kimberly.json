@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:28:00"
+  },
   "id": "374",
   "name": "Kimberly",
+  "nationality": "eagle-union",
   "slug": "kimberly"
 }

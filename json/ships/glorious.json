@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "03:50:00"
+  },
   "id": "148",
   "name": "Glorious",
+  "nationality": "royal-navy",
   "slug": "glorious"
 }

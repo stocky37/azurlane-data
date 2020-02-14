@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:35:00"
+  },
   "id": "252",
   "name": "Graf Zeppelin",
+  "nationality": "ironblood",
   "slug": "graf-zeppelin"
 }

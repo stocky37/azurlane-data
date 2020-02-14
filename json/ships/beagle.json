@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:20:00"
+  },
   "id": "086",
   "name": "Beagle",
+  "nationality": "royal-navy",
   "slug": "beagle"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "02:00:00"
+  },
   "id": "050",
   "name": "Baltimore",
+  "nationality": "eagle-union",
   "slug": "baltimore"
 }

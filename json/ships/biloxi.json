@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:25:00"
+  },
   "id": "428",
   "name": "Biloxi",
+  "nationality": "eagle-union",
   "slug": "biloxi"
 }

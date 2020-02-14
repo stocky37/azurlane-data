@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "100",
   "name": "Hunter",
+  "nationality": "royal-navy",
   "slug": "hunter"
 }

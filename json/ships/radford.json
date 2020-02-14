@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "299",
   "name": "Radford",
+  "nationality": "eagle-union",
   "slug": "radford"
 }

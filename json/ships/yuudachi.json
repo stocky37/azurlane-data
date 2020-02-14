@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "164",
   "name": "Yuudachi",
+  "nationality": "sakura-empire",
   "slug": "yuudachi"
 }

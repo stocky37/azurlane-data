@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "02:24:00"
+  },
   "id": "Collab003",
   "name": "Blanc",
+  "nationality": "neptunia",
   "slug": "blanc"
 }

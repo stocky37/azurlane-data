@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:20:00"
+  },
   "id": "212",
   "name": "Nagato",
+  "nationality": "sakura-empire",
   "slug": "nagato"
 }

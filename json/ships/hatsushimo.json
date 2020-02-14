@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:25:00"
+  },
   "id": "174",
   "name": "Hatsushimo",
+  "nationality": "sakura-empire",
   "slug": "hatsushimo"
 }

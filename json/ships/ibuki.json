@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Research"
+  },
   "id": "Plan003",
   "name": "Ibuki",
+  "nationality": "sakura-empire",
   "slug": "ibuki"
 }

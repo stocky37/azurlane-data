@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Research"
+  },
   "id": "Plan007",
   "name": "Seattle",
+  "nationality": "eagle-union",
   "slug": "seattle"
 }

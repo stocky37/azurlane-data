@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "411",
   "name": "Conte di Cavour",
+  "nationality": "sardegna-empire",
   "slug": "conte-di-cavour"
 }

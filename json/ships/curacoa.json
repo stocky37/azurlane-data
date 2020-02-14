@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:07:00"
+  },
   "id": "372",
   "name": "Curacoa",
+  "nationality": "royal-navy",
   "slug": "curacoa"
 }

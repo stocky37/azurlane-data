@@ -1,5 +1,10 @@
 {
+  "classification": "submarine-carrier",
+  "construction": {
+    "time": "00:34:00"
+  },
   "id": "381",
   "name": "I-13",
+  "nationality": "sakura-empire",
   "slug": "i-13"
 }

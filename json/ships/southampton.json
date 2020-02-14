@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:25:00"
+  },
   "id": "110",
   "name": "Southampton",
+  "nationality": "royal-navy",
   "slug": "southampton"
 }

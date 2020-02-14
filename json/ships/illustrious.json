@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:30:00"
+  },
   "id": "145",
   "name": "Illustrious",
+  "nationality": "royal-navy",
   "slug": "illustrious"
 }

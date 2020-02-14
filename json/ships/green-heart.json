@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "02:47:00"
+  },
   "id": "Collab008",
   "name": "Green Heart",
+  "nationality": "neptunia",
   "slug": "green-heart"
 }

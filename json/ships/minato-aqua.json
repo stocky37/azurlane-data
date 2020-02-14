@@ -1,5 +1,10 @@
 {
+  "classification": "submarine",
+  "construction": {
+    "time": "00:20:00"
+  },
   "id": "Collab053",
   "name": "Minato Aqua",
+  "nationality": "hololive",
   "slug": "minato-aqua"
 }

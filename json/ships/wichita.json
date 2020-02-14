@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "02:30:00"
+  },
   "id": "049",
   "name": "Wichita",
+  "nationality": "eagle-union",
   "slug": "wichita"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Research"
+  },
   "id": "Plan006",
   "name": "Saint Louis",
+  "nationality": "iris-libre",
   "slug": "saint-louis"
 }

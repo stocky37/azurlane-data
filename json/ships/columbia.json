@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "038",
   "name": "Columbia",
+  "nationality": "eagle-union",
   "slug": "columbia"
 }

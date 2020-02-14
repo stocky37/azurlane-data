@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "218",
   "name": "Hiyou",
+  "nationality": "sakura-empire",
   "slug": "hiyou"
 }

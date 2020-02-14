@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Research"
+  },
   "id": "Plan001",
   "name": "HMS Neptune",
+  "nationality": "royal-navy",
   "slug": "hms-neptune"
 }

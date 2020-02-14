@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:10:00"
+  },
   "id": "239",
   "name": "Karlsruhe",
+  "nationality": "ironblood",
   "slug": "karlsruhe"
 }

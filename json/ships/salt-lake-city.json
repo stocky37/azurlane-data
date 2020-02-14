@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "040",
   "name": "Salt Lake City",
+  "nationality": "eagle-union",
   "slug": "salt-lake-city"
 }

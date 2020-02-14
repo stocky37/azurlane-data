@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:20:00"
+  },
   "id": "087",
   "name": "Bulldog",
+  "nationality": "royal-navy",
   "slug": "bulldog"
 }

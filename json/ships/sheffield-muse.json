@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Cannot be Constructed"
+  },
   "id": "421",
   "name": "Sheffield (Muse)",
+  "nationality": "royal-navy",
   "slug": "sheffield-muse"
 }

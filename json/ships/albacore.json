@@ -1,5 +1,10 @@
 {
+  "classification": "submarine",
+  "construction": {
+    "time": "00:24:00"
+  },
   "id": "358",
   "name": "Albacore",
+  "nationality": "eagle-union",
   "slug": "albacore"
 }

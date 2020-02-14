@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "162",
   "name": "Inazuma",
+  "nationality": "sakura-empire",
   "slug": "inazuma"
 }

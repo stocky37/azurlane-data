@@ -1,5 +1,10 @@
 {
+  "classification": "submarine",
+  "construction": {
+    "time": "00:11:00"
+  },
   "id": "387",
   "name": "U-73",
+  "nationality": "ironblood",
   "slug": "u-73"
 }

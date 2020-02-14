@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "03:22:00"
+  },
   "id": "Collab055",
   "name": "Nakiri Ayame",
+  "nationality": "hololive",
   "slug": "nakiri-ayame"
 }

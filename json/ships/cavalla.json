@@ -1,5 +1,10 @@
 {
+  "classification": "submarine",
+  "construction": {
+    "time": "Cannot be constructed"
+  },
   "id": "402",
   "name": "Cavalla",
+  "nationality": "eagle-union",
   "slug": "cavalla"
 }

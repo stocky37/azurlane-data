@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "02:44:00"
+  },
   "id": "Collab005",
   "name": "Purple Heart",
+  "nationality": "neptunia",
   "slug": "purple-heart"
 }

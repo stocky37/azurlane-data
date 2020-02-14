@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "415",
   "name": "Carabiniere",
+  "nationality": "sardegna-empire",
   "slug": "carabiniere"
 }

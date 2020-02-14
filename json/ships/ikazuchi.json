@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "161",
   "name": "Ikazuchi",
+  "nationality": "sakura-empire",
   "slug": "ikazuchi"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "00:55:00"
+  },
   "id": "107",
   "name": "Dido",
+  "nationality": "royal-navy",
   "slug": "dido"
 }

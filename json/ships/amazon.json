@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:19:00"
+  },
   "id": "081",
   "name": "Amazon",
+  "nationality": "royal-navy",
   "slug": "amazon"
 }

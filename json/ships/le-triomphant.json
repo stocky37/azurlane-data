@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "347",
   "name": "Le Triomphant",
+  "nationality": "iris-libre",
   "slug": "le-triomphant"
 }

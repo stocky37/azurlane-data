@@ -1,5 +1,7 @@
 from abc import ABC
 
+from slugify import slugify
+
 
 class Scraper(ABC):
     def __init__(self, spider=None):
@@ -11,3 +13,6 @@ class Scraper(ABC):
     @staticmethod
     def text(text):
         return text.strip() if text else None
+
+    def slug(self, text):
+        return slugify(self.text(text))

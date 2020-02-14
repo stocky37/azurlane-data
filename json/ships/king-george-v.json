@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:50:00"
+  },
   "id": "134",
   "name": "King George V",
+  "nationality": "royal-navy",
   "slug": "king-george-v"
 }

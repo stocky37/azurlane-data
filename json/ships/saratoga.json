@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "03:40:00"
+  },
   "id": "074",
   "name": "Saratoga",
+  "nationality": "eagle-union",
   "slug": "saratoga"
 }

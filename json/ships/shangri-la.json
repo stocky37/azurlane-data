@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:25:00"
+  },
   "id": "378",
   "name": "Shangri-La",
+  "nationality": "eagle-union",
   "slug": "shangri-la"
 }

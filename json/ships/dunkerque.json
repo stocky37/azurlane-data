@@ -1,5 +1,10 @@
 {
+  "classification": "battlecruiser",
+  "construction": {
+    "time": "04:05:00"
+  },
   "id": "352",
   "name": "Dunkerque",
+  "nationality": "vichya-dominion",
   "slug": "dunkerque"
 }

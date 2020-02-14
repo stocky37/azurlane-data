@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "06:00:00"
+  },
   "id": "251",
   "name": "Tirpitz",
+  "nationality": "ironblood",
   "slug": "tirpitz"
 }

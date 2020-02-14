@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "349",
   "name": "Emile Bertin",
+  "nationality": "iris-libre",
   "slug": "emile-bertin"
 }

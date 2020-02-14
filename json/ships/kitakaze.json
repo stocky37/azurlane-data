@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Research"
+  },
   "id": "Plan009",
   "name": "Kitakaze",
+  "nationality": "sakura-empire",
   "slug": "kitakaze"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "01:48:00"
+  },
   "id": "382",
   "name": "Suzuya",
+  "nationality": "sakura-empire",
   "slug": "suzuya"
 }

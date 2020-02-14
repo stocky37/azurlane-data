@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "02:25:00"
+  },
   "id": "Collab034",
   "name": "Uruuru",
+  "nationality": "utawarerumono",
   "slug": "uruuru"
 }

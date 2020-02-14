@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:07:00"
+  },
   "id": "373",
   "name": "Curlew",
+  "nationality": "royal-navy",
   "slug": "curlew"
 }

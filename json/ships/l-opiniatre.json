@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:26:00"
+  },
   "id": "395",
   "name": "L'Opini\u00e2tre",
+  "nationality": "iris-libre",
   "slug": "l-opiniatre"
 }

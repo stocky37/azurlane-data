@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "002",
   "name": "Trial Bullin MKII",
+  "nationality": "universal",
   "slug": "trial-bullin-mkii"
 }

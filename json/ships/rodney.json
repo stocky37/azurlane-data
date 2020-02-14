@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:40:00"
+  },
   "id": "133",
   "name": "Rodney",
+  "nationality": "royal-navy",
   "slug": "rodney"
 }

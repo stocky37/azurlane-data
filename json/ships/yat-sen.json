@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "00:40:00"
+  },
   "id": "257",
   "name": "Yat Sen",
+  "nationality": "eastern-radiance",
   "slug": "yat-sen"
 }

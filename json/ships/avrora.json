@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "262",
   "name": "Avrora",
+  "nationality": "north-union",
   "slug": "avrora"
 }

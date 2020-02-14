@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "380",
   "name": "Bunker Hill",
+  "nationality": "eagle-union",
   "slug": "bunker-hill"
 }

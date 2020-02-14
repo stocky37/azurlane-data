@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "220",
   "name": "Houshou",
+  "nationality": "sakura-empire",
   "slug": "houshou"
 }

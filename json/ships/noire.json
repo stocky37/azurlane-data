@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "02:38:00"
+  },
   "id": "Collab002",
   "name": "Noire",
+  "nationality": "neptunia",
   "slug": "noire"
 }

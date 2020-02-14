@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:15:00"
+  },
   "id": "032",
   "name": "Phoenix",
+  "nationality": "eagle-union",
   "slug": "phoenix"
 }

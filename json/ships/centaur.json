@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "03:00:00"
+  },
   "id": "356",
   "name": "Centaur",
+  "nationality": "royal-navy",
   "slug": "centaur"
 }

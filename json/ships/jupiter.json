@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:27:00"
+  },
   "id": "306",
   "name": "Jupiter",
+  "nationality": "royal-navy",
   "slug": "jupiter"
 }

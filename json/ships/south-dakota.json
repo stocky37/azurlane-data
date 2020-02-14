@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "065",
   "name": "South Dakota",
+  "nationality": "eagle-union",
   "slug": "south-dakota"
 }

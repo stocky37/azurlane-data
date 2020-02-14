@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "028",
   "name": "Eldridge",
+  "nationality": "eagle-union",
   "slug": "eldridge"
 }

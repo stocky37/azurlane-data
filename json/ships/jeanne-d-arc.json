@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": null
+  },
   "id": "9003",
   "name": "Jeanne d'Arc",
+  "nationality": "iris-libre",
   "slug": "jeanne-d-arc"
 }

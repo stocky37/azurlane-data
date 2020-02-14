@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "361",
   "name": "Newcastle",
+  "nationality": "royal-navy",
   "slug": "newcastle"
 }

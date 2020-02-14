@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot be constructed"
+  },
   "id": "293",
   "name": "Kiyonami",
+  "nationality": "sakura-empire",
   "slug": "kiyonami"
 }

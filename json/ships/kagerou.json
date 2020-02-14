@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "167",
   "name": "Kagerou",
+  "nationality": "sakura-empire",
   "slug": "kagerou"
 }

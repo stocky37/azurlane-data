@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:25:00"
+  },
   "id": "405",
   "name": "Birmingham",
+  "nationality": "eagle-union",
   "slug": "birmingham"
 }

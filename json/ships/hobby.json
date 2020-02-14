@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "362",
   "name": "Hobby",
+  "nationality": "eagle-union",
   "slug": "hobby"
 }

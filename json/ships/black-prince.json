@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "00:55:00"
+  },
   "id": "408",
   "name": "Black Prince",
+  "nationality": "royal-navy",
   "slug": "black-prince"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "004",
   "name": "Dewey",
+  "nationality": "eagle-union",
   "slug": "dewey"
 }

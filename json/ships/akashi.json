@@ -1,5 +1,10 @@
 {
+  "classification": "repair-ship",
+  "construction": {
+    "time": "01:35:00"
+  },
   "id": "232",
   "name": "Akashi",
+  "nationality": "sakura-empire",
   "slug": "akashi"
 }

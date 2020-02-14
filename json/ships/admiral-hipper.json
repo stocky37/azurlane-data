@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "02:00:00"
+  },
   "id": "242",
   "name": "Admiral Hipper",
+  "nationality": "ironblood",
   "slug": "admiral-hipper"
 }

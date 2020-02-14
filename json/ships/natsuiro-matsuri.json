@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:12:00"
+  },
   "id": "Collab054",
   "name": "Natsuiro Matsuri",
+  "nationality": "hololive",
   "slug": "natsuiro-matsuri"
 }

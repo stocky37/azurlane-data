@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:30:00"
+  },
   "id": "147",
   "name": "Formidable",
+  "nationality": "royal-navy",
   "slug": "formidable"
 }

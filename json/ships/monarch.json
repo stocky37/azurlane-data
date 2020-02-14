@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "Research"
+  },
   "id": "Plan002",
   "name": "Monarch",
+  "nationality": "royal-navy",
   "slug": "monarch"
 }

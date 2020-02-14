@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "266",
   "name": "Z21",
+  "nationality": "ironblood",
   "slug": "z21"
 }

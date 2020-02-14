@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:28:00"
+  },
   "id": "014",
   "name": "Thatcher",
+  "nationality": "eagle-union",
   "slug": "thatcher"
 }

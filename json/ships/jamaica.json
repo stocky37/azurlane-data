@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:22:00"
+  },
   "id": "328",
   "name": "Jamaica",
+  "nationality": "royal-navy",
   "slug": "jamaica"
 }

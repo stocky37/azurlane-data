@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "046",
   "name": "Astoria",
+  "nationality": "eagle-union",
   "slug": "astoria"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "062",
   "name": "West Virginia",
+  "nationality": "eagle-union",
   "slug": "west-virginia"
 }

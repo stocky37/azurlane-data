@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "183",
   "name": "Isuzu",
+  "nationality": "sakura-empire",
   "slug": "isuzu"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "351",
   "name": "Le Mars",
+  "nationality": "vichya-dominion",
   "slug": "le-mars"
 }

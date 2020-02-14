@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:45:00"
+  },
   "id": "230",
   "name": "Taihou",
+  "nationality": "sakura-empire",
   "slug": "taihou"
 }

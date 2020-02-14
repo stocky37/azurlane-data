@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "213",
   "name": "Mutsu",
+  "nationality": "sakura-empire",
   "slug": "mutsu"
 }

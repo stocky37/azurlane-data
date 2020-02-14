@@ -1,5 +1,10 @@
 {
+  "classification": "battlecruiser",
+  "construction": {
+    "time": "04:10:00"
+  },
   "id": "127",
   "name": "Renown",
+  "nationality": "royal-navy",
   "slug": "renown"
 }

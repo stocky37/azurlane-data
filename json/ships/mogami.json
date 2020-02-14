@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser-heavy-cruiser",
+  "construction": {
+    "time": "01:48:00"
+  },
   "id": "188",
   "name": "Mogami",
+  "nationality": "sakura-empire",
   "slug": "mogami"
 }

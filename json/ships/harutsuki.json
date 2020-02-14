@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:29:00"
+  },
   "id": "296",
   "name": "Harutsuki",
+  "nationality": "sakura-empire",
   "slug": "harutsuki"
 }

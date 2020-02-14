@@ -1,5 +1,10 @@
 {
+  "classification": "battlecruiser",
+  "construction": {
+    "time": "05:50:00"
+  },
   "id": "129",
   "name": "Hood",
+  "nationality": "royal-navy",
   "slug": "hood"
 }

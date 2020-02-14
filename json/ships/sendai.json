@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "308",
   "name": "Sendai",
+  "nationality": "sakura-empire",
   "slug": "sendai"
 }

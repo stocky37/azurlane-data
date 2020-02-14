@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "02:00:00"
+  },
   "id": "072",
   "name": "Langley",
+  "nationality": "eagle-union",
   "slug": "langley"
 }

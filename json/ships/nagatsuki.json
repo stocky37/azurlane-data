@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "278",
   "name": "Nagatsuki",
+  "nationality": "sakura-empire",
   "slug": "nagatsuki"
 }

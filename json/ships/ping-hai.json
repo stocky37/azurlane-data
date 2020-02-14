@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "00:42:00"
+  },
   "id": "259",
   "name": "Ping Hai",
+  "nationality": "eastern-radiance",
   "slug": "ping-hai"
 }

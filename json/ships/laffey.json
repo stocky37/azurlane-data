@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:27:00"
+  },
   "id": "019",
   "name": "Laffey",
+  "nationality": "eagle-union",
   "slug": "laffey"
 }

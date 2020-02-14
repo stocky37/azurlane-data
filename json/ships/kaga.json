@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "225",
   "name": "Kaga",
+  "nationality": "sakura-empire",
   "slug": "kaga"
 }

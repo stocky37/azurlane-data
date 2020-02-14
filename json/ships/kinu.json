@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:05:00"
+  },
   "id": "186",
   "name": "Kinu",
+  "nationality": "sakura-empire",
   "slug": "kinu"
 }

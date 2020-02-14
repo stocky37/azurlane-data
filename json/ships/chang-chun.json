@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:32:00"
+  },
   "id": "255",
   "name": "Chang Chun",
+  "nationality": "eastern-radiance",
   "slug": "chang-chun"
 }

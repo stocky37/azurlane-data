@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "321",
   "name": "Agano",
+  "nationality": "sakura-empire",
   "slug": "agano"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "Collab021",
   "name": "22",
+  "nationality": "bilibili",
   "slug": "22"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:23:00"
+  },
   "id": "155",
   "name": "Ayanami",
+  "nationality": "sakura-empire",
   "slug": "ayanami"
 }

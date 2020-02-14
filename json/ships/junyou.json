@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "219",
   "name": "Junyou",
+  "nationality": "sakura-empire",
   "slug": "junyou"
 }

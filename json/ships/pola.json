@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": null
+  },
   "id": "9006",
   "name": "Pola",
+  "nationality": "sardegna-empire",
   "slug": "pola"
 }

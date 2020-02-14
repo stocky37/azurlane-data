@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:19:00"
+  },
   "id": "082",
   "name": "Acasta",
+  "nationality": "royal-navy",
   "slug": "acasta"
 }

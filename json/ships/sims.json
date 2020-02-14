@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:26:00"
+  },
   "id": "026",
   "name": "Sims",
+  "nationality": "eagle-union",
   "slug": "sims"
 }

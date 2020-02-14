@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:26:00"
+  },
   "id": "359",
   "name": "Le Temeraire",
+  "nationality": "iris-libre",
   "slug": "le-temeraire"
 }

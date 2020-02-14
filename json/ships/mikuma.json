@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "189",
   "name": "Mikuma",
+  "nationality": "sakura-empire",
   "slug": "mikuma"
 }

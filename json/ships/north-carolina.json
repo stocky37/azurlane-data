@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "063",
   "name": "North Carolina",
+  "nationality": "eagle-union",
   "slug": "north-carolina"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:10:00"
+  },
   "id": "131",
   "name": "Warspite",
+  "nationality": "royal-navy",
   "slug": "warspite"
 }

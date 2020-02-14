@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "02:05:00"
+  },
   "id": "Collab031",
   "name": "Kuon",
+  "nationality": "utawarerumono",
   "slug": "kuon"
 }

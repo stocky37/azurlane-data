@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:28:00"
+  },
   "id": "331",
   "name": "Asashio",
+  "nationality": "sakura-empire",
   "slug": "asashio"
 }

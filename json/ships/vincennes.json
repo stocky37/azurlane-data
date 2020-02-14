@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "048",
   "name": "Vincennes",
+  "nationality": "eagle-union",
   "slug": "vincennes"
 }

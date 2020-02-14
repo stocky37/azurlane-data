@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "Cannot be constructed"
+  },
   "id": "403",
   "name": "Bataan",
+  "nationality": "eagle-union",
   "slug": "bataan"
 }

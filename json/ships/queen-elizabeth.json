@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:10:00"
+  },
   "id": "130",
   "name": "Queen Elizabeth",
+  "nationality": "royal-navy",
   "slug": "queen-elizabeth"
 }

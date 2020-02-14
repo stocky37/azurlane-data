@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "203",
   "name": "Choukai",
+  "nationality": "sakura-empire",
   "slug": "choukai"
 }

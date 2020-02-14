@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "01:45:00"
+  },
   "id": "126",
   "name": "Exeter",
+  "nationality": "royal-navy",
   "slug": "exeter"
 }

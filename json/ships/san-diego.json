@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:10:00"
+  },
   "id": "036",
   "name": "San Diego",
+  "nationality": "eagle-union",
   "slug": "san-diego"
 }

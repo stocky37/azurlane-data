@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "327",
   "name": "Fiji",
+  "nationality": "royal-navy",
   "slug": "fiji"
 }

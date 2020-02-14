@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "190",
   "name": "Furutaka",
+  "nationality": "sakura-empire",
   "slug": "furutaka"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "326",
   "name": "Musketeer",
+  "nationality": "royal-navy",
   "slug": "musketeer"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "Collab041",
   "name": "Kizuna AI",
+  "nationality": "kizunaai",
   "slug": "kizuna-ai"
 }

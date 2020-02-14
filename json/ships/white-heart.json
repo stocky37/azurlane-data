@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "02:26:00"
+  },
   "id": "Collab007",
   "name": "White Heart",
+  "nationality": "neptunia",
   "slug": "white-heart"
 }

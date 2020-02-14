@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:35:00"
+  },
   "id": "384",
   "name": "Akagi-chan",
+  "nationality": "sakura-empire",
   "slug": "akagi-chan"
 }

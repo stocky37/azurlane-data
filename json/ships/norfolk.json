@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "01:30:00"
+  },
   "id": "123",
   "name": "Norfolk",
+  "nationality": "royal-navy",
   "slug": "norfolk"
 }

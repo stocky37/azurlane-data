@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:15:00"
+  },
   "id": "412",
   "name": "Giulio Cesare",
+  "nationality": "sardegna-empire",
   "slug": "giulio-cesare"
 }

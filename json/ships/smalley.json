@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:28:00"
+  },
   "id": "417",
   "name": "Smalley",
+  "nationality": "eagle-union",
   "slug": "smalley"
 }

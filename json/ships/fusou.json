@@ -1,5 +1,10 @@
 {
+  "classification": "battleship-aviation-battleship",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "208",
   "name": "Fusou",
+  "nationality": "sakura-empire",
   "slug": "fusou"
 }

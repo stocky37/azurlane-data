@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "02:00:00"
+  },
   "id": "422",
   "name": "Admiral Hipper (Muse)",
+  "nationality": "ironblood",
   "slug": "admiral-hipper-muse"
 }

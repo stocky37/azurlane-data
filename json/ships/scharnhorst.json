@@ -1,5 +1,10 @@
 {
+  "classification": "battlecruiser",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "248",
   "name": "Scharnhorst",
+  "nationality": "ironblood",
   "slug": "scharnhorst"
 }

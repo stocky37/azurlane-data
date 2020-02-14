@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:10:00"
+  },
   "id": "035",
   "name": "Juneau",
+  "nationality": "eagle-union",
   "slug": "juneau"
 }

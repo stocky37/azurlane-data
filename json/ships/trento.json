@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "414",
   "name": "Trento",
+  "nationality": "sardegna-empire",
   "slug": "trento"
 }

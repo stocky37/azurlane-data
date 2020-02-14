@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:50:00"
+  },
   "id": "Collab044",
   "name": "Super Gamer Kizuna AI",
+  "nationality": "kizunaai",
   "slug": "super-gamer-kizuna-ai"
 }

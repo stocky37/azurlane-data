@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "429",
   "name": "Uranami",
+  "nationality": "sakura-empire",
   "slug": "uranami"
 }

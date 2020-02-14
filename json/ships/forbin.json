@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:23:00"
+  },
   "id": "348",
   "name": "Forbin",
+  "nationality": "iris-libre",
   "slug": "forbin"
 }

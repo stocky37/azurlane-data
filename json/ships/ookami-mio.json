@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "Cannot be constructed"
+  },
   "id": "Collab057",
   "name": "Ookami Mio",
+  "nationality": "hololive",
   "slug": "ookami-mio"
 }

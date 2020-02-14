@@ -1,5 +1,10 @@
 {
+  "classification": "battlecruiser",
+  "construction": {
+    "time": "04:10:00"
+  },
   "id": "207",
   "name": "Kirishima",
+  "nationality": "sakura-empire",
   "slug": "kirishima"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "02:22:00"
+  },
   "id": "426",
   "name": "Ryuuhou",
+  "nationality": "sakura-empire",
   "slug": "ryuuhou"
 }

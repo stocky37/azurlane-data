@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "253",
   "name": "An Shan",
+  "nationality": "eastern-radiance",
   "slug": "an-shan"
 }

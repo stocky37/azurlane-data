@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "Cannot be constructed"
+  },
   "id": "Collab056",
   "name": "Murasaki Shion",
+  "nationality": "hololive",
   "slug": "murasaki-shion"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:05:00"
+  },
   "id": "182",
   "name": "Nagara",
+  "nationality": "sakura-empire",
   "slug": "nagara"
 }

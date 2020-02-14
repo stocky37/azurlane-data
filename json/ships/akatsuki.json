@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "159",
   "name": "Akatsuki",
+  "nationality": "sakura-empire",
   "slug": "akatsuki"
 }

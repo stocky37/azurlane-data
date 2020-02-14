@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:26:00"
+  },
   "id": "096",
   "name": "Hardy",
+  "nationality": "royal-navy",
   "slug": "hardy"
 }

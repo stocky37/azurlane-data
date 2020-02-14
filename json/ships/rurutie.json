@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:48:00"
+  },
   "id": "Collab033",
   "name": "Rurutie",
+  "nationality": "utawarerumono",
   "slug": "rurutie"
 }

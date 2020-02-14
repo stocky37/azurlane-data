@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "02:15:00"
+  },
   "id": "070",
   "name": "Long Island",
+  "nationality": "eagle-union",
   "slug": "long-island"
 }

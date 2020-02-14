@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "02:05:00"
+  },
   "id": "201",
   "name": "Atago",
+  "nationality": "sakura-empire",
   "slug": "atago"
 }

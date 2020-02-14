@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:20:00"
+  },
   "id": "077",
   "name": "Enterprise",
+  "nationality": "eagle-union",
   "slug": "enterprise"
 }

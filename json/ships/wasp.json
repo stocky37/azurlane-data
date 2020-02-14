@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "Drop Only"
+  },
   "id": "079",
   "name": "Wasp",
+  "nationality": "eagle-union",
   "slug": "wasp"
 }

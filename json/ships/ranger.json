@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "02:40:00"
+  },
   "id": "075",
   "name": "Ranger",
+  "nationality": "eagle-union",
   "slug": "ranger"
 }

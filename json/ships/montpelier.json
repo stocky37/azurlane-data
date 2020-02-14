@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:25:00"
+  },
   "id": "329",
   "name": "Montpelier",
+  "nationality": "eagle-union",
   "slug": "montpelier"
 }

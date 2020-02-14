@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "00:55:00"
+  },
   "id": "371",
   "name": "Sirius",
+  "nationality": "royal-navy",
   "slug": "sirius"
 }

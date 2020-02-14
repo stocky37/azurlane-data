@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:21:00"
+  },
   "id": "274",
   "name": "Uzuki",
+  "nationality": "sakura-empire",
   "slug": "uzuki"
 }

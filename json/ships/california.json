@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:20:00"
+  },
   "id": "059",
   "name": "California",
+  "nationality": "eagle-union",
   "slug": "california"
 }

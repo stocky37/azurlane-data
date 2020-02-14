@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:15:00"
+  },
   "id": "033",
   "name": "Helena",
+  "nationality": "eagle-union",
   "slug": "helena"
 }

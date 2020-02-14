@@ -1,5 +1,10 @@
 {
+  "classification": "light-aircraft-carrier",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "377",
   "name": "Independence",
+  "nationality": "eagle-union",
   "slug": "independence"
 }

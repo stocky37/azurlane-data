@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "Collab001",
   "name": "HDN Neptune",
+  "nationality": "neptunia",
   "slug": "hdn-neptune"
 }

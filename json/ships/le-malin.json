@@ -1,5 +1,10 @@
 {
+  "classification": "destroyer",
+  "construction": {
+    "time": "00:33:00"
+  },
   "id": "394",
   "name": "Le Malin",
+  "nationality": "vichya-dominion",
   "slug": "le-malin"
 }

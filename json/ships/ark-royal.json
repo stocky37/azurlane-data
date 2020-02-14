@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:00:00"
+  },
   "id": "144",
   "name": "Ark Royal",
+  "nationality": "royal-navy",
   "slug": "ark-royal"
 }

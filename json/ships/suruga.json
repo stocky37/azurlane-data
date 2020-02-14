@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "04:20:00"
+  },
   "id": "425",
   "name": "Suruga",
+  "nationality": "sakura-empire",
   "slug": "suruga"
 }

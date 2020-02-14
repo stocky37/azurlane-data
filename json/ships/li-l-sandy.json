@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
   "id": "392",
   "name": "Li'l Sandy",
+  "nationality": "eagle-union",
   "slug": "li-l-sandy"
 }

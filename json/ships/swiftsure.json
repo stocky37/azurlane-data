@@ -1,5 +1,10 @@
 {
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "01:25:00"
+  },
   "id": "393",
   "name": "Swiftsure",
+  "nationality": "royal-navy",
   "slug": "swiftsure"
 }

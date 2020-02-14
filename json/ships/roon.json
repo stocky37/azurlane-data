@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "Research"
+  },
   "id": "Plan005",
   "name": "Roon",
+  "nationality": "ironblood",
   "slug": "roon"
 }

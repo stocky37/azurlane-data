@@ -1,5 +1,10 @@
 {
+  "classification": "heavy-cruiser",
+  "construction": {
+    "time": "01:40:00"
+  },
   "id": "042",
   "name": "Chicago",
+  "nationality": "eagle-union",
   "slug": "chicago"
 }

@@ -1,5 +1,10 @@
 {
+  "classification": "aircraft-carrier",
+  "construction": {
+    "time": "04:30:00"
+  },
   "id": "229",
   "name": "Zuikaku",
+  "nationality": "sakura-empire",
   "slug": "zuikaku"
 }

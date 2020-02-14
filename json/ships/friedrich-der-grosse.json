@@ -1,5 +1,10 @@
 {
+  "classification": "battleship",
+  "construction": {
+    "time": "Research"
+  },
   "id": "Plan011",
   "name": "Friedrich der Grosse",
+  "nationality": "ironblood",
   "slug": "friedrich-der-grosse"
 }
