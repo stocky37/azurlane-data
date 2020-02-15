@@ -12,7 +12,7 @@ class WikiSpider(Spider):
 
     def __init__(self, *args, **kwargs):
         super(WikiSpider, self).__init__(*args, **kwargs)
-        self.shipScraper = ShipScraper(self)
+        self.shipScraper = ShipScraper()
 
     def parse(self, response):
         for a in response.css("tr td:first-child a"):

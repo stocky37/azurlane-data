@@ -1,23 +1,21 @@
 import json
 
+from scrapy import Item
 
-class JsonPipeline(object):
+
+class JsonPipeline:
     def process_item(self, item, spider):
         filename = spider.settings.get("FILENAME_TEMPLATE").format(
-            item["_dir"], item["slug"]
+            item.dir, item["slug"]
         )
         with open(filename, "w", encoding="utf-8") as f:
-            json.dump(self.filter(item), f, indent=2, sort_keys=True)
+            json.dump(self.nested_dict(item), f, indent=2, sort_keys=True)
             f.write("\n")
         return item
 
-    def filter(self, item):
-        self.filter_meta_keys(item)
-        return item
-
-    @staticmethod
-    def filter_meta_keys(item):
-        for key in list(dict(item).keys()):
-            if key.startswith("_"):
-                del item[key]
-        return item
+    def nested_dict(self, item):
+        d = dict(item)
+        for key, value in d.items():
+            if isinstance(value, Item):
+                d[key] = self.nested_dict(value)
+        return d

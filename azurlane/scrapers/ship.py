@@ -1,20 +1,22 @@
-from azurlane.scrapers.scraper import Scraper
-from azurlane.scrapers.util import get_adjacent_cell_text
+from azurlane.items.ship import ShipLoader, ConstructionLoader
+from azurlane.scrapers.util import adjacent_cell_text_selector
 
 
-class ShipScraper(Scraper):
-    def parse(self, response, search_element="*"):
-        name = response.css("h1::text").get()
-        yield {
-            "_dir": "ships",
-            "id": self.text(get_adjacent_cell_text(response, "ID")),
-            "name": self.text(name),
-            "slug": self.slug(name),
-            "nationality": self.slug(get_adjacent_cell_text(response, "Nationality")),
-            "classification": self.slug(
-                get_adjacent_cell_text(response, "Classification")
-            ),
-            "construction": {
-                "time": self.text(get_adjacent_cell_text(response, "Construction Time"))
-            },
-        }
+class ShipScraper:
+    def parse(self, response):
+        loader = ShipLoader(response=response)
+        loader.add_xpath("id", adjacent_cell_text_selector("ID"))
+        loader.add_css("name", "h1::text")
+        loader.add_css("slug", "h1::text")
+        loader.add_xpath("nationality", adjacent_cell_text_selector("Nationality"))
+        loader.add_xpath(
+            "classification", adjacent_cell_text_selector("Classification")
+        )
+        loader.add_value("construction", self.parse_construction(response))
+        return loader.load_item()
+
+    @staticmethod
+    def parse_construction(response):
+        loader = ConstructionLoader(response=response)
+        loader.add_xpath("time", adjacent_cell_text_selector("Construction Time"))
+        return loader.load_item()

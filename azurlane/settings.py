@@ -67,8 +67,6 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    "azurlane.pipelines.filter.FilterPipeline": 10,
-    "azurlane.pipelines.merge.JsonMergePipeline": 200,
     "azurlane.pipelines.json.JsonPipeline": 300,
 }
 
