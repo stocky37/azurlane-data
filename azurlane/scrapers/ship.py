@@ -1,4 +1,4 @@
-from azurlane.items.ship import ShipLoader, ConstructionLoader
+from azurlane.items import ShipLoader, ConstructionLoader
 from azurlane.scrapers.util import adjacent_cell_text_selector
 
 

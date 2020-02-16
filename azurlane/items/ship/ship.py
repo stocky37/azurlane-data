@@ -3,11 +3,8 @@ from scrapy.loader import ItemLoader
 from scrapy.loader.processors import Compose, TakeFirst
 from slugify import slugify
 
+from azurlane.items.ship import Construction
 from azurlane.items.util import default_processor
-
-
-class Construction(Item):
-    time = Field()
 
 
 class Ship(Item):
@@ -18,11 +15,6 @@ class Ship(Item):
     nationality = Field()
     classification = Field()
     construction = Field(serializer=Construction)
-
-
-class ConstructionLoader(ItemLoader):
-    default_item_class = Construction
-    default_output_processor = default_processor()
 
 
 class ShipLoader(ItemLoader):

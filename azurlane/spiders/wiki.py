@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from scrapy import Spider
 
-from azurlane.scrapers.ship import ShipScraper
+from azurlane.scrapers import ShipScraper
 
 
 class WikiSpider(Spider):
