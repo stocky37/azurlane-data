@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "black-prince",
   "stats": {
-    "aa": 72,
-    "acc": 58,
-    "arm": "light",
-    "asw": 36,
-    "avi": 0,
-    "eva": 28,
-    "fp": 26,
-    "hp": 623,
-    "lck": 58,
-    "oil": 3,
-    "rld": 66
+    "base": {
+      "aa": 72,
+      "acc": 58,
+      "arm": "light",
+      "asw": 36,
+      "avi": 0,
+      "eva": 28,
+      "fp": 26,
+      "hp": 623,
+      "lck": 58,
+      "oil": 3,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 336,
+      "acc": 151,
+      "arm": "light",
+      "asw": 131,
+      "avi": 0,
+      "eva": 73,
+      "fp": 123,
+      "hp": 3221,
+      "lck": 58,
+      "oil": 10,
+      "rld": 156
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 377,
+      "acc": 169,
+      "arm": "light",
+      "asw": 148,
+      "avi": 0,
+      "eva": 98,
+      "fp": 142,
+      "hp": 3608,
+      "lck": 58,
+      "oil": 10,
+      "rld": 179
+    },
+    "lvl120retro": {}
   }
 }

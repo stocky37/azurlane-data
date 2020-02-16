@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "cavalla",
   "stats": {
-    "aa": 0,
-    "acc": 66,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 12,
-    "hp": 306,
-    "lck": 78,
-    "oil": 2,
-    "rld": 34
+    "base": {
+      "aa": 0,
+      "acc": 66,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 12,
+      "hp": 306,
+      "lck": 78,
+      "oil": 2,
+      "rld": 34
+    },
+    "lvl100": {
+      "aa": 0,
+      "acc": 171,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 22,
+      "fp": 57,
+      "hp": 1582,
+      "lck": 78,
+      "oil": 7,
+      "rld": 81
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 0,
+      "acc": 192,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 41,
+      "fp": 65,
+      "hp": 1899,
+      "lck": 78,
+      "oil": 7,
+      "rld": 93
+    },
+    "lvl120retro": {}
   }
 }

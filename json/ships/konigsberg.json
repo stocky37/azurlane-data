@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "konigsberg",
   "stats": {
-    "aa": 63,
-    "acc": 51,
-    "arm": "light",
-    "asw": 25,
-    "avi": 0,
-    "eva": 29,
-    "fp": 28,
-    "hp": 578,
-    "lck": 42,
-    "oil": 2,
-    "rld": 64
+    "base": {
+      "aa": 63,
+      "acc": 51,
+      "arm": "light",
+      "asw": 25,
+      "avi": 0,
+      "eva": 29,
+      "fp": 28,
+      "hp": 578,
+      "lck": 42,
+      "oil": 2,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 295,
+      "acc": 133,
+      "arm": "light",
+      "asw": 91,
+      "avi": 0,
+      "eva": 76,
+      "fp": 133,
+      "hp": 2989,
+      "lck": 42,
+      "oil": 8,
+      "rld": 152
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 333,
+      "acc": 153,
+      "arm": "light",
+      "asw": 104,
+      "avi": 0,
+      "eva": 100,
+      "fp": 152,
+      "hp": 3372,
+      "lck": 42,
+      "oil": 8,
+      "rld": 175
+    },
+    "lvl120retro": {}
   }
 }

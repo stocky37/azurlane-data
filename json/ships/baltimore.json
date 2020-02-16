@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "baltimore",
   "stats": {
-    "aa": 49,
-    "acc": 45,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 50,
-    "hp": 793,
-    "lck": 56,
-    "oil": 4,
-    "rld": 68
+    "base": {
+      "aa": 49,
+      "acc": 45,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 50,
+      "hp": 793,
+      "lck": 56,
+      "oil": 4,
+      "rld": 68
+    },
+    "lvl100": {
+      "aa": 227,
+      "acc": 116,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 236,
+      "hp": 4099,
+      "lck": 56,
+      "oil": 12,
+      "rld": 160
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 260,
+      "acc": 136,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 57,
+      "fp": 270,
+      "hp": 4591,
+      "lck": 56,
+      "oil": 12,
+      "rld": 184
+    },
+    "lvl120retro": {}
   }
 }

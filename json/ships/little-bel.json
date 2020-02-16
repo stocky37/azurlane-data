@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "little-bel",
   "stats": {
-    "aa": 53,
-    "acc": 55,
-    "arm": "light",
-    "asw": 36,
-    "avi": 0,
-    "eva": 28,
-    "fp": 29,
-    "hp": 558,
-    "lck": 89,
-    "oil": 3,
-    "rld": 68
+    "base": {
+      "aa": 53,
+      "acc": 55,
+      "arm": "light",
+      "asw": 36,
+      "avi": 0,
+      "eva": 28,
+      "fp": 29,
+      "hp": 558,
+      "lck": 89,
+      "oil": 3,
+      "rld": 68
+    },
+    "lvl100": {
+      "aa": 247,
+      "acc": 143,
+      "arm": "light",
+      "asw": 131,
+      "avi": 0,
+      "eva": 72,
+      "fp": 138,
+      "hp": 2885,
+      "lck": 89,
+      "oil": 10,
+      "rld": 161
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 282,
+      "acc": 160,
+      "arm": "light",
+      "asw": 147,
+      "avi": 0,
+      "eva": 96,
+      "fp": 159,
+      "hp": 3231,
+      "lck": 89,
+      "oil": 10,
+      "rld": 185
+    },
+    "lvl120retro": {}
   }
 }

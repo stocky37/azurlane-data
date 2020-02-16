@@ -8,16 +8,46 @@
   "nationality": "hololive",
   "slug": "murasaki-shion",
   "stats": {
-    "aa": 48,
-    "acc": 28,
-    "arm": "medium",
-    "asw": 17,
-    "avi": 58,
-    "eva": 19,
-    "fp": 0,
-    "hp": 835,
-    "lck": 85,
-    "oil": 3,
-    "rld": 64
+    "base": {
+      "aa": 48,
+      "acc": 28,
+      "arm": "medium",
+      "asw": 17,
+      "avi": 58,
+      "eva": 19,
+      "fp": 0,
+      "hp": 835,
+      "lck": 85,
+      "oil": 3,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 222,
+      "acc": 73,
+      "arm": "medium",
+      "asw": 63,
+      "avi": 274,
+      "eva": 49,
+      "fp": 0,
+      "hp": 4315,
+      "lck": 85,
+      "oil": 11,
+      "rld": 152
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 255,
+      "acc": 81,
+      "arm": "medium",
+      "asw": 72,
+      "avi": 311,
+      "eva": 68,
+      "fp": 0,
+      "hp": 5178,
+      "lck": 85,
+      "oil": 11,
+      "rld": 174
+    },
+    "lvl120retro": {}
   }
 }

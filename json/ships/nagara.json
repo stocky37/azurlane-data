@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "nagara",
   "stats": {
-    "aa": 52,
-    "acc": 50,
-    "arm": "light",
-    "asw": 20,
-    "avi": 0,
-    "eva": 31,
-    "fp": 26,
-    "hp": 493,
-    "lck": 36,
-    "oil": 2,
-    "rld": 64
+    "base": {
+      "aa": 52,
+      "acc": 50,
+      "arm": "light",
+      "asw": 20,
+      "avi": 0,
+      "eva": 31,
+      "fp": 26,
+      "hp": 493,
+      "lck": 36,
+      "oil": 2,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 243,
+      "acc": 129,
+      "arm": "light",
+      "asw": 73,
+      "avi": 0,
+      "eva": 80,
+      "fp": 122,
+      "hp": 2547,
+      "lck": 36,
+      "oil": 8,
+      "rld": 150
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 278,
+      "acc": 145,
+      "arm": "light",
+      "asw": 84,
+      "avi": 0,
+      "eva": 105,
+      "fp": 140,
+      "hp": 2891,
+      "lck": 36,
+      "oil": 8,
+      "rld": 173
+    },
+    "lvl120retro": {}
   }
 }

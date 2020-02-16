@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "lena",
   "stats": {
-    "aa": 60,
-    "acc": 59,
-    "arm": "light",
-    "asw": 26,
-    "avi": 0,
-    "eva": 28,
-    "fp": 31,
-    "hp": 558,
-    "lck": 33,
-    "oil": 3,
-    "rld": 68
+    "base": {
+      "aa": 60,
+      "acc": 59,
+      "arm": "light",
+      "asw": 26,
+      "avi": 0,
+      "eva": 28,
+      "fp": 31,
+      "hp": 558,
+      "lck": 33,
+      "oil": 3,
+      "rld": 68
+    },
+    "lvl100": {
+      "aa": 279,
+      "acc": 153,
+      "arm": "light",
+      "asw": 94,
+      "avi": 0,
+      "eva": 73,
+      "fp": 145,
+      "hp": 2885,
+      "lck": 33,
+      "oil": 10,
+      "rld": 161
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 316,
+      "acc": 172,
+      "arm": "light",
+      "asw": 107,
+      "avi": 0,
+      "eva": 91,
+      "fp": 167,
+      "hp": 3246,
+      "lck": 33,
+      "oil": 10,
+      "rld": 185
+    },
+    "lvl120retro": {}
   }
 }

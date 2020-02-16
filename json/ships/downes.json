@@ -8,16 +8,70 @@
   "nationality": "eagle-union",
   "slug": "downes",
   "stats": {
-    "aa": 31,
-    "acc": 67,
-    "arm": "light",
-    "asw": 44,
-    "avi": 0,
-    "eva": 60,
-    "fp": 14,
-    "hp": 280,
-    "lck": 63,
-    "oil": 1,
-    "rld": 70
+    "base": {
+      "aa": 31,
+      "acc": 67,
+      "arm": "light",
+      "asw": 44,
+      "avi": 0,
+      "eva": 60,
+      "fp": 14,
+      "hp": 280,
+      "lck": 63,
+      "oil": 1,
+      "rld": 70
+    },
+    "lvl100": {
+      "aa": 146,
+      "acc": 174,
+      "arm": "light",
+      "asw": 162,
+      "avi": 0,
+      "eva": 156,
+      "fp": 66,
+      "hp": 1446,
+      "lck": 63,
+      "oil": 7,
+      "rld": 165
+    },
+    "lvl100retro": {
+      "aa": 146,
+      "acc": 174,
+      "arm": "light",
+      "asw": 162,
+      "avi": 0,
+      "eva": 181,
+      "fp": 91,
+      "hp": 1611,
+      "lck": 63,
+      "oil": 7,
+      "rld": 185
+    },
+    "lvl120": {
+      "aa": 168,
+      "acc": 182,
+      "arm": "light",
+      "asw": 181,
+      "avi": 0,
+      "eva": 162,
+      "fp": 76,
+      "hp": 1735,
+      "lck": 63,
+      "oil": 7,
+      "rld": 190
+    },
+    "lvl120retro": {
+      "aa": 168,
+      "acc": 182,
+      "arm": "light",
+      "asw": 181,
+      "avi": 0,
+      "eva": 187,
+      "fp": 101,
+      "hp": 1900,
+      "lck": 63,
+      "oil": 7,
+      "rld": 210
+    }
   }
 }

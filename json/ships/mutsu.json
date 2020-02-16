@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "mutsu",
   "stats": {
-    "aa": 34,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 6,
-    "fp": 78,
-    "hp": 1309,
-    "lck": 34,
-    "oil": 5,
-    "rld": 53
+    "base": {
+      "aa": 34,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 6,
+      "fp": 78,
+      "hp": 1309,
+      "lck": 34,
+      "oil": 5,
+      "rld": 53
+    },
+    "lvl100": {
+      "aa": 161,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 16,
+      "fp": 368,
+      "hp": 6766,
+      "lck": 34,
+      "oil": 14,
+      "rld": 126
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 185,
+      "acc": 71,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 34,
+      "fp": 409,
+      "hp": 7896,
+      "lck": 34,
+      "oil": 14,
+      "rld": 145
+    },
+    "lvl120retro": {}
   }
 }

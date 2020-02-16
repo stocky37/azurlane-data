@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "spence",
   "stats": {
-    "aa": 32,
-    "acc": 72,
-    "arm": "light",
-    "asw": 50,
-    "avi": 0,
-    "eva": 59,
-    "fp": 15,
-    "hp": 325,
-    "lck": 20,
-    "oil": 1,
-    "rld": 72
+    "base": {
+      "aa": 32,
+      "acc": 72,
+      "arm": "light",
+      "asw": 50,
+      "avi": 0,
+      "eva": 59,
+      "fp": 15,
+      "hp": 325,
+      "lck": 20,
+      "oil": 1,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 148,
+      "acc": 188,
+      "arm": "light",
+      "asw": 183,
+      "avi": 0,
+      "eva": 154,
+      "fp": 72,
+      "hp": 1679,
+      "lck": 20,
+      "oil": 7,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 171,
+      "acc": 197,
+      "arm": "light",
+      "asw": 202,
+      "avi": 0,
+      "eva": 158,
+      "fp": 82,
+      "hp": 1998,
+      "lck": 20,
+      "oil": 7,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

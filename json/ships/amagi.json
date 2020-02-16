@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "amagi",
   "stats": {
-    "aa": 35,
-    "acc": 21,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 80,
-    "hp": 1260,
-    "lck": 23,
-    "oil": 5,
-    "rld": 54
+    "base": {
+      "aa": 35,
+      "acc": 21,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 80,
+      "hp": 1260,
+      "lck": 23,
+      "oil": 5,
+      "rld": 54
+    },
+    "lvl100": {
+      "aa": 162,
+      "acc": 55,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 379,
+      "hp": 6514,
+      "lck": 23,
+      "oil": 15,
+      "rld": 129
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 187,
+      "acc": 68,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 41,
+      "fp": 421,
+      "hp": 7654,
+      "lck": 23,
+      "oil": 15,
+      "rld": 148
+    },
+    "lvl120retro": {}
   }
 }

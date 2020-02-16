@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "prince-of-wales",
   "stats": {
-    "aa": 43,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 82,
-    "hp": 1334,
-    "lck": 19,
-    "oil": 5,
-    "rld": 57
+    "base": {
+      "aa": 43,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 82,
+      "hp": 1334,
+      "lck": 19,
+      "oil": 5,
+      "rld": 57
+    },
+    "lvl100": {
+      "aa": 200,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 387,
+      "hp": 6897,
+      "lck": 19,
+      "oil": 15,
+      "rld": 136
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 230,
+      "acc": 69,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 35,
+      "fp": 422,
+      "hp": 7967,
+      "lck": 19,
+      "oil": 15,
+      "rld": 156
+    },
+    "lvl120retro": {}
   }
 }

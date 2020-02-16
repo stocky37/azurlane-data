@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "monarch",
   "stats": {
-    "aa": 43,
-    "acc": 21,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 83,
-    "hp": 1334,
-    "lck": 0,
-    "oil": 9,
-    "rld": 62
+    "base": {
+      "aa": 43,
+      "acc": 21,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 83,
+      "hp": 1334,
+      "lck": 0,
+      "oil": 9,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 200,
+      "acc": 54,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 388,
+      "hp": 6897,
+      "lck": 0,
+      "oil": 16,
+      "rld": 146
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 230,
+      "acc": 66,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 35,
+      "fp": 423,
+      "hp": 7967,
+      "lck": 0,
+      "oil": 16,
+      "rld": 168
+    },
+    "lvl120retro": {}
   }
 }

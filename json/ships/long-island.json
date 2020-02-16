@@ -8,16 +8,70 @@
   "nationality": "eagle-union",
   "slug": "long-island",
   "stats": {
-    "aa": 48,
-    "acc": 28,
-    "arm": "medium",
-    "asw": 24,
-    "avi": 52,
-    "eva": 15,
-    "fp": 0,
-    "hp": 782,
-    "lck": 68,
-    "oil": 3,
-    "rld": 67
+    "base": {
+      "aa": 48,
+      "acc": 28,
+      "arm": "medium",
+      "asw": 24,
+      "avi": 52,
+      "eva": 15,
+      "fp": 0,
+      "hp": 782,
+      "lck": 68,
+      "oil": 3,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 224,
+      "acc": 72,
+      "arm": "medium",
+      "asw": 88,
+      "avi": 246,
+      "eva": 39,
+      "fp": 0,
+      "hp": 4044,
+      "lck": 68,
+      "oil": 10,
+      "rld": 158
+    },
+    "lvl100retro": {
+      "aa": 259,
+      "acc": 72,
+      "arm": "medium",
+      "asw": 88,
+      "avi": 306,
+      "eva": 39,
+      "fp": 0,
+      "hp": 4254,
+      "lck": 68,
+      "oil": 10,
+      "rld": 163
+    },
+    "lvl120": {
+      "aa": 257,
+      "acc": 86,
+      "arm": "medium",
+      "asw": 100,
+      "avi": 280,
+      "eva": 66,
+      "fp": 0,
+      "hp": 4691,
+      "lck": 68,
+      "oil": 10,
+      "rld": 182
+    },
+    "lvl120retro": {
+      "aa": 292,
+      "acc": 86,
+      "arm": "medium",
+      "asw": 100,
+      "avi": 340,
+      "eva": 66,
+      "fp": 0,
+      "hp": 4901,
+      "lck": 68,
+      "oil": 10,
+      "rld": 187
+    }
   }
 }

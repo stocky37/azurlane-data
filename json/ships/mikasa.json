@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "mikasa",
   "stats": {
-    "aa": 32,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 3,
-    "fp": 63,
-    "hp": 884,
-    "lck": 95,
-    "oil": 5,
-    "rld": 60
+    "base": {
+      "aa": 32,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 3,
+      "fp": 63,
+      "hp": 884,
+      "lck": 95,
+      "oil": 5,
+      "rld": 60
+    },
+    "lvl100": {
+      "aa": 150,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 296,
+      "hp": 4572,
+      "lck": 95,
+      "oil": 14,
+      "rld": 142
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 172,
+      "acc": 72,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 25,
+      "fp": 334,
+      "hp": 5372,
+      "lck": 95,
+      "oil": 14,
+      "rld": 163
+    },
+    "lvl120retro": {}
   }
 }

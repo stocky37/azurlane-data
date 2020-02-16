@@ -8,16 +8,46 @@
   "nationality": "eastern-radiance",
   "slug": "yat-sen",
   "stats": {
-    "aa": 66,
-    "acc": 50,
-    "arm": "light",
-    "asw": 13,
-    "avi": 0,
-    "eva": 24,
-    "fp": 22,
-    "hp": 328,
-    "lck": 64,
-    "oil": 3,
-    "rld": 67
+    "base": {
+      "aa": 66,
+      "acc": 50,
+      "arm": "light",
+      "asw": 13,
+      "avi": 0,
+      "eva": 24,
+      "fp": 22,
+      "hp": 328,
+      "lck": 64,
+      "oil": 3,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 307,
+      "acc": 131,
+      "arm": "light",
+      "asw": 48,
+      "avi": 0,
+      "eva": 62,
+      "fp": 104,
+      "hp": 1698,
+      "lck": 64,
+      "oil": 10,
+      "rld": 159
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 347,
+      "acc": 146,
+      "arm": "light",
+      "asw": 55,
+      "avi": 0,
+      "eva": 79,
+      "fp": 120,
+      "hp": 1884,
+      "lck": 64,
+      "oil": 10,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

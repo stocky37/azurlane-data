@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "friedrich-der-grosse",
   "stats": {
-    "aa": 45,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 87,
-    "hp": 1634,
-    "lck": 0,
-    "oil": 10,
-    "rld": 58
+    "base": {
+      "aa": 45,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 87,
+      "hp": 1634,
+      "lck": 0,
+      "oil": 10,
+      "rld": 58
+    },
+    "lvl100": {
+      "aa": 210,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 21,
+      "fp": 407,
+      "hp": 8449,
+      "lck": 0,
+      "oil": 19,
+      "rld": 137
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 241,
+      "acc": 65,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 27,
+      "fp": 449,
+      "hp": 9886,
+      "lck": 0,
+      "oil": 19,
+      "rld": 157
+    },
+    "lvl120retro": {}
   }
 }

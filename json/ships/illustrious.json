@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "illustrious",
   "stats": {
-    "aa": 56,
-    "acc": 31,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 76,
-    "eva": 13,
-    "fp": 0,
-    "hp": 1123,
-    "lck": 44,
-    "oil": 4,
-    "rld": 43
+    "base": {
+      "aa": 56,
+      "acc": 31,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 76,
+      "eva": 13,
+      "fp": 0,
+      "hp": 1123,
+      "lck": 44,
+      "oil": 4,
+      "rld": 43
+    },
+    "lvl100": {
+      "aa": 260,
+      "acc": 81,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 358,
+      "eva": 33,
+      "fp": 0,
+      "hp": 5806,
+      "lck": 44,
+      "oil": 13,
+      "rld": 102
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 296,
+      "acc": 91,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 400,
+      "eva": 53,
+      "fp": 0,
+      "hp": 6561,
+      "lck": 44,
+      "oil": 13,
+      "rld": 117
+    },
+    "lvl120retro": {}
   }
 }

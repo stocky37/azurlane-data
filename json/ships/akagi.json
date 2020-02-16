@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "akagi",
   "stats": {
-    "aa": 61,
-    "acc": 31,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 78,
-    "eva": 13,
-    "fp": 0,
-    "hp": 1128,
-    "lck": 42,
-    "oil": 4,
-    "rld": 48
+    "base": {
+      "aa": 61,
+      "acc": 31,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 78,
+      "eva": 13,
+      "fp": 0,
+      "hp": 1128,
+      "lck": 42,
+      "oil": 4,
+      "rld": 48
+    },
+    "lvl100": {
+      "aa": 285,
+      "acc": 80,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 368,
+      "eva": 33,
+      "fp": 0,
+      "hp": 5830,
+      "lck": 42,
+      "oil": 13,
+      "rld": 114
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 323,
+      "acc": 90,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 409,
+      "eva": 54,
+      "fp": 0,
+      "hp": 6588,
+      "lck": 42,
+      "oil": 13,
+      "rld": 131
+    },
+    "lvl120retro": {}
   }
 }

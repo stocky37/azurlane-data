@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "astoria",
   "stats": {
-    "aa": 42,
-    "acc": 40,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 40,
-    "hp": 670,
-    "lck": 15,
-    "oil": 3,
-    "rld": 59
+    "base": {
+      "aa": 42,
+      "acc": 40,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 40,
+      "hp": 670,
+      "lck": 15,
+      "oil": 3,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 196,
+      "acc": 104,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 190,
+      "hp": 3465,
+      "lck": 15,
+      "oil": 11,
+      "rld": 140
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 226,
+      "acc": 122,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 57,
+      "fp": 218,
+      "hp": 3881,
+      "lck": 15,
+      "oil": 11,
+      "rld": 161
+    },
+    "lvl120retro": {}
   }
 }

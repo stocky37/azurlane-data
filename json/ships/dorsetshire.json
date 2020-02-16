@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "dorsetshire",
   "stats": {
-    "aa": 47,
-    "acc": 38,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 34,
-    "hp": 821,
-    "lck": 33,
-    "oil": 3,
-    "rld": 61
+    "base": {
+      "aa": 47,
+      "acc": 38,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 34,
+      "hp": 821,
+      "lck": 33,
+      "oil": 3,
+      "rld": 61
+    },
+    "lvl100": {
+      "aa": 217,
+      "acc": 99,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 159,
+      "hp": 4246,
+      "lck": 33,
+      "oil": 10,
+      "rld": 144
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 249,
+      "acc": 116,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 68,
+      "fp": 182,
+      "hp": 4755,
+      "lck": 33,
+      "oil": 10,
+      "rld": 165
+    },
+    "lvl120retro": {}
   }
 }

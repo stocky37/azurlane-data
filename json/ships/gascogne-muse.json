@@ -8,16 +8,46 @@
   "nationality": "vichya-dominion",
   "slug": "gascogne-muse",
   "stats": {
-    "aa": 44,
-    "acc": 24,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 10,
-    "fp": 82,
-    "hp": 1332,
-    "lck": 0,
-    "oil": 5,
-    "rld": 62
+    "base": {
+      "aa": 44,
+      "acc": 24,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 10,
+      "fp": 82,
+      "hp": 1332,
+      "lck": 0,
+      "oil": 5,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 206,
+      "acc": 63,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 26,
+      "fp": 387,
+      "hp": 6887,
+      "lck": 0,
+      "oil": 15,
+      "rld": 146
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 237,
+      "acc": 71,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 37,
+      "fp": 429,
+      "hp": 7851,
+      "lck": 0,
+      "oil": 15,
+      "rld": 168
+    },
+    "lvl120retro": {}
   }
 }

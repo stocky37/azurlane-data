@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "houshou",
   "stats": {
-    "aa": 48,
-    "acc": 26,
-    "arm": "medium",
-    "asw": 22,
-    "avi": 53,
-    "eva": 18,
-    "fp": 0,
-    "hp": 599,
-    "lck": 79,
-    "oil": 3,
-    "rld": 65
+    "base": {
+      "aa": 48,
+      "acc": 26,
+      "arm": "medium",
+      "asw": 22,
+      "avi": 53,
+      "eva": 18,
+      "fp": 0,
+      "hp": 599,
+      "lck": 79,
+      "oil": 3,
+      "rld": 65
+    },
+    "lvl100": {
+      "aa": 224,
+      "acc": 68,
+      "arm": "medium",
+      "asw": 81,
+      "avi": 251,
+      "eva": 47,
+      "fp": 0,
+      "hp": 3095,
+      "lck": 79,
+      "oil": 11,
+      "rld": 153
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 257,
+      "acc": 81,
+      "arm": "medium",
+      "asw": 92,
+      "avi": 286,
+      "eva": 66,
+      "fp": 0,
+      "hp": 3621,
+      "lck": 79,
+      "oil": 11,
+      "rld": 176
+    },
+    "lvl120retro": {}
   }
 }

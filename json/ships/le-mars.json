@@ -8,16 +8,70 @@
   "nationality": "vichya-dominion",
   "slug": "le-mars",
   "stats": {
-    "aa": 26,
-    "acc": 68,
-    "arm": "light",
-    "asw": 46,
-    "avi": 0,
-    "eva": 74,
-    "fp": 13,
-    "hp": 222,
-    "lck": 24,
-    "oil": 2,
-    "rld": 71
+    "base": {
+      "aa": 26,
+      "acc": 68,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 74,
+      "fp": 13,
+      "hp": 222,
+      "lck": 24,
+      "oil": 2,
+      "rld": 71
+    },
+    "lvl100": {
+      "aa": 120,
+      "acc": 177,
+      "arm": "light",
+      "asw": 168,
+      "avi": 0,
+      "eva": 193,
+      "fp": 60,
+      "hp": 1147,
+      "lck": 24,
+      "oil": 8,
+      "rld": 168
+    },
+    "lvl100retro": {
+      "aa": 165,
+      "acc": 177,
+      "arm": "light",
+      "asw": 183,
+      "avi": 0,
+      "eva": 193,
+      "fp": 80,
+      "hp": 1207,
+      "lck": 24,
+      "oil": 8,
+      "rld": 168
+    },
+    "lvl120": {
+      "aa": 138,
+      "acc": 186,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 200,
+      "fp": 69,
+      "hp": 1376,
+      "lck": 24,
+      "oil": 8,
+      "rld": 193
+    },
+    "lvl120retro": {
+      "aa": 183,
+      "acc": 186,
+      "arm": "light",
+      "asw": 202,
+      "avi": 0,
+      "eva": 200,
+      "fp": 89,
+      "hp": 1436,
+      "lck": 24,
+      "oil": 8,
+      "rld": 193
+    }
   }
 }

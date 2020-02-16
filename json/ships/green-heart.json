@@ -8,16 +8,46 @@
   "nationality": "neptunia",
   "slug": "green-heart",
   "stats": {
-    "aa": 56,
-    "acc": 30,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 75,
-    "eva": 14,
-    "fp": 0,
-    "hp": 972,
-    "lck": 95,
-    "oil": 4,
-    "rld": 42
+    "base": {
+      "aa": 56,
+      "acc": 30,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 75,
+      "eva": 14,
+      "fp": 0,
+      "hp": 972,
+      "lck": 95,
+      "oil": 4,
+      "rld": 42
+    },
+    "lvl100": {
+      "aa": 262,
+      "acc": 79,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 354,
+      "eva": 36,
+      "fp": 0,
+      "hp": 5027,
+      "lck": 95,
+      "oil": 13,
+      "rld": 100
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 298,
+      "acc": 86,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 395,
+      "eva": 55,
+      "fp": 0,
+      "hp": 5781,
+      "lck": 95,
+      "oil": 13,
+      "rld": 115
+    },
+    "lvl120retro": {}
   }
 }

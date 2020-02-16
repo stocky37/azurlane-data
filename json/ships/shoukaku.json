@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "shoukaku",
   "stats": {
-    "aa": 66,
-    "acc": 30,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 79,
-    "eva": 14,
-    "fp": 0,
-    "hp": 1152,
-    "lck": 49,
-    "oil": 4,
-    "rld": 44
+    "base": {
+      "aa": 66,
+      "acc": 30,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 79,
+      "eva": 14,
+      "fp": 0,
+      "hp": 1152,
+      "lck": 49,
+      "oil": 4,
+      "rld": 44
+    },
+    "lvl100": {
+      "aa": 310,
+      "acc": 78,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 370,
+      "eva": 36,
+      "fp": 0,
+      "hp": 5954,
+      "lck": 49,
+      "oil": 13,
+      "rld": 104
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 349,
+      "acc": 87,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 412,
+      "eva": 56,
+      "fp": 0,
+      "hp": 6729,
+      "lck": 49,
+      "oil": 13,
+      "rld": 120
+    },
+    "lvl120retro": {}
   }
 }

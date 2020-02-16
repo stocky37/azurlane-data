@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "ashigara",
   "stats": {
-    "aa": 32,
-    "acc": 43,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 13,
-    "fp": 43,
-    "hp": 732,
-    "lck": 60,
-    "oil": 3,
-    "rld": 62
+    "base": {
+      "aa": 32,
+      "acc": 43,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 13,
+      "fp": 43,
+      "hp": 732,
+      "lck": 60,
+      "oil": 3,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 148,
+      "acc": 111,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 203,
+      "hp": 3783,
+      "lck": 60,
+      "oil": 11,
+      "rld": 146
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 171,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 75,
+      "fp": 234,
+      "hp": 4162,
+      "lck": 60,
+      "oil": 11,
+      "rld": 168
+    },
+    "lvl120retro": {}
   }
 }

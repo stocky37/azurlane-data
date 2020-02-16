@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "indianapolis",
   "stats": {
-    "aa": 47,
-    "acc": 41,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 10,
-    "fp": 39,
-    "hp": 818,
-    "lck": 23,
-    "oil": 3,
-    "rld": 64
+    "base": {
+      "aa": 47,
+      "acc": 41,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 10,
+      "fp": 39,
+      "hp": 818,
+      "lck": 23,
+      "oil": 3,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 219,
+      "acc": 107,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 25,
+      "fp": 183,
+      "hp": 4227,
+      "lck": 23,
+      "oil": 11,
+      "rld": 152
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 252,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 58,
+      "fp": 210,
+      "hp": 4734,
+      "lck": 23,
+      "oil": 11,
+      "rld": 174
+    },
+    "lvl120retro": {}
   }
 }

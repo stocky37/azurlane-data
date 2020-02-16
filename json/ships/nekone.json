@@ -8,16 +8,46 @@
   "nationality": "utawarerumono",
   "slug": "nekone",
   "stats": {
-    "aa": 39,
-    "acc": 74,
-    "arm": "light",
-    "asw": 39,
-    "avi": 0,
-    "eva": 70,
-    "fp": 18,
-    "hp": 313,
-    "lck": 52,
-    "oil": 3,
-    "rld": 73
+    "base": {
+      "aa": 39,
+      "acc": 74,
+      "arm": "light",
+      "asw": 39,
+      "avi": 0,
+      "eva": 70,
+      "fp": 18,
+      "hp": 313,
+      "lck": 52,
+      "oil": 3,
+      "rld": 73
+    },
+    "lvl100": {
+      "aa": 183,
+      "acc": 193,
+      "arm": "light",
+      "asw": 144,
+      "avi": 0,
+      "eva": 183,
+      "fp": 85,
+      "hp": 1617,
+      "lck": 52,
+      "oil": 10,
+      "rld": 173
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 210,
+      "acc": 202,
+      "arm": "light",
+      "asw": 162,
+      "avi": 0,
+      "eva": 189,
+      "fp": 98,
+      "hp": 1941,
+      "lck": 52,
+      "oil": 10,
+      "rld": 199
+    },
+    "lvl120retro": {}
   }
 }

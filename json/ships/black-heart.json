@@ -8,16 +8,46 @@
   "nationality": "neptunia",
   "slug": "black-heart",
   "stats": {
-    "aa": 36,
-    "acc": 44,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 13,
-    "fp": 46,
-    "hp": 698,
-    "lck": 83,
-    "oil": 4,
-    "rld": 62
+    "base": {
+      "aa": 36,
+      "acc": 44,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 13,
+      "fp": 46,
+      "hp": 698,
+      "lck": 83,
+      "oil": 4,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 168,
+      "acc": 114,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 218,
+      "hp": 3610,
+      "lck": 83,
+      "oil": 12,
+      "rld": 148
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 193,
+      "acc": 126,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 68,
+      "fp": 251,
+      "hp": 4062,
+      "lck": 83,
+      "oil": 12,
+      "rld": 170
+    },
+    "lvl120retro": {}
   }
 }

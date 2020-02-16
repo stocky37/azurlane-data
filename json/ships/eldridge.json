@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "eldridge",
   "stats": {
-    "aa": 34,
-    "acc": 71,
-    "arm": "light",
-    "asw": 56,
-    "avi": 0,
-    "eva": 78,
-    "fp": 15,
-    "hp": 277,
-    "lck": 75,
-    "oil": 3,
-    "rld": 85
+    "base": {
+      "aa": 34,
+      "acc": 71,
+      "arm": "light",
+      "asw": 56,
+      "avi": 0,
+      "eva": 78,
+      "fp": 15,
+      "hp": 277,
+      "lck": 75,
+      "oil": 3,
+      "rld": 85
+    },
+    "lvl100": {
+      "aa": 159,
+      "acc": 184,
+      "arm": "light",
+      "asw": 205,
+      "avi": 0,
+      "eva": 203,
+      "fp": 70,
+      "hp": 1433,
+      "lck": 75,
+      "oil": 10,
+      "rld": 201
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 183,
+      "acc": 194,
+      "arm": "light",
+      "asw": 226,
+      "avi": 0,
+      "eva": 211,
+      "fp": 81,
+      "hp": 1720,
+      "lck": 75,
+      "oil": 10,
+      "rld": 231
+    },
+    "lvl120retro": {}
   }
 }

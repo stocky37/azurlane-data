@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "norfolk",
   "stats": {
-    "aa": 45,
-    "acc": 38,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 33,
-    "hp": 798,
-    "lck": 69,
-    "oil": 3,
-    "rld": 59
+    "base": {
+      "aa": 45,
+      "acc": 38,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 33,
+      "hp": 798,
+      "lck": 69,
+      "oil": 3,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 210,
+      "acc": 99,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 154,
+      "hp": 4126,
+      "lck": 69,
+      "oil": 10,
+      "rld": 139
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 241,
+      "acc": 116,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 68,
+      "fp": 178,
+      "hp": 4621,
+      "lck": 69,
+      "oil": 10,
+      "rld": 160
+    },
+    "lvl120retro": {}
   }
 }

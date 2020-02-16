@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "montpelier",
   "stats": {
-    "aa": 63,
-    "acc": 56,
-    "arm": "light",
-    "asw": 25,
-    "avi": 0,
-    "eva": 30,
-    "fp": 31,
-    "hp": 760,
-    "lck": 72,
-    "oil": 3,
-    "rld": 71
+    "base": {
+      "aa": 63,
+      "acc": 56,
+      "arm": "light",
+      "asw": 25,
+      "avi": 0,
+      "eva": 30,
+      "fp": 31,
+      "hp": 760,
+      "lck": 72,
+      "oil": 3,
+      "rld": 71
+    },
+    "lvl100": {
+      "aa": 295,
+      "acc": 146,
+      "arm": "light",
+      "asw": 91,
+      "avi": 0,
+      "eva": 77,
+      "fp": 148,
+      "hp": 3929,
+      "lck": 72,
+      "oil": 11,
+      "rld": 168
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 333,
+      "acc": 163,
+      "arm": "light",
+      "asw": 104,
+      "avi": 0,
+      "eva": 92,
+      "fp": 170,
+      "hp": 4361,
+      "lck": 72,
+      "oil": 11,
+      "rld": 193
+    },
+    "lvl120retro": {}
   }
 }

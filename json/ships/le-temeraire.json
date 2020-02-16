@@ -8,16 +8,46 @@
   "nationality": "iris-libre",
   "slug": "le-temeraire",
   "stats": {
-    "aa": 32,
-    "acc": 69,
-    "arm": "light",
-    "asw": 46,
-    "avi": 0,
-    "eva": 70,
-    "fp": 17,
-    "hp": 253,
-    "lck": 41,
-    "oil": 2,
-    "rld": 70
+    "base": {
+      "aa": 32,
+      "acc": 69,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 70,
+      "fp": 17,
+      "hp": 253,
+      "lck": 41,
+      "oil": 2,
+      "rld": 70
+    },
+    "lvl100": {
+      "aa": 150,
+      "acc": 180,
+      "arm": "light",
+      "asw": 168,
+      "avi": 0,
+      "eva": 182,
+      "fp": 81,
+      "hp": 1309,
+      "lck": 41,
+      "oil": 9,
+      "rld": 167
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 172,
+      "acc": 189,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 189,
+      "fp": 93,
+      "hp": 1571,
+      "lck": 41,
+      "oil": 9,
+      "rld": 192
+    },
+    "lvl120retro": {}
   }
 }

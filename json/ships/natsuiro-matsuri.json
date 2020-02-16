@@ -8,16 +8,46 @@
   "nationality": "hololive",
   "slug": "natsuiro-matsuri",
   "stats": {
-    "aa": 31,
-    "acc": 69,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 71,
-    "fp": 13,
-    "hp": 284,
-    "lck": 87,
-    "oil": 2,
-    "rld": 76
+    "base": {
+      "aa": 31,
+      "acc": 69,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 71,
+      "fp": 13,
+      "hp": 284,
+      "lck": 87,
+      "oil": 2,
+      "rld": 76
+    },
+    "lvl100": {
+      "aa": 143,
+      "acc": 180,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 184,
+      "fp": 61,
+      "hp": 1469,
+      "lck": 87,
+      "oil": 9,
+      "rld": 180
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 165,
+      "acc": 189,
+      "arm": "light",
+      "asw": 207,
+      "avi": 0,
+      "eva": 190,
+      "fp": 70,
+      "hp": 1763,
+      "lck": 87,
+      "oil": 9,
+      "rld": 207
+    },
+    "lvl120retro": {}
   }
 }

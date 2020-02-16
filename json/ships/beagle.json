@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "beagle",
   "stats": {
-    "aa": 28,
-    "acc": 64,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 78,
-    "fp": 12,
-    "hp": 218,
-    "lck": 71,
-    "oil": 1,
-    "rld": 70
+    "base": {
+      "aa": 28,
+      "acc": 64,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 78,
+      "fp": 12,
+      "hp": 218,
+      "lck": 71,
+      "oil": 1,
+      "rld": 70
+    },
+    "lvl100": {
+      "aa": 130,
+      "acc": 167,
+      "arm": "light",
+      "asw": 173,
+      "avi": 0,
+      "eva": 203,
+      "fp": 57,
+      "hp": 1124,
+      "lck": 71,
+      "oil": 7,
+      "rld": 165
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 150,
+      "acc": 175,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 209,
+      "fp": 65,
+      "hp": 1349,
+      "lck": 71,
+      "oil": 7,
+      "rld": 190
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "junyou",
   "stats": {
-    "aa": 46,
-    "acc": 25,
-    "arm": "medium",
-    "asw": 19,
-    "avi": 52,
-    "eva": 19,
-    "fp": 0,
-    "hp": 860,
-    "lck": 80,
-    "oil": 3,
-    "rld": 58
+    "base": {
+      "aa": 46,
+      "acc": 25,
+      "arm": "medium",
+      "asw": 19,
+      "avi": 52,
+      "eva": 19,
+      "fp": 0,
+      "hp": 860,
+      "lck": 80,
+      "oil": 3,
+      "rld": 58
+    },
+    "lvl100": {
+      "aa": 215,
+      "acc": 65,
+      "arm": "medium",
+      "asw": 69,
+      "avi": 244,
+      "eva": 49,
+      "fp": 0,
+      "hp": 4448,
+      "lck": 80,
+      "oil": 11,
+      "rld": 137
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 247,
+      "acc": 78,
+      "arm": "medium",
+      "asw": 79,
+      "avi": 279,
+      "eva": 68,
+      "fp": 0,
+      "hp": 5204,
+      "lck": 80,
+      "oil": 11,
+      "rld": 157
+    },
+    "lvl120retro": {}
   }
 }

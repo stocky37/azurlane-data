@@ -8,16 +8,46 @@
   "nationality": "north-union",
   "slug": "avrora",
   "stats": {
-    "aa": 30,
-    "acc": 45,
-    "arm": "medium",
-    "asw": 14,
-    "avi": 0,
-    "eva": 24,
-    "fp": 19,
-    "hp": 585,
-    "lck": 55,
-    "oil": 3,
-    "rld": 55
+    "base": {
+      "aa": 30,
+      "acc": 45,
+      "arm": "medium",
+      "asw": 14,
+      "avi": 0,
+      "eva": 24,
+      "fp": 19,
+      "hp": 585,
+      "lck": 55,
+      "oil": 3,
+      "rld": 55
+    },
+    "lvl100": {
+      "aa": 139,
+      "acc": 116,
+      "arm": "medium",
+      "asw": 50,
+      "avi": 0,
+      "eva": 62,
+      "fp": 91,
+      "hp": 3024,
+      "lck": 55,
+      "oil": 11,
+      "rld": 130
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 160,
+      "acc": 130,
+      "arm": "medium",
+      "asw": 57,
+      "avi": 0,
+      "eva": 79,
+      "fp": 104,
+      "hp": 3372,
+      "lck": 55,
+      "oil": 11,
+      "rld": 150
+    },
+    "lvl120retro": {}
   }
 }

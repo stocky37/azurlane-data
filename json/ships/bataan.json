@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "bataan",
   "stats": {
-    "aa": 52,
-    "acc": 29,
-    "arm": "medium",
-    "asw": 17,
-    "avi": 65,
-    "eva": 21,
-    "fp": 0,
-    "hp": 835,
-    "lck": 65,
-    "oil": 3,
-    "rld": 73
+    "base": {
+      "aa": 52,
+      "acc": 29,
+      "arm": "medium",
+      "asw": 17,
+      "avi": 65,
+      "eva": 21,
+      "fp": 0,
+      "hp": 835,
+      "lck": 65,
+      "oil": 3,
+      "rld": 73
+    },
+    "lvl100": {
+      "aa": 242,
+      "acc": 76,
+      "arm": "medium",
+      "asw": 63,
+      "avi": 308,
+      "eva": 54,
+      "fp": 0,
+      "hp": 4318,
+      "lck": 65,
+      "oil": 11,
+      "rld": 173
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 276,
+      "acc": 89,
+      "arm": "medium",
+      "asw": 72,
+      "avi": 347,
+      "eva": 83,
+      "fp": 0,
+      "hp": 5008,
+      "lck": 65,
+      "oil": 11,
+      "rld": 199
+    },
+    "lvl120retro": {}
   }
 }

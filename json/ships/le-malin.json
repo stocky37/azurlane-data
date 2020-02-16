@@ -8,16 +8,46 @@
   "nationality": "vichya-dominion",
   "slug": "le-malin",
   "stats": {
-    "aa": 26,
-    "acc": 68,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 79,
-    "fp": 25,
-    "hp": 326,
-    "lck": 51,
-    "oil": 3,
-    "rld": 76
+    "base": {
+      "aa": 26,
+      "acc": 68,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 79,
+      "fp": 25,
+      "hp": 326,
+      "lck": 51,
+      "oil": 3,
+      "rld": 76
+    },
+    "lvl100": {
+      "aa": 120,
+      "acc": 177,
+      "arm": "light",
+      "asw": 173,
+      "avi": 0,
+      "eva": 206,
+      "fp": 119,
+      "hp": 1684,
+      "lck": 51,
+      "oil": 10,
+      "rld": 179
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 138,
+      "acc": 186,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 213,
+      "fp": 137,
+      "hp": 2021,
+      "lck": 51,
+      "oil": 10,
+      "rld": 206
+    },
+    "lvl120retro": {}
   }
 }

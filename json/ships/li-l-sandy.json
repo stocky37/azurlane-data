@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "li-l-sandy",
   "stats": {
-    "aa": 84,
-    "acc": 58,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 28,
-    "fp": 24,
-    "hp": 555,
-    "lck": 85,
-    "oil": 3,
-    "rld": 67
+    "base": {
+      "aa": 84,
+      "acc": 58,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 28,
+      "fp": 24,
+      "hp": 555,
+      "lck": 85,
+      "oil": 3,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 391,
+      "acc": 150,
+      "arm": "light",
+      "asw": 173,
+      "avi": 0,
+      "eva": 73,
+      "fp": 114,
+      "hp": 2868,
+      "lck": 85,
+      "oil": 10,
+      "rld": 159
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 434,
+      "acc": 168,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 95,
+      "fp": 131,
+      "hp": 3226,
+      "lck": 85,
+      "oil": 10,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

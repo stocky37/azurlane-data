@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "alabama",
   "stats": {
-    "aa": 80,
-    "acc": 20,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 81,
-    "hp": 1303,
-    "lck": 86,
-    "oil": 5,
-    "rld": 57
+    "base": {
+      "aa": 80,
+      "acc": 20,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 81,
+      "hp": 1303,
+      "lck": 86,
+      "oil": 5,
+      "rld": 57
+    },
+    "lvl100": {
+      "aa": 375,
+      "acc": 52,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 383,
+      "hp": 6738,
+      "lck": 86,
+      "oil": 15,
+      "rld": 134
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 408,
+      "acc": 64,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 418,
+      "hp": 7783,
+      "lck": 86,
+      "oil": 15,
+      "rld": 154
+    },
+    "lvl120retro": {}
   }
 }

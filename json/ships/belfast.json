@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "belfast",
   "stats": {
-    "aa": 55,
-    "acc": 55,
-    "arm": "light",
-    "asw": 35,
-    "avi": 0,
-    "eva": 28,
-    "fp": 33,
-    "hp": 686,
-    "lck": 88,
-    "oil": 3,
-    "rld": 67
+    "base": {
+      "aa": 55,
+      "acc": 55,
+      "arm": "light",
+      "asw": 35,
+      "avi": 0,
+      "eva": 28,
+      "fp": 33,
+      "hp": 686,
+      "lck": 88,
+      "oil": 3,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 257,
+      "acc": 143,
+      "arm": "light",
+      "asw": 128,
+      "avi": 0,
+      "eva": 72,
+      "fp": 156,
+      "hp": 3544,
+      "lck": 88,
+      "oil": 11,
+      "rld": 159
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 293,
+      "acc": 160,
+      "arm": "light",
+      "asw": 144,
+      "avi": 0,
+      "eva": 96,
+      "fp": 179,
+      "hp": 3970,
+      "lck": 88,
+      "oil": 11,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "u-47",
   "stats": {
-    "aa": 0,
-    "acc": 61,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 9,
-    "hp": 209,
-    "lck": 32,
-    "oil": 2,
-    "rld": 41
+    "base": {
+      "aa": 0,
+      "acc": 61,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 9,
+      "hp": 209,
+      "lck": 32,
+      "oil": 2,
+      "rld": 41
+    },
+    "lvl100": {
+      "aa": 0,
+      "acc": 159,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 42,
+      "hp": 1081,
+      "lck": 32,
+      "oil": 7,
+      "rld": 96
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 0,
+      "acc": 178,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 37,
+      "fp": 48,
+      "hp": 1297,
+      "lck": 32,
+      "oil": 7,
+      "rld": 110
+    },
+    "lvl120retro": {}
   }
 }

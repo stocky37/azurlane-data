@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "georgia",
   "stats": {
-    "aa": 79,
-    "acc": 23,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 84,
-    "hp": 1459,
-    "lck": 0,
-    "oil": 9,
-    "rld": 60
+    "base": {
+      "aa": 79,
+      "acc": 23,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 84,
+      "hp": 1459,
+      "lck": 0,
+      "oil": 9,
+      "rld": 60
+    },
+    "lvl100": {
+      "aa": 368,
+      "acc": 60,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 394,
+      "hp": 7543,
+      "lck": 0,
+      "oil": 16,
+      "rld": 142
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 409,
+      "acc": 73,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 30,
+      "fp": 436,
+      "hp": 8297,
+      "lck": 0,
+      "oil": 16,
+      "rld": 163
+    },
+    "lvl120retro": {}
   }
 }

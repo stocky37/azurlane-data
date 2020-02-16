@@ -8,16 +8,70 @@
   "nationality": "ironblood",
   "slug": "karlsruhe",
   "stats": {
-    "aa": 63,
-    "acc": 51,
-    "arm": "light",
-    "asw": 21,
-    "avi": 0,
-    "eva": 29,
-    "fp": 28,
-    "hp": 578,
-    "lck": 39,
-    "oil": 2,
-    "rld": 64
+    "base": {
+      "aa": 63,
+      "acc": 51,
+      "arm": "light",
+      "asw": 21,
+      "avi": 0,
+      "eva": 29,
+      "fp": 28,
+      "hp": 578,
+      "lck": 39,
+      "oil": 2,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 295,
+      "acc": 133,
+      "arm": "light",
+      "asw": 76,
+      "avi": 0,
+      "eva": 76,
+      "fp": 133,
+      "hp": 2989,
+      "lck": 39,
+      "oil": 8,
+      "rld": 152
+    },
+    "lvl100retro": {
+      "aa": 310,
+      "acc": 133,
+      "arm": "light",
+      "asw": 76,
+      "avi": 0,
+      "eva": 76,
+      "fp": 153,
+      "hp": 3229,
+      "lck": 39,
+      "oil": 8,
+      "rld": 157
+    },
+    "lvl120": {
+      "aa": 333,
+      "acc": 153,
+      "arm": "light",
+      "asw": 87,
+      "avi": 0,
+      "eva": 100,
+      "fp": 152,
+      "hp": 3372,
+      "lck": 39,
+      "oil": 8,
+      "rld": 175
+    },
+    "lvl120retro": {
+      "aa": 348,
+      "acc": 153,
+      "arm": "light",
+      "asw": 87,
+      "avi": 0,
+      "eva": 100,
+      "fp": 172,
+      "hp": 3612,
+      "lck": 39,
+      "oil": 8,
+      "rld": 180
+    }
   }
 }

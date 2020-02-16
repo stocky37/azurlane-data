@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "jamaica",
   "stats": {
-    "aa": 62,
-    "acc": 58,
-    "arm": "light",
-    "asw": 30,
-    "avi": 0,
-    "eva": 29,
-    "fp": 29,
-    "hp": 625,
-    "lck": 67,
-    "oil": 2,
-    "rld": 67
+    "base": {
+      "aa": 62,
+      "acc": 58,
+      "arm": "light",
+      "asw": 30,
+      "avi": 0,
+      "eva": 29,
+      "fp": 29,
+      "hp": 625,
+      "lck": 67,
+      "oil": 2,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 291,
+      "acc": 152,
+      "arm": "light",
+      "asw": 109,
+      "avi": 0,
+      "eva": 76,
+      "fp": 137,
+      "hp": 3232,
+      "lck": 67,
+      "oil": 9,
+      "rld": 158
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 329,
+      "acc": 170,
+      "arm": "light",
+      "asw": 123,
+      "avi": 0,
+      "eva": 100,
+      "fp": 157,
+      "hp": 3636,
+      "lck": 67,
+      "oil": 9,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

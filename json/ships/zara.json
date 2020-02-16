@@ -8,16 +8,46 @@
   "nationality": "sardegna-empire",
   "slug": "zara",
   "stats": {
-    "aa": 43,
-    "acc": 39,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 47,
-    "hp": 853,
-    "lck": 75,
-    "oil": 4,
-    "rld": 67
+    "base": {
+      "aa": 43,
+      "acc": 39,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 47,
+      "hp": 853,
+      "lck": 75,
+      "oil": 4,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 200,
+      "acc": 101,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 220,
+      "hp": 4412,
+      "lck": 75,
+      "oil": 12,
+      "rld": 158
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 229,
+      "acc": 118,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 57,
+      "fp": 252,
+      "hp": 4941,
+      "lck": 75,
+      "oil": 12,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

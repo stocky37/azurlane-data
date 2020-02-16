@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "dewey",
   "stats": {
-    "aa": 34,
-    "acc": 63,
-    "arm": "light",
-    "asw": 45,
-    "avi": 0,
-    "eva": 60,
-    "fp": 14,
-    "hp": 265,
-    "lck": 72,
-    "oil": 2,
-    "rld": 69
+    "base": {
+      "aa": 34,
+      "acc": 63,
+      "arm": "light",
+      "asw": 45,
+      "avi": 0,
+      "eva": 60,
+      "fp": 14,
+      "hp": 265,
+      "lck": 72,
+      "oil": 2,
+      "rld": 69
+    },
+    "lvl100": {
+      "aa": 161,
+      "acc": 165,
+      "arm": "light",
+      "asw": 165,
+      "avi": 0,
+      "eva": 156,
+      "fp": 65,
+      "hp": 1372,
+      "lck": 72,
+      "oil": 8,
+      "rld": 164
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 185,
+      "acc": 173,
+      "arm": "light",
+      "asw": 184,
+      "avi": 0,
+      "eva": 162,
+      "fp": 74,
+      "hp": 1647,
+      "lck": 72,
+      "oil": 8,
+      "rld": 189
+    },
+    "lvl120retro": {}
   }
 }

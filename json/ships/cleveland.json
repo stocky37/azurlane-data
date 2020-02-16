@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "cleveland",
   "stats": {
-    "aa": 61,
-    "acc": 56,
-    "arm": "light",
-    "asw": 24,
-    "avi": 0,
-    "eva": 30,
-    "fp": 31,
-    "hp": 751,
-    "lck": 71,
-    "oil": 3,
-    "rld": 69
+    "base": {
+      "aa": 61,
+      "acc": 56,
+      "arm": "light",
+      "asw": 24,
+      "avi": 0,
+      "eva": 30,
+      "fp": 31,
+      "hp": 751,
+      "lck": 71,
+      "oil": 3,
+      "rld": 69
+    },
+    "lvl100": {
+      "aa": 285,
+      "acc": 146,
+      "arm": "light",
+      "asw": 88,
+      "avi": 0,
+      "eva": 77,
+      "fp": 144,
+      "hp": 3880,
+      "lck": 71,
+      "oil": 10,
+      "rld": 164
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 323,
+      "acc": 163,
+      "arm": "light",
+      "asw": 100,
+      "avi": 0,
+      "eva": 92,
+      "fp": 165,
+      "hp": 4307,
+      "lck": 71,
+      "oil": 10,
+      "rld": 189
+    },
+    "lvl120retro": {}
   }
 }

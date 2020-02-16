@@ -8,16 +8,70 @@
   "nationality": "royal-navy",
   "slug": "leander",
   "stats": {
-    "aa": 61,
-    "acc": 50,
-    "arm": "light",
-    "asw": 30,
-    "avi": 0,
-    "eva": 30,
-    "fp": 27,
-    "hp": 558,
-    "lck": 44,
-    "oil": 2,
-    "rld": 63
+    "base": {
+      "aa": 61,
+      "acc": 50,
+      "arm": "light",
+      "asw": 30,
+      "avi": 0,
+      "eva": 30,
+      "fp": 27,
+      "hp": 558,
+      "lck": 44,
+      "oil": 2,
+      "rld": 63
+    },
+    "lvl100": {
+      "aa": 284,
+      "acc": 129,
+      "arm": "light",
+      "asw": 110,
+      "avi": 0,
+      "eva": 77,
+      "fp": 127,
+      "hp": 2886,
+      "lck": 44,
+      "oil": 8,
+      "rld": 149
+    },
+    "lvl100retro": {
+      "aa": 284,
+      "acc": 129,
+      "arm": "light",
+      "asw": 110,
+      "avi": 0,
+      "eva": 77,
+      "fp": 177,
+      "hp": 3126,
+      "lck": 44,
+      "oil": 8,
+      "rld": 154
+    },
+    "lvl120": {
+      "aa": 321,
+      "acc": 145,
+      "arm": "light",
+      "asw": 125,
+      "avi": 0,
+      "eva": 102,
+      "fp": 146,
+      "hp": 3246,
+      "lck": 44,
+      "oil": 8,
+      "rld": 171
+    },
+    "lvl120retro": {
+      "aa": 321,
+      "acc": 145,
+      "arm": "light",
+      "asw": 125,
+      "avi": 0,
+      "eva": 102,
+      "fp": 196,
+      "hp": 3486,
+      "lck": 44,
+      "oil": 8,
+      "rld": 176
+    }
   }
 }

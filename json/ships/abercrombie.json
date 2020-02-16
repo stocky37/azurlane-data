@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "abercrombie",
   "stats": {
-    "aa": 34,
-    "acc": 28,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 11,
-    "fp": 53,
-    "hp": 609,
-    "lck": 38,
-    "oil": 3,
-    "rld": 54
+    "base": {
+      "aa": 34,
+      "acc": 28,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 53,
+      "hp": 609,
+      "lck": 38,
+      "oil": 3,
+      "rld": 54
+    },
+    "lvl100": {
+      "aa": 158,
+      "acc": 73,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 29,
+      "fp": 251,
+      "hp": 3148,
+      "lck": 38,
+      "oil": 10,
+      "rld": 129
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 182,
+      "acc": 81,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 61,
+      "fp": 286,
+      "hp": 3777,
+      "lck": 38,
+      "oil": 10,
+      "rld": 148
+    },
+    "lvl120retro": {}
   }
 }

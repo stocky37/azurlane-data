@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "seattle",
   "stats": {
-    "aa": 70,
-    "acc": 54,
-    "arm": "light",
-    "asw": 37,
-    "avi": 0,
-    "eva": 28,
-    "fp": 33,
-    "hp": 924,
-    "lck": 0,
-    "oil": 7,
-    "rld": 57
+    "base": {
+      "aa": 70,
+      "acc": 54,
+      "arm": "light",
+      "asw": 37,
+      "avi": 0,
+      "eva": 28,
+      "fp": 33,
+      "hp": 924,
+      "lck": 0,
+      "oil": 7,
+      "rld": 57
+    },
+    "lvl100": {
+      "aa": 325,
+      "acc": 140,
+      "arm": "light",
+      "asw": 137,
+      "avi": 0,
+      "eva": 73,
+      "fp": 155,
+      "hp": 4779,
+      "lck": 0,
+      "oil": 12,
+      "rld": 136
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 365,
+      "acc": 157,
+      "arm": "light",
+      "asw": 154,
+      "avi": 0,
+      "eva": 97,
+      "fp": 178,
+      "hp": 5257,
+      "lck": 0,
+      "oil": 12,
+      "rld": 156
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "echo",
   "stats": {
-    "aa": 28,
-    "acc": 65,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 78,
-    "fp": 14,
-    "hp": 226,
-    "lck": 65,
-    "oil": 2,
-    "rld": 71
+    "base": {
+      "aa": 28,
+      "acc": 65,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 78,
+      "fp": 14,
+      "hp": 226,
+      "lck": 65,
+      "oil": 2,
+      "rld": 71
+    },
+    "lvl100": {
+      "aa": 132,
+      "acc": 169,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 203,
+      "fp": 63,
+      "hp": 1167,
+      "lck": 65,
+      "oil": 8,
+      "rld": 168
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 152,
+      "acc": 178,
+      "arm": "light",
+      "asw": 207,
+      "avi": 0,
+      "eva": 209,
+      "fp": 73,
+      "hp": 1400,
+      "lck": 65,
+      "oil": 8,
+      "rld": 193
+    },
+    "lvl120retro": {}
   }
 }

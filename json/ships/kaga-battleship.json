@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "kaga-battleship",
   "stats": {
-    "aa": 35,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 81,
-    "hp": 1376,
-    "lck": 42,
-    "oil": 5,
-    "rld": 55
+    "base": {
+      "aa": 35,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 81,
+      "hp": 1376,
+      "lck": 42,
+      "oil": 5,
+      "rld": 55
+    },
+    "lvl100": {
+      "aa": 162,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 20,
+      "fp": 381,
+      "hp": 7115,
+      "lck": 42,
+      "oil": 15,
+      "rld": 130
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 187,
+      "acc": 71,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 39,
+      "fp": 423,
+      "hp": 8303,
+      "lck": 42,
+      "oil": 15,
+      "rld": 149
+    },
+    "lvl120retro": {}
   }
 }

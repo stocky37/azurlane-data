@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "kongou",
   "stats": {
-    "aa": 51,
-    "acc": 22,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 69,
-    "hp": 1087,
-    "lck": 43,
-    "oil": 5,
-    "rld": 58
+    "base": {
+      "aa": 51,
+      "acc": 22,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 69,
+      "hp": 1087,
+      "lck": 43,
+      "oil": 5,
+      "rld": 58
+    },
+    "lvl100": {
+      "aa": 238,
+      "acc": 56,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 20,
+      "fp": 327,
+      "hp": 5620,
+      "lck": 43,
+      "oil": 14,
+      "rld": 138
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 273,
+      "acc": 70,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 37,
+      "fp": 367,
+      "hp": 6604,
+      "lck": 43,
+      "oil": 14,
+      "rld": 159
+    },
+    "lvl120retro": {}
   }
 }

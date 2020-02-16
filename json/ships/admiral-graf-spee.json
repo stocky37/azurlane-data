@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "admiral-graf-spee",
   "stats": {
-    "aa": 29,
-    "acc": 43,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 55,
-    "hp": 750,
-    "lck": 36,
-    "oil": 3,
-    "rld": 64
+    "base": {
+      "aa": 29,
+      "acc": 43,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 55,
+      "hp": 750,
+      "lck": 36,
+      "oil": 3,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 134,
+      "acc": 112,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 261,
+      "hp": 3877,
+      "lck": 36,
+      "oil": 11,
+      "rld": 152
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 154,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 54,
+      "fp": 298,
+      "hp": 4361,
+      "lck": 36,
+      "oil": 11,
+      "rld": 174
+    },
+    "lvl120retro": {}
   }
 }

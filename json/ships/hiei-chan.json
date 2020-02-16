@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "hiei-chan",
   "stats": {
-    "aa": 46,
-    "acc": 21,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 68,
-    "hp": 1062,
-    "lck": 37,
-    "oil": 5,
-    "rld": 59
+    "base": {
+      "aa": 46,
+      "acc": 21,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 68,
+      "hp": 1062,
+      "lck": 37,
+      "oil": 5,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 215,
+      "acc": 55,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 323,
+      "hp": 5493,
+      "lck": 37,
+      "oil": 14,
+      "rld": 139
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 247,
+      "acc": 68,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 40,
+      "fp": 363,
+      "hp": 6454,
+      "lck": 37,
+      "oil": 14,
+      "rld": 160
+    },
+    "lvl120retro": {}
   }
 }

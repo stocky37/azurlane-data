@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "craven",
   "stats": {
-    "aa": 32,
-    "acc": 71,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 60,
-    "fp": 13,
-    "hp": 286,
-    "lck": 72,
-    "oil": 1,
-    "rld": 72
+    "base": {
+      "aa": 32,
+      "acc": 71,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 60,
+      "fp": 13,
+      "hp": 286,
+      "lck": 72,
+      "oil": 1,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 149,
+      "acc": 184,
+      "arm": "light",
+      "asw": 173,
+      "avi": 0,
+      "eva": 157,
+      "fp": 62,
+      "hp": 1479,
+      "lck": 72,
+      "oil": 7,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 171,
+      "acc": 194,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 163,
+      "fp": 72,
+      "hp": 1774,
+      "lck": 72,
+      "oil": 7,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

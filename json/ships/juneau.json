@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "juneau",
   "stats": {
-    "aa": 81,
-    "acc": 58,
-    "arm": "light",
-    "asw": 46,
-    "avi": 0,
-    "eva": 28,
-    "fp": 24,
-    "hp": 605,
-    "lck": 18,
-    "oil": 2,
-    "rld": 66
+    "base": {
+      "aa": 81,
+      "acc": 58,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 28,
+      "fp": 24,
+      "hp": 605,
+      "lck": 18,
+      "oil": 2,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 380,
+      "acc": 150,
+      "arm": "light",
+      "asw": 168,
+      "avi": 0,
+      "eva": 73,
+      "fp": 112,
+      "hp": 3126,
+      "lck": 18,
+      "oil": 9,
+      "rld": 156
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 422,
+      "acc": 168,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 95,
+      "fp": 129,
+      "hp": 3517,
+      "lck": 18,
+      "oil": 9,
+      "rld": 179
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "nelson",
   "stats": {
-    "aa": 41,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 6,
-    "fp": 79,
-    "hp": 1276,
-    "lck": 66,
-    "oil": 5,
-    "rld": 55
+    "base": {
+      "aa": 41,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 6,
+      "fp": 79,
+      "hp": 1276,
+      "lck": 66,
+      "oil": 5,
+      "rld": 55
+    },
+    "lvl100": {
+      "aa": 190,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 15,
+      "fp": 372,
+      "hp": 6598,
+      "lck": 66,
+      "oil": 14,
+      "rld": 130
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 219,
+      "acc": 70,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 407,
+      "hp": 7654,
+      "lck": 66,
+      "oil": 14,
+      "rld": 149
+    },
+    "lvl120retro": {}
   }
 }

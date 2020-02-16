@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "hood",
   "stats": {
-    "aa": 61,
-    "acc": 22,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 66,
-    "hp": 1485,
-    "lck": 38,
-    "oil": 5,
-    "rld": 58
+    "base": {
+      "aa": 61,
+      "acc": 22,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 66,
+      "hp": 1485,
+      "lck": 38,
+      "oil": 5,
+      "rld": 58
+    },
+    "lvl100": {
+      "aa": 285,
+      "acc": 56,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 22,
+      "fp": 312,
+      "hp": 7677,
+      "lck": 38,
+      "oil": 14,
+      "rld": 138
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 323,
+      "acc": 68,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 37,
+      "fp": 343,
+      "hp": 8445,
+      "lck": 38,
+      "oil": 14,
+      "rld": 159
+    },
+    "lvl120retro": {}
   }
 }

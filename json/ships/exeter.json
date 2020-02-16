@@ -8,16 +8,70 @@
   "nationality": "royal-navy",
   "slug": "exeter",
   "stats": {
-    "aa": 45,
-    "acc": 43,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 42,
-    "hp": 634,
-    "lck": 49,
-    "oil": 3,
-    "rld": 65
+    "base": {
+      "aa": 45,
+      "acc": 43,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 42,
+      "hp": 634,
+      "lck": 49,
+      "oil": 3,
+      "rld": 65
+    },
+    "lvl100": {
+      "aa": 211,
+      "acc": 112,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 196,
+      "hp": 3279,
+      "lck": 49,
+      "oil": 11,
+      "rld": 153
+    },
+    "lvl100retro": {
+      "aa": 226,
+      "acc": 137,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 236,
+      "hp": 3519,
+      "lck": 49,
+      "oil": 11,
+      "rld": 168
+    },
+    "lvl120": {
+      "aa": 243,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 72,
+      "fp": 226,
+      "hp": 3705,
+      "lck": 49,
+      "oil": 11,
+      "rld": 176
+    },
+    "lvl120retro": {
+      "aa": 258,
+      "acc": 150,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 72,
+      "fp": 266,
+      "hp": 3945,
+      "lck": 49,
+      "oil": 11,
+      "rld": 191
+    }
   }
 }

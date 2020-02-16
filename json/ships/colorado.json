@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "colorado",
   "stats": {
-    "aa": 40,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 4,
-    "fp": 78,
-    "hp": 1241,
-    "lck": 67,
-    "oil": 5,
-    "rld": 55
+    "base": {
+      "aa": 40,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 4,
+      "fp": 78,
+      "hp": 1241,
+      "lck": 67,
+      "oil": 5,
+      "rld": 55
+    },
+    "lvl100": {
+      "aa": 188,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 368,
+      "hp": 6416,
+      "lck": 67,
+      "oil": 14,
+      "rld": 130
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 216,
+      "acc": 69,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 30,
+      "fp": 409,
+      "hp": 7456,
+      "lck": 67,
+      "oil": 14,
+      "rld": 149
+    },
+    "lvl120retro": {}
   }
 }

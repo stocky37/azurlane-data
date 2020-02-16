@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "kitakaze",
   "stats": {
-    "aa": 37,
-    "acc": 75,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 72,
-    "fp": 16,
-    "hp": 454,
-    "lck": 0,
-    "oil": 6,
-    "rld": 82
+    "base": {
+      "aa": 37,
+      "acc": 75,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 72,
+      "fp": 16,
+      "hp": 454,
+      "lck": 0,
+      "oil": 6,
+      "rld": 82
+    },
+    "lvl100": {
+      "aa": 171,
+      "acc": 195,
+      "arm": "light",
+      "asw": 102,
+      "avi": 0,
+      "eva": 187,
+      "fp": 75,
+      "hp": 2348,
+      "lck": 0,
+      "oil": 11,
+      "rld": 194
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 197,
+      "acc": 208,
+      "arm": "light",
+      "asw": 122,
+      "avi": 0,
+      "eva": 197,
+      "fp": 86,
+      "hp": 2641,
+      "lck": 0,
+      "oil": 11,
+      "rld": 223
+    },
+    "lvl120retro": {}
   }
 }

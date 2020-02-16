@@ -8,16 +8,46 @@
   "nationality": "sardegna-empire",
   "slug": "conte-di-cavour",
   "stats": {
-    "aa": 33,
-    "acc": 20,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 64,
-    "hp": 1139,
-    "lck": 45,
-    "oil": 4,
-    "rld": 51
+    "base": {
+      "aa": 33,
+      "acc": 20,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 64,
+      "hp": 1139,
+      "lck": 45,
+      "oil": 4,
+      "rld": 51
+    },
+    "lvl100": {
+      "aa": 153,
+      "acc": 52,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 304,
+      "hp": 5889,
+      "lck": 45,
+      "oil": 13,
+      "rld": 120
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 175,
+      "acc": 62,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 36,
+      "fp": 337,
+      "hp": 6831,
+      "lck": 45,
+      "oil": 13,
+      "rld": 138
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "utawarerumono",
   "slug": "saraana",
   "stats": {
-    "aa": 48,
-    "acc": 27,
-    "arm": "light",
-    "asw": 17,
-    "avi": 44,
-    "eva": 19,
-    "fp": 0,
-    "hp": 721,
-    "lck": 96,
-    "oil": 3,
-    "rld": 57
+    "base": {
+      "aa": 48,
+      "acc": 27,
+      "arm": "light",
+      "asw": 17,
+      "avi": 44,
+      "eva": 19,
+      "fp": 0,
+      "hp": 721,
+      "lck": 96,
+      "oil": 3,
+      "rld": 57
+    },
+    "lvl100": {
+      "aa": 222,
+      "acc": 70,
+      "arm": "light",
+      "asw": 63,
+      "avi": 206,
+      "eva": 49,
+      "fp": 0,
+      "hp": 3727,
+      "lck": 96,
+      "oil": 11,
+      "rld": 136
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 255,
+      "acc": 77,
+      "arm": "light",
+      "asw": 72,
+      "avi": 237,
+      "eva": 53,
+      "fp": 0,
+      "hp": 4472,
+      "lck": 96,
+      "oil": 11,
+      "rld": 156
+    },
+    "lvl120retro": {}
   }
 }

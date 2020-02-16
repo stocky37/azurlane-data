@@ -8,16 +8,46 @@
   "nationality": "kizunaai",
   "slug": "super-gamer-kizuna-ai",
   "stats": {
-    "aa": 37,
-    "acc": 19,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 11,
-    "fp": 78,
-    "hp": 1233,
-    "lck": 66,
-    "oil": 5,
-    "rld": 52
+    "base": {
+      "aa": 37,
+      "acc": 19,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 78,
+      "hp": 1233,
+      "lck": 66,
+      "oil": 5,
+      "rld": 52
+    },
+    "lvl100": {
+      "aa": 173,
+      "acc": 50,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 28,
+      "fp": 368,
+      "hp": 6374,
+      "lck": 66,
+      "oil": 15,
+      "rld": 123
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 199,
+      "acc": 55,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 30,
+      "fp": 409,
+      "hp": 7648,
+      "lck": 66,
+      "oil": 15,
+      "rld": 142
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "edinburgh",
   "stats": {
-    "aa": 59,
-    "acc": 55,
-    "arm": "light",
-    "asw": 24,
-    "avi": 0,
-    "eva": 29,
-    "fp": 29,
-    "hp": 789,
-    "lck": 37,
-    "oil": 3,
-    "rld": 65
+    "base": {
+      "aa": 59,
+      "acc": 55,
+      "arm": "light",
+      "asw": 24,
+      "avi": 0,
+      "eva": 29,
+      "fp": 29,
+      "hp": 789,
+      "lck": 37,
+      "oil": 3,
+      "rld": 65
+    },
+    "lvl100": {
+      "aa": 276,
+      "acc": 143,
+      "arm": "light",
+      "asw": 88,
+      "avi": 0,
+      "eva": 76,
+      "fp": 137,
+      "hp": 4078,
+      "lck": 37,
+      "oil": 10,
+      "rld": 153
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 313,
+      "acc": 160,
+      "arm": "light",
+      "asw": 101,
+      "avi": 0,
+      "eva": 100,
+      "fp": 157,
+      "hp": 4486,
+      "lck": 37,
+      "oil": 10,
+      "rld": 176
+    },
+    "lvl120retro": {}
   }
 }

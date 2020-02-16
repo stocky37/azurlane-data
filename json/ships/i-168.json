@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "i-168",
   "stats": {
-    "aa": 0,
-    "acc": 59,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 12,
-    "hp": 321,
-    "lck": 22,
-    "oil": 2,
-    "rld": 42
+    "base": {
+      "aa": 0,
+      "acc": 59,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 12,
+      "hp": 321,
+      "lck": 22,
+      "oil": 2,
+      "rld": 42
+    },
+    "lvl100": {
+      "aa": 0,
+      "acc": 154,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 57,
+      "hp": 1661,
+      "lck": 22,
+      "oil": 7,
+      "rld": 100
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 0,
+      "acc": 172,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 43,
+      "fp": 65,
+      "hp": 1993,
+      "lck": 22,
+      "oil": 7,
+      "rld": 115
+    },
+    "lvl120retro": {}
   }
 }

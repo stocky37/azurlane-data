@@ -8,16 +8,46 @@
   "nationality": "sardegna-empire",
   "slug": "trento",
   "stats": {
-    "aa": 35,
-    "acc": 39,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 10,
-    "fp": 43,
-    "hp": 612,
-    "lck": 42,
-    "oil": 3,
-    "rld": 59
+    "base": {
+      "aa": 35,
+      "acc": 39,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 10,
+      "fp": 43,
+      "hp": 612,
+      "lck": 42,
+      "oil": 3,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 162,
+      "acc": 101,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 26,
+      "fp": 202,
+      "hp": 3164,
+      "lck": 42,
+      "oil": 10,
+      "rld": 139
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 186,
+      "acc": 118,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 71,
+      "fp": 232,
+      "hp": 3544,
+      "lck": 42,
+      "oil": 10,
+      "rld": 160
+    },
+    "lvl120retro": {}
   }
 }

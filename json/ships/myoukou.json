@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "myoukou",
   "stats": {
-    "aa": 36,
-    "acc": 43,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 14,
-    "fp": 36,
-    "hp": 918,
-    "lck": 62,
-    "oil": 3,
-    "rld": 60
+    "base": {
+      "aa": 36,
+      "acc": 43,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 14,
+      "fp": 36,
+      "hp": 918,
+      "lck": 62,
+      "oil": 3,
+      "rld": 60
+    },
+    "lvl100": {
+      "aa": 168,
+      "acc": 111,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 36,
+      "fp": 171,
+      "hp": 4746,
+      "lck": 62,
+      "oil": 10,
+      "rld": 142
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 193,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 78,
+      "fp": 196,
+      "hp": 5220,
+      "lck": 62,
+      "oil": 10,
+      "rld": 163
+    },
+    "lvl120retro": {}
   }
 }

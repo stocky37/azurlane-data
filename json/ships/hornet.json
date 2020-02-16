@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "hornet",
   "stats": {
-    "aa": 58,
-    "acc": 33,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 76,
-    "eva": 13,
-    "fp": 0,
-    "hp": 979,
-    "lck": 15,
-    "oil": 4,
-    "rld": 45
+    "base": {
+      "aa": 58,
+      "acc": 33,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 76,
+      "eva": 13,
+      "fp": 0,
+      "hp": 979,
+      "lck": 15,
+      "oil": 4,
+      "rld": 45
+    },
+    "lvl100": {
+      "aa": 270,
+      "acc": 85,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 360,
+      "eva": 34,
+      "fp": 0,
+      "hp": 5063,
+      "lck": 15,
+      "oil": 12,
+      "rld": 105
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 307,
+      "acc": 96,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 401,
+      "eva": 54,
+      "fp": 0,
+      "hp": 5823,
+      "lck": 15,
+      "oil": 12,
+      "rld": 121
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "suzuya",
   "stats": {
-    "aa": 39,
-    "acc": 44,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 13,
-    "fp": 44,
-    "hp": 718,
-    "lck": 15,
-    "oil": 3,
-    "rld": 66
+    "base": {
+      "aa": 39,
+      "acc": 44,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 13,
+      "fp": 44,
+      "hp": 718,
+      "lck": 15,
+      "oil": 3,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 181,
+      "acc": 115,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 34,
+      "fp": 206,
+      "hp": 3712,
+      "lck": 15,
+      "oil": 11,
+      "rld": 156
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 209,
+      "acc": 129,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 80,
+      "fp": 237,
+      "hp": 4176,
+      "lck": 15,
+      "oil": 11,
+      "rld": 179
+    },
+    "lvl120retro": {}
   }
 }

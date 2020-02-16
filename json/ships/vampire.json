@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "vampire",
   "stats": {
-    "aa": 29,
-    "acc": 61,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 73,
-    "fp": 13,
-    "hp": 212,
-    "lck": 42,
-    "oil": 2,
-    "rld": 72
+    "base": {
+      "aa": 29,
+      "acc": 61,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 73,
+      "fp": 13,
+      "hp": 212,
+      "lck": 42,
+      "oil": 2,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 135,
+      "acc": 159,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 190,
+      "fp": 62,
+      "hp": 1095,
+      "lck": 42,
+      "oil": 9,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 156,
+      "acc": 167,
+      "arm": "light",
+      "asw": 207,
+      "avi": 0,
+      "eva": 195,
+      "fp": 71,
+      "hp": 1314,
+      "lck": 42,
+      "oil": 9,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

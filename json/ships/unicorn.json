@@ -2,5 +2,11 @@
   "construction": {},
   "name": "Unicorn",
   "slug": "unicorn",
-  "stats": {}
+  "stats": {
+    "base": {},
+    "lvl100": {},
+    "lvl100retro": {},
+    "lvl120": {},
+    "lvl120retro": {}
+  }
 }

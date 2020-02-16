@@ -8,16 +8,46 @@
   "nationality": "hololive",
   "slug": "nakiri-ayame",
   "stats": {
-    "aa": 37,
-    "acc": 37,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 43,
-    "hp": 672,
-    "lck": 65,
-    "oil": 3,
-    "rld": 64
+    "base": {
+      "aa": 37,
+      "acc": 37,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 43,
+      "hp": 672,
+      "lck": 65,
+      "oil": 3,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 172,
+      "acc": 97,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 203,
+      "hp": 3473,
+      "lck": 65,
+      "oil": 11,
+      "rld": 152
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 197,
+      "acc": 106,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 50,
+      "fp": 234,
+      "hp": 4168,
+      "lck": 65,
+      "oil": 11,
+      "rld": 174
+    },
+    "lvl120retro": {}
   }
 }

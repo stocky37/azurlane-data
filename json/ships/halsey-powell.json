@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "halsey-powell",
   "stats": {
-    "aa": 41,
-    "acc": 72,
-    "arm": "light",
-    "asw": 53,
-    "avi": 0,
-    "eva": 59,
-    "fp": 15,
-    "hp": 338,
-    "lck": 55,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 41,
+      "acc": 72,
+      "arm": "light",
+      "asw": 53,
+      "avi": 0,
+      "eva": 59,
+      "fp": 15,
+      "hp": 338,
+      "lck": 55,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 191,
+      "acc": 188,
+      "arm": "light",
+      "asw": 193,
+      "avi": 0,
+      "eva": 154,
+      "fp": 70,
+      "hp": 1746,
+      "lck": 55,
+      "oil": 9,
+      "rld": 177
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 220,
+      "acc": 198,
+      "arm": "light",
+      "asw": 214,
+      "avi": 0,
+      "eva": 160,
+      "fp": 81,
+      "hp": 2095,
+      "lck": 55,
+      "oil": 9,
+      "rld": 203
+    },
+    "lvl120retro": {}
   }
 }

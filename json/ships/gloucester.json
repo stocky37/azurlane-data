@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "gloucester",
   "stats": {
-    "aa": 60,
-    "acc": 54,
-    "arm": "light",
-    "asw": 34,
-    "avi": 0,
-    "eva": 29,
-    "fp": 29,
-    "hp": 666,
-    "lck": 45,
-    "oil": 3,
-    "rld": 65
+    "base": {
+      "aa": 60,
+      "acc": 54,
+      "arm": "light",
+      "asw": 34,
+      "avi": 0,
+      "eva": 29,
+      "fp": 29,
+      "hp": 666,
+      "lck": 45,
+      "oil": 3,
+      "rld": 65
+    },
+    "lvl100": {
+      "aa": 280,
+      "acc": 140,
+      "arm": "light",
+      "asw": 126,
+      "avi": 0,
+      "eva": 76,
+      "fp": 136,
+      "hp": 3445,
+      "lck": 45,
+      "oil": 11,
+      "rld": 154
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 317,
+      "acc": 157,
+      "arm": "light",
+      "asw": 142,
+      "avi": 0,
+      "eva": 101,
+      "fp": 156,
+      "hp": 3789,
+      "lck": 45,
+      "oil": 11,
+      "rld": 176
+    },
+    "lvl120retro": {}
   }
 }

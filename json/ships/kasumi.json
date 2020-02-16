@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "kasumi",
   "stats": {
-    "aa": 29,
-    "acc": 67,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 71,
-    "fp": 12,
-    "hp": 322,
-    "lck": 70,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 29,
+      "acc": 67,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 71,
+      "fp": 12,
+      "hp": 322,
+      "lck": 70,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 136,
+      "acc": 174,
+      "arm": "light",
+      "asw": 172,
+      "avi": 0,
+      "eva": 185,
+      "fp": 56,
+      "hp": 1666,
+      "lck": 70,
+      "oil": 9,
+      "rld": 175
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 156,
+      "acc": 183,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 191,
+      "fp": 65,
+      "hp": 1999,
+      "lck": 70,
+      "oil": 9,
+      "rld": 201
+    },
+    "lvl120retro": {}
   }
 }

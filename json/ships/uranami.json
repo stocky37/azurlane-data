@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "uranami",
   "stats": {
-    "aa": 27,
-    "acc": 69,
-    "arm": "light",
-    "asw": 48,
-    "avi": 0,
-    "eva": 72,
-    "fp": 12,
-    "hp": 290,
-    "lck": 75,
-    "oil": 3,
-    "rld": 76
+    "base": {
+      "aa": 27,
+      "acc": 69,
+      "arm": "light",
+      "asw": 48,
+      "avi": 0,
+      "eva": 72,
+      "fp": 12,
+      "hp": 290,
+      "lck": 75,
+      "oil": 3,
+      "rld": 76
+    },
+    "lvl100": {
+      "aa": 127,
+      "acc": 180,
+      "arm": "light",
+      "asw": 176,
+      "avi": 0,
+      "eva": 188,
+      "fp": 57,
+      "hp": 1499,
+      "lck": 75,
+      "oil": 10,
+      "rld": 181
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 146,
+      "acc": 189,
+      "arm": "light",
+      "asw": 195,
+      "avi": 0,
+      "eva": 195,
+      "fp": 65,
+      "hp": 1798,
+      "lck": 75,
+      "oil": 10,
+      "rld": 208
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "niizuki",
   "stats": {
-    "aa": 36,
-    "acc": 67,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 67,
-    "fp": 14,
-    "hp": 394,
-    "lck": 32,
-    "oil": 2,
-    "rld": 77
+    "base": {
+      "aa": 36,
+      "acc": 67,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 67,
+      "fp": 14,
+      "hp": 394,
+      "lck": 32,
+      "oil": 2,
+      "rld": 77
+    },
+    "lvl100": {
+      "aa": 168,
+      "acc": 175,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 174,
+      "fp": 66,
+      "hp": 2037,
+      "lck": 32,
+      "oil": 9,
+      "rld": 183
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 193,
+      "acc": 184,
+      "arm": "light",
+      "asw": 200,
+      "avi": 0,
+      "eva": 179,
+      "fp": 76,
+      "hp": 2445,
+      "lck": 32,
+      "oil": 9,
+      "rld": 210
+    },
+    "lvl120retro": {}
   }
 }

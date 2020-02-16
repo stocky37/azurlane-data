@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "raleigh",
   "stats": {
-    "aa": 53,
-    "acc": 52,
-    "arm": "light",
-    "asw": 19,
-    "avi": 0,
-    "eva": 30,
-    "fp": 26,
-    "hp": 554,
-    "lck": 82,
-    "oil": 2,
-    "rld": 67
+    "base": {
+      "aa": 53,
+      "acc": 52,
+      "arm": "light",
+      "asw": 19,
+      "avi": 0,
+      "eva": 30,
+      "fp": 26,
+      "hp": 554,
+      "lck": 82,
+      "oil": 2,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 246,
+      "acc": 135,
+      "arm": "light",
+      "asw": 70,
+      "avi": 0,
+      "eva": 79,
+      "fp": 123,
+      "hp": 2865,
+      "lck": 82,
+      "oil": 8,
+      "rld": 158
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 281,
+      "acc": 151,
+      "arm": "light",
+      "asw": 80,
+      "avi": 0,
+      "eva": 101,
+      "fp": 142,
+      "hp": 3237,
+      "lck": 82,
+      "oil": 8,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

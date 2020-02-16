@@ -8,16 +8,46 @@
   "nationality": "hololive",
   "slug": "tokino-sora",
   "stats": {
-    "aa": 64,
-    "acc": 35,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 80,
-    "eva": 11,
-    "fp": 0,
-    "hp": 1066,
-    "lck": 46,
-    "oil": 4,
-    "rld": 45
+    "base": {
+      "aa": 64,
+      "acc": 35,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 80,
+      "eva": 11,
+      "fp": 0,
+      "hp": 1066,
+      "lck": 46,
+      "oil": 4,
+      "rld": 45
+    },
+    "lvl100": {
+      "aa": 299,
+      "acc": 91,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 377,
+      "eva": 29,
+      "fp": 0,
+      "hp": 5512,
+      "lck": 46,
+      "oil": 13,
+      "rld": 107
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 337,
+      "acc": 100,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 419,
+      "eva": 49,
+      "fp": 0,
+      "hp": 6614,
+      "lck": 46,
+      "oil": 13,
+      "rld": 123
+    },
+    "lvl120retro": {}
   }
 }

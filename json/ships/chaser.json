@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "chaser",
   "stats": {
-    "aa": 48,
-    "acc": 28,
-    "arm": "medium",
-    "asw": 35,
-    "avi": 56,
-    "eva": 15,
-    "fp": 0,
-    "hp": 778,
-    "lck": 82,
-    "oil": 3,
-    "rld": 68
+    "base": {
+      "aa": 48,
+      "acc": 28,
+      "arm": "medium",
+      "asw": 35,
+      "avi": 56,
+      "eva": 15,
+      "fp": 0,
+      "hp": 778,
+      "lck": 82,
+      "oil": 3,
+      "rld": 68
+    },
+    "lvl100": {
+      "aa": 224,
+      "acc": 73,
+      "arm": "medium",
+      "asw": 128,
+      "avi": 263,
+      "eva": 39,
+      "fp": 0,
+      "hp": 4023,
+      "lck": 82,
+      "oil": 11,
+      "rld": 161
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 257,
+      "acc": 86,
+      "arm": "medium",
+      "asw": 144,
+      "avi": 299,
+      "eva": 62,
+      "fp": 0,
+      "hp": 4707,
+      "lck": 82,
+      "oil": 11,
+      "rld": 185
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "bache",
   "stats": {
-    "aa": 36,
-    "acc": 68,
-    "arm": "light",
-    "asw": 46,
-    "avi": 0,
-    "eva": 60,
-    "fp": 14,
-    "hp": 338,
-    "lck": 78,
-    "oil": 2,
-    "rld": 72
+    "base": {
+      "aa": 36,
+      "acc": 68,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 60,
+      "fp": 14,
+      "hp": 338,
+      "lck": 78,
+      "oil": 2,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 169,
+      "acc": 177,
+      "arm": "light",
+      "asw": 168,
+      "avi": 0,
+      "eva": 156,
+      "fp": 66,
+      "hp": 1746,
+      "lck": 78,
+      "oil": 8,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 194,
+      "acc": 186,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 161,
+      "fp": 76,
+      "hp": 2095,
+      "lck": 78,
+      "oil": 8,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

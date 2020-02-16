@@ -8,16 +8,46 @@
   "nationality": "iris-libre",
   "slug": "l-opiniatre",
   "stats": {
-    "aa": 38,
-    "acc": 71,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 66,
-    "fp": 19,
-    "hp": 286,
-    "lck": 45,
-    "oil": 2,
-    "rld": 72
+    "base": {
+      "aa": 38,
+      "acc": 71,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 66,
+      "fp": 19,
+      "hp": 286,
+      "lck": 45,
+      "oil": 2,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 177,
+      "acc": 185,
+      "arm": "light",
+      "asw": 174,
+      "avi": 0,
+      "eva": 171,
+      "fp": 89,
+      "hp": 1477,
+      "lck": 45,
+      "oil": 9,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 204,
+      "acc": 194,
+      "arm": "light",
+      "asw": 193,
+      "avi": 0,
+      "eva": 178,
+      "fp": 103,
+      "hp": 1772,
+      "lck": 45,
+      "oil": 9,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

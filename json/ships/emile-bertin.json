@@ -8,16 +8,70 @@
   "nationality": "iris-libre",
   "slug": "emile-bertin",
   "stats": {
-    "aa": 51,
-    "acc": 57,
-    "arm": "light",
-    "asw": 35,
-    "avi": 0,
-    "eva": 30,
-    "fp": 30,
-    "hp": 548,
-    "lck": 67,
-    "oil": 3,
-    "rld": 64
+    "base": {
+      "aa": 51,
+      "acc": 57,
+      "arm": "light",
+      "asw": 35,
+      "avi": 0,
+      "eva": 30,
+      "fp": 30,
+      "hp": 548,
+      "lck": 67,
+      "oil": 3,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 238,
+      "acc": 149,
+      "arm": "light",
+      "asw": 128,
+      "avi": 0,
+      "eva": 78,
+      "fp": 140,
+      "hp": 2831,
+      "lck": 67,
+      "oil": 10,
+      "rld": 150
+    },
+    "lvl100retro": {
+      "aa": 293,
+      "acc": 154,
+      "arm": "light",
+      "asw": 128,
+      "avi": 0,
+      "eva": 78,
+      "fp": 170,
+      "hp": 3071,
+      "lck": 67,
+      "oil": 10,
+      "rld": 155
+    },
+    "lvl120": {
+      "aa": 272,
+      "acc": 170,
+      "arm": "light",
+      "asw": 144,
+      "avi": 0,
+      "eva": 117,
+      "fp": 161,
+      "hp": 3185,
+      "lck": 67,
+      "oil": 10,
+      "rld": 173
+    },
+    "lvl120retro": {
+      "aa": 327,
+      "acc": 175,
+      "arm": "light",
+      "asw": 144,
+      "avi": 0,
+      "eva": 117,
+      "fp": 191,
+      "hp": 3425,
+      "lck": 67,
+      "oil": 10,
+      "rld": 178
+    }
   }
 }

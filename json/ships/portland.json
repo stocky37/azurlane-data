@@ -8,16 +8,70 @@
   "nationality": "eagle-union",
   "slug": "portland",
   "stats": {
-    "aa": 46,
-    "acc": 41,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 10,
-    "fp": 38,
-    "hp": 788,
-    "lck": 78,
-    "oil": 3,
-    "rld": 62
+    "base": {
+      "aa": 46,
+      "acc": 41,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 10,
+      "fp": 38,
+      "hp": 788,
+      "lck": 78,
+      "oil": 3,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 213,
+      "acc": 107,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 25,
+      "fp": 178,
+      "hp": 4076,
+      "lck": 78,
+      "oil": 10,
+      "rld": 148
+    },
+    "lvl100retro": {
+      "aa": 228,
+      "acc": 107,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 45,
+      "fp": 208,
+      "hp": 4866,
+      "lck": 78,
+      "oil": 10,
+      "rld": 148
+    },
+    "lvl120": {
+      "aa": 245,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 58,
+      "fp": 204,
+      "hp": 4565,
+      "lck": 78,
+      "oil": 10,
+      "rld": 170
+    },
+    "lvl120retro": {
+      "aa": 260,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 78,
+      "fp": 234,
+      "hp": 5355,
+      "lck": 78,
+      "oil": 10,
+      "rld": 170
+    }
   }
 }

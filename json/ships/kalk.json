@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "kalk",
   "stats": {
-    "aa": 32,
-    "acc": 67,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 60,
-    "fp": 16,
-    "hp": 294,
-    "lck": 75,
-    "oil": 2,
-    "rld": 75
+    "base": {
+      "aa": 32,
+      "acc": 67,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 60,
+      "fp": 16,
+      "hp": 294,
+      "lck": 75,
+      "oil": 2,
+      "rld": 75
+    },
+    "lvl100": {
+      "aa": 149,
+      "acc": 175,
+      "arm": "light",
+      "asw": 174,
+      "avi": 0,
+      "eva": 157,
+      "fp": 76,
+      "hp": 1521,
+      "lck": 75,
+      "oil": 8,
+      "rld": 178
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 172,
+      "acc": 184,
+      "arm": "light",
+      "asw": 193,
+      "avi": 0,
+      "eva": 163,
+      "fp": 87,
+      "hp": 1826,
+      "lck": 75,
+      "oil": 8,
+      "rld": 204
+    },
+    "lvl120retro": {}
   }
 }

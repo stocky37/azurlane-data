@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "renown",
   "stats": {
-    "aa": 52,
-    "acc": 23,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 71,
-    "hp": 1022,
-    "lck": 85,
-    "oil": 4,
-    "rld": 57
+    "base": {
+      "aa": 52,
+      "acc": 23,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 71,
+      "hp": 1022,
+      "lck": 85,
+      "oil": 4,
+      "rld": 57
+    },
+    "lvl100": {
+      "aa": 241,
+      "acc": 60,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 22,
+      "fp": 335,
+      "hp": 5283,
+      "lck": 85,
+      "oil": 13,
+      "rld": 136
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 276,
+      "acc": 72,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 37,
+      "fp": 376,
+      "hp": 6207,
+      "lck": 85,
+      "oil": 13,
+      "rld": 156
+    },
+    "lvl120retro": {}
   }
 }

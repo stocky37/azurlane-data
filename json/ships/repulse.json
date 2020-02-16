@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "repulse",
   "stats": {
-    "aa": 50,
-    "acc": 22,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 67,
-    "hp": 993,
-    "lck": 28,
-    "oil": 4,
-    "rld": 56
+    "base": {
+      "aa": 50,
+      "acc": 22,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 67,
+      "hp": 993,
+      "lck": 28,
+      "oil": 4,
+      "rld": 56
+    },
+    "lvl100": {
+      "aa": 234,
+      "acc": 56,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 21,
+      "fp": 315,
+      "hp": 5133,
+      "lck": 28,
+      "oil": 12,
+      "rld": 133
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 268,
+      "acc": 68,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 35,
+      "fp": 354,
+      "hp": 6032,
+      "lck": 28,
+      "oil": 12,
+      "rld": 152
+    },
+    "lvl120retro": {}
   }
 }

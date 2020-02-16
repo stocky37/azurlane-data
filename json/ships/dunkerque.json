@@ -8,16 +8,46 @@
   "nationality": "vichya-dominion",
   "slug": "dunkerque",
   "stats": {
-    "aa": 42,
-    "acc": 24,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 67,
-    "hp": 1127,
-    "lck": 35,
-    "oil": 4,
-    "rld": 60
+    "base": {
+      "aa": 42,
+      "acc": 24,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 67,
+      "hp": 1127,
+      "lck": 35,
+      "oil": 4,
+      "rld": 60
+    },
+    "lvl100": {
+      "aa": 197,
+      "acc": 61,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 22,
+      "fp": 317,
+      "hp": 5827,
+      "lck": 35,
+      "oil": 13,
+      "rld": 142
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 227,
+      "acc": 71,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 41,
+      "fp": 357,
+      "hp": 6788,
+      "lck": 35,
+      "oil": 13,
+      "rld": 163
+    },
+    "lvl120retro": {}
   }
 }

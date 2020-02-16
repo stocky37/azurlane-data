@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "chicago",
   "stats": {
-    "aa": 38,
-    "acc": 40,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 44,
-    "hp": 581,
-    "lck": 32,
-    "oil": 3,
-    "rld": 61
+    "base": {
+      "aa": 38,
+      "acc": 40,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 44,
+      "hp": 581,
+      "lck": 32,
+      "oil": 3,
+      "rld": 61
+    },
+    "lvl100": {
+      "aa": 178,
+      "acc": 104,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 209,
+      "hp": 3002,
+      "lck": 32,
+      "oil": 10,
+      "rld": 145
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 204,
+      "acc": 121,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 53,
+      "fp": 240,
+      "hp": 3393,
+      "lck": 32,
+      "oil": 10,
+      "rld": 167
+    },
+    "lvl120retro": {}
   }
 }

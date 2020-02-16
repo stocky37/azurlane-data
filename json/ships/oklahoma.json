@@ -8,16 +8,70 @@
   "nationality": "eagle-union",
   "slug": "oklahoma",
   "stats": {
-    "aa": 38,
-    "acc": 20,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 4,
-    "fp": 72,
-    "hp": 1153,
-    "lck": 38,
-    "oil": 4,
-    "rld": 49
+    "base": {
+      "aa": 38,
+      "acc": 20,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 4,
+      "fp": 72,
+      "hp": 1153,
+      "lck": 38,
+      "oil": 4,
+      "rld": 49
+    },
+    "lvl100": {
+      "aa": 175,
+      "acc": 52,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 338,
+      "hp": 5960,
+      "lck": 38,
+      "oil": 12,
+      "rld": 115
+    },
+    "lvl100retro": {
+      "aa": 220,
+      "acc": 62,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 348,
+      "hp": 6200,
+      "lck": 38,
+      "oil": 12,
+      "rld": 135
+    },
+    "lvl120": {
+      "aa": 202,
+      "acc": 68,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 26,
+      "fp": 378,
+      "hp": 6956,
+      "lck": 38,
+      "oil": 12,
+      "rld": 132
+    },
+    "lvl120retro": {
+      "aa": 247,
+      "acc": 78,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 26,
+      "fp": 388,
+      "hp": 7196,
+      "lck": 38,
+      "oil": 12,
+      "rld": 152
+    }
   }
 }

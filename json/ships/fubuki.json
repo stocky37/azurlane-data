@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "fubuki",
   "stats": {
-    "aa": 27,
-    "acc": 67,
-    "arm": "light",
-    "asw": 48,
-    "avi": 0,
-    "eva": 71,
-    "fp": 12,
-    "hp": 290,
-    "lck": 34,
-    "oil": 2,
-    "rld": 78
+    "base": {
+      "aa": 27,
+      "acc": 67,
+      "arm": "light",
+      "asw": 48,
+      "avi": 0,
+      "eva": 71,
+      "fp": 12,
+      "hp": 290,
+      "lck": 34,
+      "oil": 2,
+      "rld": 78
+    },
+    "lvl100": {
+      "aa": 127,
+      "acc": 174,
+      "arm": "light",
+      "asw": 175,
+      "avi": 0,
+      "eva": 185,
+      "fp": 54,
+      "hp": 1498,
+      "lck": 34,
+      "oil": 9,
+      "rld": 186
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 146,
+      "acc": 183,
+      "arm": "light",
+      "asw": 195,
+      "avi": 0,
+      "eva": 191,
+      "fp": 62,
+      "hp": 1798,
+      "lck": 34,
+      "oil": 9,
+      "rld": 213
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "neptunia",
   "slug": "purple-heart",
   "stats": {
-    "aa": 59,
-    "acc": 54,
-    "arm": "light",
-    "asw": 31,
-    "avi": 0,
-    "eva": 29,
-    "fp": 31,
-    "hp": 637,
-    "lck": 87,
-    "oil": 3,
-    "rld": 66
+    "base": {
+      "aa": 59,
+      "acc": 54,
+      "arm": "light",
+      "asw": 31,
+      "avi": 0,
+      "eva": 29,
+      "fp": 31,
+      "hp": 637,
+      "lck": 87,
+      "oil": 3,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 276,
+      "acc": 140,
+      "arm": "light",
+      "asw": 113,
+      "avi": 0,
+      "eva": 76,
+      "fp": 145,
+      "hp": 3293,
+      "lck": 87,
+      "oil": 11,
+      "rld": 156
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 313,
+      "acc": 155,
+      "arm": "light",
+      "asw": 128,
+      "avi": 0,
+      "eva": 102,
+      "fp": 167,
+      "hp": 3695,
+      "lck": 87,
+      "oil": 11,
+      "rld": 179
+    },
+    "lvl120retro": {}
   }
 }

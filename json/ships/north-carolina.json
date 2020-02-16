@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "north-carolina",
   "stats": {
-    "aa": 79,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 82,
-    "hp": 1315,
-    "lck": 81,
-    "oil": 5,
-    "rld": 58
+    "base": {
+      "aa": 79,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 82,
+      "hp": 1315,
+      "lck": 81,
+      "oil": 5,
+      "rld": 58
+    },
+    "lvl100": {
+      "aa": 368,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 385,
+      "hp": 6798,
+      "lck": 81,
+      "oil": 15,
+      "rld": 138
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 400,
+      "acc": 70,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 421,
+      "hp": 7852,
+      "lck": 81,
+      "oil": 15,
+      "rld": 159
+    },
+    "lvl120retro": {}
   }
 }

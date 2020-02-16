@@ -8,16 +8,46 @@
   "nationality": "utawarerumono",
   "slug": "fumiruiru",
   "stats": {
-    "aa": 50,
-    "acc": 29,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 63,
-    "eva": 13,
-    "fp": 0,
-    "hp": 862,
-    "lck": 43,
-    "oil": 4,
-    "rld": 35
+    "base": {
+      "aa": 50,
+      "acc": 29,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 63,
+      "eva": 13,
+      "fp": 0,
+      "hp": 862,
+      "lck": 43,
+      "oil": 4,
+      "rld": 35
+    },
+    "lvl100": {
+      "aa": 232,
+      "acc": 75,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 299,
+      "eva": 33,
+      "fp": 0,
+      "hp": 4458,
+      "lck": 43,
+      "oil": 12,
+      "rld": 82
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 266,
+      "acc": 82,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 337,
+      "eva": 54,
+      "fp": 0,
+      "hp": 5126,
+      "lck": 43,
+      "oil": 12,
+      "rld": 95
+    },
+    "lvl120retro": {}
   }
 }

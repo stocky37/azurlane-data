@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "duke-of-york",
   "stats": {
-    "aa": 42,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 82,
-    "hp": 1334,
-    "lck": 73,
-    "oil": 5,
-    "rld": 56
+    "base": {
+      "aa": 42,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 82,
+      "hp": 1334,
+      "lck": 73,
+      "oil": 5,
+      "rld": 56
+    },
+    "lvl100": {
+      "aa": 196,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 385,
+      "hp": 6897,
+      "lck": 73,
+      "oil": 15,
+      "rld": 133
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 225,
+      "acc": 70,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 35,
+      "fp": 421,
+      "hp": 7967,
+      "lck": 73,
+      "oil": 15,
+      "rld": 153
+    },
+    "lvl120retro": {}
   }
 }

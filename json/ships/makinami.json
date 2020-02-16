@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "makinami",
   "stats": {
-    "aa": 29,
-    "acc": 69,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 71,
-    "fp": 13,
-    "hp": 348,
-    "lck": 40,
-    "oil": 2,
-    "rld": 79
+    "base": {
+      "aa": 29,
+      "acc": 69,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 71,
+      "fp": 13,
+      "hp": 348,
+      "lck": 40,
+      "oil": 2,
+      "rld": 79
+    },
+    "lvl100": {
+      "aa": 135,
+      "acc": 180,
+      "arm": "light",
+      "asw": 174,
+      "avi": 0,
+      "eva": 185,
+      "fp": 61,
+      "hp": 1798,
+      "lck": 40,
+      "oil": 9,
+      "rld": 187
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 156,
+      "acc": 189,
+      "arm": "light",
+      "asw": 193,
+      "avi": 0,
+      "eva": 191,
+      "fp": 70,
+      "hp": 2157,
+      "lck": 40,
+      "oil": 9,
+      "rld": 215
+    },
+    "lvl120retro": {}
   }
 }

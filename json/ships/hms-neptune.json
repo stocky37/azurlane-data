@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "hms-neptune",
   "stats": {
-    "aa": 69,
-    "acc": 54,
-    "arm": "light",
-    "asw": 37,
-    "avi": 0,
-    "eva": 28,
-    "fp": 32,
-    "hp": 815,
-    "lck": 0,
-    "oil": 7,
-    "rld": 60
+    "base": {
+      "aa": 69,
+      "acc": 54,
+      "arm": "light",
+      "asw": 37,
+      "avi": 0,
+      "eva": 28,
+      "fp": 32,
+      "hp": 815,
+      "lck": 0,
+      "oil": 7,
+      "rld": 60
+    },
+    "lvl100": {
+      "aa": 323,
+      "acc": 141,
+      "arm": "light",
+      "asw": 135,
+      "avi": 0,
+      "eva": 73,
+      "fp": 149,
+      "hp": 4215,
+      "lck": 0,
+      "oil": 12,
+      "rld": 142
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 363,
+      "acc": 158,
+      "arm": "light",
+      "asw": 152,
+      "avi": 0,
+      "eva": 98,
+      "fp": 172,
+      "hp": 4637,
+      "lck": 0,
+      "oil": 12,
+      "rld": 164
+    },
+    "lvl120retro": {}
   }
 }

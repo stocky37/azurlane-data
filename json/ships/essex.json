@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "essex",
   "stats": {
-    "aa": 63,
-    "acc": 30,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 83,
-    "eva": 13,
-    "fp": 0,
-    "hp": 1108,
-    "lck": 90,
-    "oil": 4,
-    "rld": 48
+    "base": {
+      "aa": 63,
+      "acc": 30,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 83,
+      "eva": 13,
+      "fp": 0,
+      "hp": 1108,
+      "lck": 90,
+      "oil": 4,
+      "rld": 48
+    },
+    "lvl100": {
+      "aa": 293,
+      "acc": 79,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 391,
+      "eva": 34,
+      "fp": 0,
+      "hp": 5730,
+      "lck": 90,
+      "oil": 13,
+      "rld": 114
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 331,
+      "acc": 88,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 433,
+      "eva": 54,
+      "fp": 0,
+      "hp": 6647,
+      "lck": 90,
+      "oil": 13,
+      "rld": 131
+    },
+    "lvl120retro": {}
   }
 }

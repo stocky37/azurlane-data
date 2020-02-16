@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "independence",
   "stats": {
-    "aa": 50,
-    "acc": 29,
-    "arm": "medium",
-    "asw": 26,
-    "avi": 58,
-    "eva": 21,
-    "fp": 0,
-    "hp": 800,
-    "lck": 78,
-    "oil": 3,
-    "rld": 67
+    "base": {
+      "aa": 50,
+      "acc": 29,
+      "arm": "medium",
+      "asw": 26,
+      "avi": 58,
+      "eva": 21,
+      "fp": 0,
+      "hp": 800,
+      "lck": 78,
+      "oil": 3,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 234,
+      "acc": 75,
+      "arm": "medium",
+      "asw": 95,
+      "avi": 273,
+      "eva": 54,
+      "fp": 0,
+      "hp": 4135,
+      "lck": 78,
+      "oil": 11,
+      "rld": 158
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 268,
+      "acc": 89,
+      "arm": "medium",
+      "asw": 109,
+      "avi": 310,
+      "eva": 83,
+      "fp": 0,
+      "hp": 4796,
+      "lck": 78,
+      "oil": 11,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "brooklyn",
   "stats": {
-    "aa": 58,
-    "acc": 54,
-    "arm": "light",
-    "asw": 24,
-    "avi": 0,
-    "eva": 28,
-    "fp": 30,
-    "hp": 595,
-    "lck": 55,
-    "oil": 2,
-    "rld": 66
+    "base": {
+      "aa": 58,
+      "acc": 54,
+      "arm": "light",
+      "asw": 24,
+      "avi": 0,
+      "eva": 28,
+      "fp": 30,
+      "hp": 595,
+      "lck": 55,
+      "oil": 2,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 270,
+      "acc": 141,
+      "arm": "light",
+      "asw": 87,
+      "avi": 0,
+      "eva": 73,
+      "fp": 142,
+      "hp": 3076,
+      "lck": 55,
+      "oil": 9,
+      "rld": 157
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 307,
+      "acc": 158,
+      "arm": "light",
+      "asw": 99,
+      "avi": 0,
+      "eva": 90,
+      "fp": 164,
+      "hp": 3470,
+      "lck": 55,
+      "oil": 9,
+      "rld": 181
+    },
+    "lvl120retro": {}
   }
 }

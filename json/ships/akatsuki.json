@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "akatsuki",
   "stats": {
-    "aa": 28,
-    "acc": 65,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 72,
-    "fp": 11,
-    "hp": 282,
-    "lck": 45,
-    "oil": 2,
-    "rld": 77
+    "base": {
+      "aa": 28,
+      "acc": 65,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 72,
+      "fp": 11,
+      "hp": 282,
+      "lck": 45,
+      "oil": 2,
+      "rld": 77
+    },
+    "lvl100": {
+      "aa": 130,
+      "acc": 170,
+      "arm": "light",
+      "asw": 171,
+      "avi": 0,
+      "eva": 188,
+      "fp": 52,
+      "hp": 1456,
+      "lck": 45,
+      "oil": 8,
+      "rld": 183
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 150,
+      "acc": 178,
+      "arm": "light",
+      "asw": 190,
+      "avi": 0,
+      "eva": 194,
+      "fp": 60,
+      "hp": 1747,
+      "lck": 45,
+      "oil": 8,
+      "rld": 210
+    },
+    "lvl120retro": {}
   }
 }

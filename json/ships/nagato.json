@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "nagato",
   "stats": {
-    "aa": 34,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 80,
-    "hp": 1345,
-    "lck": 71,
-    "oil": 5,
-    "rld": 54
+    "base": {
+      "aa": 34,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 80,
+      "hp": 1345,
+      "lck": 71,
+      "oil": 5,
+      "rld": 54
+    },
+    "lvl100": {
+      "aa": 159,
+      "acc": 56,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 377,
+      "hp": 6955,
+      "lck": 71,
+      "oil": 15,
+      "rld": 127
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 182,
+      "acc": 70,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 37,
+      "fp": 419,
+      "hp": 8117,
+      "lck": 71,
+      "oil": 15,
+      "rld": 146
+    },
+    "lvl120retro": {}
   }
 }

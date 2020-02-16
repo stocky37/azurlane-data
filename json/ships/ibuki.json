@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "ibuki",
   "stats": {
-    "aa": 36,
-    "acc": 47,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 10,
-    "fp": 51,
-    "hp": 824,
-    "lck": 0,
-    "oil": 7,
-    "rld": 69
+    "base": {
+      "aa": 36,
+      "acc": 47,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 10,
+      "fp": 51,
+      "hp": 824,
+      "lck": 0,
+      "oil": 7,
+      "rld": 69
+    },
+    "lvl100": {
+      "aa": 169,
+      "acc": 122,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 41,
+      "fp": 236,
+      "hp": 4260,
+      "lck": 0,
+      "oil": 13,
+      "rld": 163
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 194,
+      "acc": 136,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 86,
+      "fp": 270,
+      "hp": 4793,
+      "lck": 0,
+      "oil": 13,
+      "rld": 187
+    },
+    "lvl120retro": {}
   }
 }

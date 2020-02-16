@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "glorious",
   "stats": {
-    "aa": 55,
-    "acc": 30,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 68,
-    "eva": 12,
-    "fp": 0,
-    "hp": 1062,
-    "lck": 32,
-    "oil": 4,
-    "rld": 40
+    "base": {
+      "aa": 55,
+      "acc": 30,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 68,
+      "eva": 12,
+      "fp": 0,
+      "hp": 1062,
+      "lck": 32,
+      "oil": 4,
+      "rld": 40
+    },
+    "lvl100": {
+      "aa": 257,
+      "acc": 79,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 320,
+      "eva": 31,
+      "fp": 0,
+      "hp": 5490,
+      "lck": 32,
+      "oil": 12,
+      "rld": 95
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 292,
+      "acc": 88,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 360,
+      "eva": 51,
+      "fp": 0,
+      "hp": 6313,
+      "lck": 32,
+      "oil": 12,
+      "rld": 109
+    },
+    "lvl120retro": {}
   }
 }

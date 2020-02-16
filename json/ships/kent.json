@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "kent",
   "stats": {
-    "aa": 39,
-    "acc": 38,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 40,
-    "hp": 598,
-    "lck": 71,
-    "oil": 3,
-    "rld": 59
+    "base": {
+      "aa": 39,
+      "acc": 38,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 40,
+      "hp": 598,
+      "lck": 71,
+      "oil": 3,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 181,
+      "acc": 99,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 21,
+      "fp": 190,
+      "hp": 3090,
+      "lck": 71,
+      "oil": 10,
+      "rld": 139
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 208,
+      "acc": 116,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 65,
+      "fp": 218,
+      "hp": 3508,
+      "lck": 71,
+      "oil": 10,
+      "rld": 160
+    },
+    "lvl120retro": {}
   }
 }

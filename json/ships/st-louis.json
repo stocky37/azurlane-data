@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "st-louis",
   "stats": {
-    "aa": 60,
-    "acc": 57,
-    "arm": "light",
-    "asw": 24,
-    "avi": 0,
-    "eva": 28,
-    "fp": 32,
-    "hp": 620,
-    "lck": 65,
-    "oil": 3,
-    "rld": 68
+    "base": {
+      "aa": 60,
+      "acc": 57,
+      "arm": "light",
+      "asw": 24,
+      "avi": 0,
+      "eva": 28,
+      "fp": 32,
+      "hp": 620,
+      "lck": 65,
+      "oil": 3,
+      "rld": 68
+    },
+    "lvl100": {
+      "aa": 279,
+      "acc": 148,
+      "arm": "light",
+      "asw": 88,
+      "avi": 0,
+      "eva": 73,
+      "fp": 149,
+      "hp": 3204,
+      "lck": 65,
+      "oil": 10,
+      "rld": 161
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 316,
+      "acc": 166,
+      "arm": "light",
+      "asw": 101,
+      "avi": 0,
+      "eva": 90,
+      "fp": 171,
+      "hp": 3604,
+      "lck": 65,
+      "oil": 10,
+      "rld": 185
+    },
+    "lvl120retro": {}
   }
 }

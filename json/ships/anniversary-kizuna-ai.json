@@ -8,16 +8,46 @@
   "nationality": "kizunaai",
   "slug": "anniversary-kizuna-ai",
   "stats": {
-    "aa": 61,
-    "acc": 30,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 78,
-    "eva": 13,
-    "fp": 0,
-    "hp": 1068,
-    "lck": 66,
-    "oil": 4,
-    "rld": 44
+    "base": {
+      "aa": 61,
+      "acc": 30,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 78,
+      "eva": 13,
+      "fp": 0,
+      "hp": 1068,
+      "lck": 66,
+      "oil": 4,
+      "rld": 44
+    },
+    "lvl100": {
+      "aa": 285,
+      "acc": 78,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 368,
+      "eva": 34,
+      "fp": 0,
+      "hp": 5522,
+      "lck": 66,
+      "oil": 13,
+      "rld": 104
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 323,
+      "acc": 86,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 410,
+      "eva": 37,
+      "fp": 0,
+      "hp": 6626,
+      "lck": 66,
+      "oil": 13,
+      "rld": 120
+    },
+    "lvl120retro": {}
   }
 }

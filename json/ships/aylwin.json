@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "aylwin",
   "stats": {
-    "aa": 34,
-    "acc": 63,
-    "arm": "light",
-    "asw": 48,
-    "avi": 0,
-    "eva": 60,
-    "fp": 15,
-    "hp": 271,
-    "lck": 83,
-    "oil": 2,
-    "rld": 73
+    "base": {
+      "aa": 34,
+      "acc": 63,
+      "arm": "light",
+      "asw": 48,
+      "avi": 0,
+      "eva": 60,
+      "fp": 15,
+      "hp": 271,
+      "lck": 83,
+      "oil": 2,
+      "rld": 73
+    },
+    "lvl100": {
+      "aa": 159,
+      "acc": 165,
+      "arm": "light",
+      "asw": 177,
+      "avi": 0,
+      "eva": 156,
+      "fp": 70,
+      "hp": 1400,
+      "lck": 83,
+      "oil": 8,
+      "rld": 173
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 182,
+      "acc": 173,
+      "arm": "light",
+      "asw": 197,
+      "avi": 0,
+      "eva": 162,
+      "fp": 81,
+      "hp": 1679,
+      "lck": 83,
+      "oil": 8,
+      "rld": 199
+    },
+    "lvl120retro": {}
   }
 }

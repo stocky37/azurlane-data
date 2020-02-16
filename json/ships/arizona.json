@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "arizona",
   "stats": {
-    "aa": 41,
-    "acc": 21,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 4,
-    "fp": 76,
-    "hp": 1183,
-    "lck": 17,
-    "oil": 5,
-    "rld": 51
+    "base": {
+      "aa": 41,
+      "acc": 21,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 4,
+      "fp": 76,
+      "hp": 1183,
+      "lck": 17,
+      "oil": 5,
+      "rld": 51
+    },
+    "lvl100": {
+      "aa": 190,
+      "acc": 54,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 358,
+      "hp": 6116,
+      "lck": 17,
+      "oil": 14,
+      "rld": 121
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 219,
+      "acc": 70,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 27,
+      "fp": 399,
+      "hp": 7137,
+      "lck": 17,
+      "oil": 14,
+      "rld": 139
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "hololive",
   "slug": "ookami-mio",
   "stats": {
-    "aa": 54,
-    "acc": 35,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 71,
-    "eva": 11,
-    "fp": 0,
-    "hp": 1027,
-    "lck": 53,
-    "oil": 4,
-    "rld": 43
+    "base": {
+      "aa": 54,
+      "acc": 35,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 71,
+      "eva": 11,
+      "fp": 0,
+      "hp": 1027,
+      "lck": 53,
+      "oil": 4,
+      "rld": 43
+    },
+    "lvl100": {
+      "aa": 253,
+      "acc": 91,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 334,
+      "eva": 28,
+      "fp": 0,
+      "hp": 5311,
+      "lck": 53,
+      "oil": 12,
+      "rld": 102
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 288,
+      "acc": 100,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 374,
+      "eva": 47,
+      "fp": 0,
+      "hp": 6373,
+      "lck": 53,
+      "oil": 12,
+      "rld": 117
+    },
+    "lvl120retro": {}
   }
 }

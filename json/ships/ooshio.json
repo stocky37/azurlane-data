@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "ooshio",
   "stats": {
-    "aa": 28,
-    "acc": 67,
-    "arm": "light",
-    "asw": 42,
-    "avi": 0,
-    "eva": 71,
-    "fp": 12,
-    "hp": 312,
-    "lck": 40,
-    "oil": 2,
-    "rld": 72
+    "base": {
+      "aa": 28,
+      "acc": 67,
+      "arm": "light",
+      "asw": 42,
+      "avi": 0,
+      "eva": 71,
+      "fp": 12,
+      "hp": 312,
+      "lck": 40,
+      "oil": 2,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 130,
+      "acc": 174,
+      "arm": "light",
+      "asw": 153,
+      "avi": 0,
+      "eva": 185,
+      "fp": 54,
+      "hp": 1614,
+      "lck": 40,
+      "oil": 8,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 150,
+      "acc": 183,
+      "arm": "light",
+      "asw": 171,
+      "avi": 0,
+      "eva": 191,
+      "fp": 62,
+      "hp": 1937,
+      "lck": 40,
+      "oil": 8,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

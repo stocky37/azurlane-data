@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "lexington",
   "stats": {
-    "aa": 57,
-    "acc": 32,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 75,
-    "eva": 13,
-    "fp": 0,
-    "hp": 1183,
-    "lck": 35,
-    "oil": 4,
-    "rld": 41
+    "base": {
+      "aa": 57,
+      "acc": 32,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 75,
+      "eva": 13,
+      "fp": 0,
+      "hp": 1183,
+      "lck": 35,
+      "oil": 4,
+      "rld": 41
+    },
+    "lvl100": {
+      "aa": 266,
+      "acc": 83,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 356,
+      "eva": 34,
+      "fp": 0,
+      "hp": 6116,
+      "lck": 35,
+      "oil": 12,
+      "rld": 96
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 303,
+      "acc": 92,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 397,
+      "eva": 57,
+      "fp": 0,
+      "hp": 6912,
+      "lck": 35,
+      "oil": 12,
+      "rld": 110
+    },
+    "lvl120retro": {}
   }
 }

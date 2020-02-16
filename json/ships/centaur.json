@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "centaur",
   "stats": {
-    "aa": 50,
-    "acc": 31,
-    "arm": "medium",
-    "asw": 31,
-    "avi": 80,
-    "eva": 19,
-    "fp": 0,
-    "hp": 1105,
-    "lck": 73,
-    "oil": 4,
-    "rld": 59
+    "base": {
+      "aa": 50,
+      "acc": 31,
+      "arm": "medium",
+      "asw": 31,
+      "avi": 80,
+      "eva": 19,
+      "fp": 0,
+      "hp": 1105,
+      "lck": 73,
+      "oil": 4,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 234,
+      "acc": 81,
+      "arm": "medium",
+      "asw": 112,
+      "avi": 379,
+      "eva": 50,
+      "fp": 0,
+      "hp": 5712,
+      "lck": 73,
+      "oil": 13,
+      "rld": 139
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 268,
+      "acc": 95,
+      "arm": "medium",
+      "asw": 126,
+      "avi": 421,
+      "eva": 70,
+      "fp": 0,
+      "hp": 6626,
+      "lck": 73,
+      "oil": 13,
+      "rld": 160
+    },
+    "lvl120retro": {}
   }
 }

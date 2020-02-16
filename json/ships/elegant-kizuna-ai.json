@@ -8,16 +8,46 @@
   "nationality": "kizunaai",
   "slug": "elegant-kizuna-ai",
   "stats": {
-    "aa": 42,
-    "acc": 46,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 19,
-    "fp": 47,
-    "hp": 809,
-    "lck": 66,
-    "oil": 4,
-    "rld": 64
+    "base": {
+      "aa": 42,
+      "acc": 46,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 19,
+      "fp": 47,
+      "hp": 809,
+      "lck": 66,
+      "oil": 4,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 196,
+      "acc": 119,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 49,
+      "fp": 222,
+      "hp": 4183,
+      "lck": 66,
+      "oil": 12,
+      "rld": 152
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 225,
+      "acc": 131,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 53,
+      "fp": 255,
+      "hp": 5020,
+      "lck": 66,
+      "oil": 12,
+      "rld": 175
+    },
+    "lvl120retro": {}
   }
 }

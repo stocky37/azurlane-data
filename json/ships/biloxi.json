@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "biloxi",
   "stats": {
-    "aa": 61,
-    "acc": 58,
-    "arm": "light",
-    "asw": 24,
-    "avi": 0,
-    "eva": 30,
-    "fp": 28,
-    "hp": 751,
-    "lck": 68,
-    "oil": 3,
-    "rld": 69
+    "base": {
+      "aa": 61,
+      "acc": 58,
+      "arm": "light",
+      "asw": 24,
+      "avi": 0,
+      "eva": 30,
+      "fp": 28,
+      "hp": 751,
+      "lck": 68,
+      "oil": 3,
+      "rld": 69
+    },
+    "lvl100": {
+      "aa": 286,
+      "acc": 151,
+      "arm": "light",
+      "asw": 89,
+      "avi": 0,
+      "eva": 78,
+      "fp": 132,
+      "hp": 3881,
+      "lck": 68,
+      "oil": 11,
+      "rld": 163
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 323,
+      "acc": 169,
+      "arm": "light",
+      "asw": 101,
+      "avi": 0,
+      "eva": 96,
+      "fp": 151,
+      "hp": 4308,
+      "lck": 68,
+      "oil": 11,
+      "rld": 187
+    },
+    "lvl120retro": {}
   }
 }

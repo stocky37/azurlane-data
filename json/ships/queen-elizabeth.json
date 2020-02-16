@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "queen-elizabeth",
   "stats": {
-    "aa": 40,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 6,
-    "fp": 78,
-    "hp": 1250,
-    "lck": 25,
-    "oil": 5,
-    "rld": 53
+    "base": {
+      "aa": 40,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 6,
+      "fp": 78,
+      "hp": 1250,
+      "lck": 25,
+      "oil": 5,
+      "rld": 53
+    },
+    "lvl100": {
+      "aa": 185,
+      "acc": 56,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 15,
+      "fp": 368,
+      "hp": 6464,
+      "lck": 25,
+      "oil": 14,
+      "rld": 126
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 212,
+      "acc": 68,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 403,
+      "hp": 7512,
+      "lck": 25,
+      "oil": 14,
+      "rld": 145
+    },
+    "lvl120retro": {}
   }
 }

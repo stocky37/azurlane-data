@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "swiftsure",
   "stats": {
-    "aa": 57,
-    "acc": 56,
-    "arm": "light",
-    "asw": 36,
-    "avi": 0,
-    "eva": 28,
-    "fp": 30,
-    "hp": 650,
-    "lck": 44,
-    "oil": 3,
-    "rld": 70
+    "base": {
+      "aa": 57,
+      "acc": 56,
+      "arm": "light",
+      "asw": 36,
+      "avi": 0,
+      "eva": 28,
+      "fp": 30,
+      "hp": 650,
+      "lck": 44,
+      "oil": 3,
+      "rld": 70
+    },
+    "lvl100": {
+      "aa": 267,
+      "acc": 146,
+      "arm": "light",
+      "asw": 131,
+      "avi": 0,
+      "eva": 72,
+      "fp": 142,
+      "hp": 3359,
+      "lck": 44,
+      "oil": 11,
+      "rld": 165
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 304,
+      "acc": 163,
+      "arm": "light",
+      "asw": 148,
+      "avi": 0,
+      "eva": 96,
+      "fp": 163,
+      "hp": 3796,
+      "lck": 44,
+      "oil": 11,
+      "rld": 190
+    },
+    "lvl120retro": {}
   }
 }

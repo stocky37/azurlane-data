@@ -8,16 +8,46 @@
   "nationality": "iris-libre",
   "slug": "saint-louis",
   "stats": {
-    "aa": 46,
-    "acc": 47,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 10,
-    "fp": 52,
-    "hp": 943,
-    "lck": 0,
-    "oil": 7,
-    "rld": 70
+    "base": {
+      "aa": 46,
+      "acc": 47,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 10,
+      "fp": 52,
+      "hp": 943,
+      "lck": 0,
+      "oil": 7,
+      "rld": 70
+    },
+    "lvl100": {
+      "aa": 216,
+      "acc": 122,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 42,
+      "fp": 242,
+      "hp": 4876,
+      "lck": 0,
+      "oil": 13,
+      "rld": 165
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 248,
+      "acc": 137,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 80,
+      "fp": 276,
+      "hp": 5363,
+      "lck": 0,
+      "oil": 13,
+      "rld": 190
+    },
+    "lvl120retro": {}
   }
 }

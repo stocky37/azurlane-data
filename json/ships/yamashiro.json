@@ -8,16 +8,70 @@
   "nationality": "sakura-empire",
   "slug": "yamashiro",
   "stats": {
-    "aa": 41,
-    "acc": 20,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 5,
-    "fp": 74,
-    "hp": 1208,
-    "lck": 14,
-    "oil": 4,
-    "rld": 51
+    "base": {
+      "aa": 41,
+      "acc": 20,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 5,
+      "fp": 74,
+      "hp": 1208,
+      "lck": 14,
+      "oil": 4,
+      "rld": 51
+    },
+    "lvl100": {
+      "aa": 193,
+      "acc": 52,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 13,
+      "fp": 349,
+      "hp": 6246,
+      "lck": 14,
+      "oil": 13,
+      "rld": 120
+    },
+    "lvl100retro": {
+      "aa": 268,
+      "acc": 63,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 151,
+      "eva": 13,
+      "fp": 352,
+      "hp": 6596,
+      "lck": 14,
+      "oil": 13,
+      "rld": 118
+    },
+    "lvl120": {
+      "aa": 222,
+      "acc": 66,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 31,
+      "fp": 390,
+      "hp": 7307,
+      "lck": 14,
+      "oil": 13,
+      "rld": 138
+    },
+    "lvl120retro": {
+      "aa": 303,
+      "acc": 77,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 172,
+      "eva": 31,
+      "fp": 390,
+      "hp": 7657,
+      "lck": 14,
+      "oil": 13,
+      "rld": 134
+    }
   }
 }

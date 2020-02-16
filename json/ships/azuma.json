@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "azuma",
   "stats": {
-    "aa": 42,
-    "acc": 43,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 11,
-    "fp": 58,
-    "hp": 1291,
-    "lck": 0,
-    "oil": 9,
-    "rld": 62
+    "base": {
+      "aa": 42,
+      "acc": 43,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 58,
+      "hp": 1291,
+      "lck": 0,
+      "oil": 9,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 196,
+      "acc": 112,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 34,
+      "fp": 270,
+      "hp": 6674,
+      "lck": 0,
+      "oil": 16,
+      "rld": 148
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 226,
+      "acc": 123,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 50,
+      "fp": 307,
+      "hp": 7541,
+      "lck": 0,
+      "oil": 16,
+      "rld": 170
+    },
+    "lvl120retro": {}
   }
 }

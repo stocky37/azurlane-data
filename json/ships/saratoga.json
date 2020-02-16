@@ -8,16 +8,70 @@
   "nationality": "eagle-union",
   "slug": "saratoga",
   "stats": {
-    "aa": 57,
-    "acc": 32,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 75,
-    "eva": 13,
-    "fp": 0,
-    "hp": 1183,
-    "lck": 66,
-    "oil": 4,
-    "rld": 41
+    "base": {
+      "aa": 57,
+      "acc": 32,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 75,
+      "eva": 13,
+      "fp": 0,
+      "hp": 1183,
+      "lck": 66,
+      "oil": 4,
+      "rld": 41
+    },
+    "lvl100": {
+      "aa": 266,
+      "acc": 83,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 356,
+      "eva": 34,
+      "fp": 0,
+      "hp": 6116,
+      "lck": 66,
+      "oil": 12,
+      "rld": 96
+    },
+    "lvl100retro": {
+      "aa": 316,
+      "acc": 83,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 401,
+      "eva": 34,
+      "fp": 0,
+      "hp": 6326,
+      "lck": 66,
+      "oil": 12,
+      "rld": 116
+    },
+    "lvl120": {
+      "aa": 303,
+      "acc": 92,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 397,
+      "eva": 57,
+      "fp": 0,
+      "hp": 6912,
+      "lck": 66,
+      "oil": 12,
+      "rld": 110
+    },
+    "lvl120retro": {
+      "aa": 353,
+      "acc": 92,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 442,
+      "eva": 57,
+      "fp": 0,
+      "hp": 7122,
+      "lck": 66,
+      "oil": 12,
+      "rld": 130
+    }
   }
 }

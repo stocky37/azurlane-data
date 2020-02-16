@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "yoizuki",
   "stats": {
-    "aa": 37,
-    "acc": 69,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 67,
-    "fp": 14,
-    "hp": 394,
-    "lck": 61,
-    "oil": 2,
-    "rld": 77
+    "base": {
+      "aa": 37,
+      "acc": 69,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 67,
+      "fp": 14,
+      "hp": 394,
+      "lck": 61,
+      "oil": 2,
+      "rld": 77
+    },
+    "lvl100": {
+      "aa": 173,
+      "acc": 179,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 174,
+      "fp": 65,
+      "hp": 2037,
+      "lck": 61,
+      "oil": 9,
+      "rld": 183
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 199,
+      "acc": 188,
+      "arm": "light",
+      "asw": 200,
+      "avi": 0,
+      "eva": 179,
+      "fp": 74,
+      "hp": 2445,
+      "lck": 61,
+      "oil": 9,
+      "rld": 210
+    },
+    "lvl120retro": {}
   }
 }

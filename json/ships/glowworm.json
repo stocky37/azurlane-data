@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "glowworm",
   "stats": {
-    "aa": 31,
-    "acc": 68,
-    "arm": "light",
-    "asw": 53,
-    "avi": 0,
-    "eva": 78,
-    "fp": 15,
-    "hp": 228,
-    "lck": 36,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 31,
+      "acc": 68,
+      "arm": "light",
+      "asw": 53,
+      "avi": 0,
+      "eva": 78,
+      "fp": 15,
+      "hp": 228,
+      "lck": 36,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 143,
+      "acc": 177,
+      "arm": "light",
+      "asw": 195,
+      "avi": 0,
+      "eva": 204,
+      "fp": 69,
+      "hp": 1177,
+      "lck": 36,
+      "oil": 9,
+      "rld": 175
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 164,
+      "acc": 186,
+      "arm": "light",
+      "asw": 215,
+      "avi": 0,
+      "eva": 210,
+      "fp": 79,
+      "hp": 1412,
+      "lck": 36,
+      "oil": 9,
+      "rld": 201
+    },
+    "lvl120retro": {}
   }
 }

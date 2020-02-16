@@ -8,16 +8,70 @@
   "nationality": "royal-navy",
   "slug": "curlew",
   "stats": {
-    "aa": 33,
-    "acc": 57,
-    "arm": "light",
-    "asw": 13,
-    "avi": 0,
-    "eva": 26,
-    "fp": 24,
-    "hp": 477,
-    "lck": 45,
-    "oil": 2,
-    "rld": 70
+    "base": {
+      "aa": 33,
+      "acc": 57,
+      "arm": "light",
+      "asw": 13,
+      "avi": 0,
+      "eva": 26,
+      "fp": 24,
+      "hp": 477,
+      "lck": 45,
+      "oil": 2,
+      "rld": 70
+    },
+    "lvl100": {
+      "aa": 155,
+      "acc": 148,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 68,
+      "fp": 111,
+      "hp": 2468,
+      "lck": 45,
+      "oil": 9,
+      "rld": 165
+    },
+    "lvl100retro": {
+      "aa": 200,
+      "acc": 153,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 68,
+      "fp": 151,
+      "hp": 2708,
+      "lck": 45,
+      "oil": 9,
+      "rld": 165
+    },
+    "lvl120": {
+      "aa": 178,
+      "acc": 166,
+      "arm": "light",
+      "asw": 53,
+      "avi": 0,
+      "eva": 92,
+      "fp": 128,
+      "hp": 2789,
+      "lck": 45,
+      "oil": 9,
+      "rld": 190
+    },
+    "lvl120retro": {
+      "aa": 223,
+      "acc": 171,
+      "arm": "light",
+      "asw": 53,
+      "avi": 0,
+      "eva": 92,
+      "fp": 168,
+      "hp": 3029,
+      "lck": 45,
+      "oil": 9,
+      "rld": 190
+    }
   }
 }

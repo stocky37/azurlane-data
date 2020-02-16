@@ -8,16 +8,46 @@
   "nationality": "sardegna-empire",
   "slug": "carabiniere",
   "stats": {
-    "aa": 30,
-    "acc": 69,
-    "arm": "light",
-    "asw": 50,
-    "avi": 0,
-    "eva": 79,
-    "fp": 23,
-    "hp": 291,
-    "lck": 65,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 30,
+      "acc": 69,
+      "arm": "light",
+      "asw": 50,
+      "avi": 0,
+      "eva": 79,
+      "fp": 23,
+      "hp": 291,
+      "lck": 65,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 139,
+      "acc": 180,
+      "arm": "light",
+      "asw": 184,
+      "avi": 0,
+      "eva": 206,
+      "fp": 109,
+      "hp": 1502,
+      "lck": 65,
+      "oil": 9,
+      "rld": 175
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 160,
+      "acc": 189,
+      "arm": "light",
+      "asw": 204,
+      "avi": 0,
+      "eva": 214,
+      "fp": 126,
+      "hp": 1788,
+      "lck": 65,
+      "oil": 9,
+      "rld": 201
+    },
+    "lvl120retro": {}
   }
 }

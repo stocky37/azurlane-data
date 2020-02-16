@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "denver",
   "stats": {
-    "aa": 61,
-    "acc": 55,
-    "arm": "light",
-    "asw": 24,
-    "avi": 0,
-    "eva": 30,
-    "fp": 29,
-    "hp": 751,
-    "lck": 69,
-    "oil": 3,
-    "rld": 68
+    "base": {
+      "aa": 61,
+      "acc": 55,
+      "arm": "light",
+      "asw": 24,
+      "avi": 0,
+      "eva": 30,
+      "fp": 29,
+      "hp": 751,
+      "lck": 69,
+      "oil": 3,
+      "rld": 68
+    },
+    "lvl100": {
+      "aa": 283,
+      "acc": 143,
+      "arm": "light",
+      "asw": 88,
+      "avi": 0,
+      "eva": 77,
+      "fp": 137,
+      "hp": 3880,
+      "lck": 69,
+      "oil": 10,
+      "rld": 161
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 321,
+      "acc": 161,
+      "arm": "light",
+      "asw": 100,
+      "avi": 0,
+      "eva": 92,
+      "fp": 157,
+      "hp": 4307,
+      "lck": 69,
+      "oil": 10,
+      "rld": 185
+    },
+    "lvl120retro": {}
   }
 }

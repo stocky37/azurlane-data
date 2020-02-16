@@ -8,16 +8,46 @@
   "nationality": "universal",
   "slug": "universal-bullin",
   "stats": {
-    "aa": 10,
-    "acc": 50,
-    "arm": "light",
-    "asw": 20,
-    "avi": 10,
-    "eva": 50,
-    "fp": 10,
-    "hp": 100,
-    "lck": 100,
-    "oil": 2,
-    "rld": 50
+    "base": {
+      "aa": 10,
+      "acc": 50,
+      "arm": "light",
+      "asw": 20,
+      "avi": 10,
+      "eva": 50,
+      "fp": 10,
+      "hp": 100,
+      "lck": 100,
+      "oil": 2,
+      "rld": 50
+    },
+    "lvl100": {
+      "aa": 21,
+      "acc": 105,
+      "arm": "light",
+      "asw": 31,
+      "avi": 21,
+      "eva": 105,
+      "fp": 21,
+      "hp": 210,
+      "lck": 100,
+      "oil": 3,
+      "rld": 105
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 23,
+      "acc": 116,
+      "arm": "light",
+      "asw": 33,
+      "avi": 23,
+      "eva": 116,
+      "fp": 23,
+      "hp": 232,
+      "lck": 100,
+      "oil": 3,
+      "rld": 116
+    },
+    "lvl120retro": {}
   }
 }

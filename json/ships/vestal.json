@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "vestal",
   "stats": {
-    "aa": 28,
-    "acc": 37,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 6,
-    "fp": 9,
-    "hp": 771,
-    "lck": 79,
-    "oil": 3,
-    "rld": 62
+    "base": {
+      "aa": 28,
+      "acc": 37,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 6,
+      "fp": 9,
+      "hp": 771,
+      "lck": 79,
+      "oil": 3,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 132,
+      "acc": 97,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 16,
+      "fp": 43,
+      "hp": 3986,
+      "lck": 79,
+      "oil": 10,
+      "rld": 146
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 152,
+      "acc": 108,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 43,
+      "fp": 50,
+      "hp": 4624,
+      "lck": 79,
+      "oil": 10,
+      "rld": 168
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "fletcher",
   "stats": {
-    "aa": 32,
-    "acc": 69,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 60,
-    "fp": 16,
-    "hp": 338,
-    "lck": 73,
-    "oil": 2,
-    "rld": 72
+    "base": {
+      "aa": 32,
+      "acc": 69,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 60,
+      "fp": 16,
+      "hp": 338,
+      "lck": 73,
+      "oil": 2,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 150,
+      "acc": 180,
+      "arm": "light",
+      "asw": 186,
+      "avi": 0,
+      "eva": 156,
+      "fp": 74,
+      "hp": 1746,
+      "lck": 73,
+      "oil": 8,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 172,
+      "acc": 189,
+      "arm": "light",
+      "asw": 206,
+      "avi": 0,
+      "eva": 160,
+      "fp": 85,
+      "hp": 2077,
+      "lck": 73,
+      "oil": 8,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

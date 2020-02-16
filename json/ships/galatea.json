@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "galatea",
   "stats": {
-    "aa": 61,
-    "acc": 58,
-    "arm": "light",
-    "asw": 22,
-    "avi": 0,
-    "eva": 29,
-    "fp": 29,
-    "hp": 482,
-    "lck": 26,
-    "oil": 2,
-    "rld": 69
+    "base": {
+      "aa": 61,
+      "acc": 58,
+      "arm": "light",
+      "asw": 22,
+      "avi": 0,
+      "eva": 29,
+      "fp": 29,
+      "hp": 482,
+      "lck": 26,
+      "oil": 2,
+      "rld": 69
+    },
+    "lvl100": {
+      "aa": 286,
+      "acc": 152,
+      "arm": "light",
+      "asw": 81,
+      "avi": 0,
+      "eva": 76,
+      "fp": 135,
+      "hp": 2493,
+      "lck": 26,
+      "oil": 9,
+      "rld": 163
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 324,
+      "acc": 170,
+      "arm": "light",
+      "asw": 92,
+      "avi": 0,
+      "eva": 100,
+      "fp": 156,
+      "hp": 2830,
+      "lck": 26,
+      "oil": 9,
+      "rld": 187
+    },
+    "lvl120retro": {}
   }
 }

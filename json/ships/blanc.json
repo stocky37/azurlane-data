@@ -8,16 +8,46 @@
   "nationality": "neptunia",
   "slug": "blanc",
   "stats": {
-    "aa": 28,
-    "acc": 69,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 65,
-    "fp": 13,
-    "hp": 293,
-    "lck": 71,
-    "oil": 2,
-    "rld": 76
+    "base": {
+      "aa": 28,
+      "acc": 69,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 65,
+      "fp": 13,
+      "hp": 293,
+      "lck": 71,
+      "oil": 2,
+      "rld": 76
+    },
+    "lvl100": {
+      "aa": 129,
+      "acc": 180,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 169,
+      "fp": 61,
+      "hp": 1513,
+      "lck": 71,
+      "oil": 9,
+      "rld": 180
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 149,
+      "acc": 189,
+      "arm": "light",
+      "asw": 199,
+      "avi": 0,
+      "eva": 175,
+      "fp": 70,
+      "hp": 1800,
+      "lck": 71,
+      "oil": 9,
+      "rld": 207
+    },
+    "lvl120retro": {}
   }
 }

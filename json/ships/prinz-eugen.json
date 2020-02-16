@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "prinz-eugen",
   "stats": {
-    "aa": 38,
-    "acc": 44,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 43,
-    "hp": 1099,
-    "lck": 78,
-    "oil": 4,
-    "rld": 67
+    "base": {
+      "aa": 38,
+      "acc": 44,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 43,
+      "hp": 1099,
+      "lck": 78,
+      "oil": 4,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 178,
+      "acc": 114,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 196,
+      "hp": 5683,
+      "lck": 78,
+      "oil": 12,
+      "rld": 159
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 205,
+      "acc": 128,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 62,
+      "fp": 226,
+      "hp": 6252,
+      "lck": 78,
+      "oil": 12,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

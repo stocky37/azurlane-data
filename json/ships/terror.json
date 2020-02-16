@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "terror",
   "stats": {
-    "aa": 32,
-    "acc": 28,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 11,
-    "fp": 52,
-    "hp": 587,
-    "lck": 19,
-    "oil": 3,
-    "rld": 53
+    "base": {
+      "aa": 32,
+      "acc": 28,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 52,
+      "hp": 587,
+      "lck": 19,
+      "oil": 3,
+      "rld": 53
+    },
+    "lvl100": {
+      "aa": 149,
+      "acc": 72,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 28,
+      "fp": 247,
+      "hp": 3035,
+      "lck": 19,
+      "oil": 10,
+      "rld": 126
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 171,
+      "acc": 81,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 61,
+      "fp": 282,
+      "hp": 3642,
+      "lck": 19,
+      "oil": 10,
+      "rld": 145
+    },
+    "lvl120retro": {}
   }
 }

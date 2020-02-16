@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "z36",
   "stats": {
-    "aa": 33,
-    "acc": 68,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 59,
-    "fp": 15,
-    "hp": 340,
-    "lck": 36,
-    "oil": 2,
-    "rld": 77
+    "base": {
+      "aa": 33,
+      "acc": 68,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 59,
+      "fp": 15,
+      "hp": 340,
+      "lck": 36,
+      "oil": 2,
+      "rld": 77
+    },
+    "lvl100": {
+      "aa": 155,
+      "acc": 177,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 153,
+      "fp": 72,
+      "hp": 1758,
+      "lck": 36,
+      "oil": 9,
+      "rld": 182
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 178,
+      "acc": 186,
+      "arm": "light",
+      "asw": 200,
+      "avi": 0,
+      "eva": 159,
+      "fp": 82,
+      "hp": 2092,
+      "lck": 36,
+      "oil": 9,
+      "rld": 209
+    },
+    "lvl120retro": {}
   }
 }

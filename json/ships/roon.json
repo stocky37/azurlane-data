@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "roon",
   "stats": {
-    "aa": 43,
-    "acc": 43,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 53,
-    "hp": 1041,
-    "lck": 0,
-    "oil": 7,
-    "rld": 63
+    "base": {
+      "aa": 43,
+      "acc": 43,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 53,
+      "hp": 1041,
+      "lck": 0,
+      "oil": 7,
+      "rld": 63
+    },
+    "lvl100": {
+      "aa": 202,
+      "acc": 112,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 39,
+      "fp": 248,
+      "hp": 5382,
+      "lck": 0,
+      "oil": 13,
+      "rld": 149
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 233,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 78,
+      "fp": 283,
+      "hp": 5920,
+      "lck": 0,
+      "oil": 13,
+      "rld": 171
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "thatcher",
   "stats": {
-    "aa": 32,
-    "acc": 72,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 59,
-    "fp": 16,
-    "hp": 331,
-    "lck": 65,
-    "oil": 2,
-    "rld": 77
+    "base": {
+      "aa": 32,
+      "acc": 72,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 59,
+      "fp": 16,
+      "hp": 331,
+      "lck": 65,
+      "oil": 2,
+      "rld": 77
+    },
+    "lvl100": {
+      "aa": 150,
+      "acc": 188,
+      "arm": "light",
+      "asw": 186,
+      "avi": 0,
+      "eva": 154,
+      "fp": 74,
+      "hp": 1712,
+      "lck": 65,
+      "oil": 8,
+      "rld": 182
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 172,
+      "acc": 197,
+      "arm": "light",
+      "asw": 206,
+      "avi": 0,
+      "eva": 158,
+      "fp": 85,
+      "hp": 2037,
+      "lck": 65,
+      "oil": 8,
+      "rld": 209
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "san-juan",
   "stats": {
-    "aa": 83,
-    "acc": 58,
-    "arm": "light",
-    "asw": 45,
-    "avi": 0,
-    "eva": 28,
-    "fp": 24,
-    "hp": 605,
-    "lck": 77,
-    "oil": 2,
-    "rld": 66
+    "base": {
+      "aa": 83,
+      "acc": 58,
+      "arm": "light",
+      "asw": 45,
+      "avi": 0,
+      "eva": 28,
+      "fp": 24,
+      "hp": 605,
+      "lck": 77,
+      "oil": 2,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 387,
+      "acc": 150,
+      "arm": "light",
+      "asw": 167,
+      "avi": 0,
+      "eva": 73,
+      "fp": 112,
+      "hp": 3126,
+      "lck": 77,
+      "oil": 9,
+      "rld": 156
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 429,
+      "acc": 168,
+      "arm": "light",
+      "asw": 186,
+      "avi": 0,
+      "eva": 95,
+      "fp": 129,
+      "hp": 3517,
+      "lck": 77,
+      "oil": 9,
+      "rld": 179
+    },
+    "lvl120retro": {}
   }
 }

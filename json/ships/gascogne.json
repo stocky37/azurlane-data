@@ -8,16 +8,46 @@
   "nationality": "vichya-dominion",
   "slug": "gascogne",
   "stats": {
-    "aa": 45,
-    "acc": 24,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 10,
-    "fp": 83,
-    "hp": 1334,
-    "lck": 0,
-    "oil": 9,
-    "rld": 62
+    "base": {
+      "aa": 45,
+      "acc": 24,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 10,
+      "fp": 83,
+      "hp": 1334,
+      "lck": 0,
+      "oil": 9,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 210,
+      "acc": 63,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 25,
+      "fp": 388,
+      "hp": 6897,
+      "lck": 0,
+      "oil": 16,
+      "rld": 146
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 241,
+      "acc": 71,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 36,
+      "fp": 430,
+      "hp": 7863,
+      "lck": 0,
+      "oil": 16,
+      "rld": 168
+    },
+    "lvl120retro": {}
   }
 }

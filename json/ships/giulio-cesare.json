@@ -8,16 +8,46 @@
   "nationality": "sardegna-empire",
   "slug": "giulio-cesare",
   "stats": {
-    "aa": 35,
-    "acc": 21,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 66,
-    "hp": 1172,
-    "lck": 65,
-    "oil": 5,
-    "rld": 55
+    "base": {
+      "aa": 35,
+      "acc": 21,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 66,
+      "hp": 1172,
+      "lck": 65,
+      "oil": 5,
+      "rld": 55
+    },
+    "lvl100": {
+      "aa": 162,
+      "acc": 54,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 313,
+      "hp": 6060,
+      "lck": 65,
+      "oil": 14,
+      "rld": 130
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 186,
+      "acc": 64,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 36,
+      "fp": 347,
+      "hp": 7030,
+      "lck": 65,
+      "oil": 14,
+      "rld": 149
+    },
+    "lvl120retro": {}
   }
 }

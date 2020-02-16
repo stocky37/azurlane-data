@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "massachusetts",
   "stats": {
-    "aa": 79,
-    "acc": 24,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 80,
-    "hp": 1303,
-    "lck": 82,
-    "oil": 5,
-    "rld": 57
+    "base": {
+      "aa": 79,
+      "acc": 24,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 80,
+      "hp": 1303,
+      "lck": 82,
+      "oil": 5,
+      "rld": 57
+    },
+    "lvl100": {
+      "aa": 368,
+      "acc": 61,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 379,
+      "hp": 6738,
+      "lck": 82,
+      "oil": 15,
+      "rld": 136
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 400,
+      "acc": 74,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 414,
+      "hp": 7783,
+      "lck": 82,
+      "oil": 15,
+      "rld": 156
+    },
+    "lvl120retro": {}
   }
 }

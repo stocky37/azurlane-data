@@ -8,16 +8,70 @@
   "nationality": "eagle-union",
   "slug": "bailey",
   "stats": {
-    "aa": 32,
-    "acc": 67,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 60,
-    "fp": 16,
-    "hp": 294,
-    "lck": 70,
-    "oil": 2,
-    "rld": 75
+    "base": {
+      "aa": 32,
+      "acc": 67,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 60,
+      "fp": 16,
+      "hp": 294,
+      "lck": 70,
+      "oil": 2,
+      "rld": 75
+    },
+    "lvl100": {
+      "aa": 149,
+      "acc": 175,
+      "arm": "light",
+      "asw": 173,
+      "avi": 0,
+      "eva": 156,
+      "fp": 76,
+      "hp": 1521,
+      "lck": 70,
+      "oil": 8,
+      "rld": 178
+    },
+    "lvl100retro": {
+      "aa": 239,
+      "acc": 175,
+      "arm": "light",
+      "asw": 173,
+      "avi": 0,
+      "eva": 156,
+      "fp": 91,
+      "hp": 1731,
+      "lck": 70,
+      "oil": 8,
+      "rld": 198
+    },
+    "lvl120": {
+      "aa": 172,
+      "acc": 184,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 162,
+      "fp": 87,
+      "hp": 1826,
+      "lck": 70,
+      "oil": 8,
+      "rld": 204
+    },
+    "lvl120retro": {
+      "aa": 262,
+      "acc": 184,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 162,
+      "fp": 102,
+      "hp": 2036,
+      "lck": 70,
+      "oil": 8,
+      "rld": 224
+    }
   }
 }

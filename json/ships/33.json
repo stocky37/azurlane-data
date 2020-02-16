@@ -8,16 +8,46 @@
   "nationality": "bilibili",
   "slug": "33",
   "stats": {
-    "aa": 28,
-    "acc": 63,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 60,
-    "fp": 7,
-    "hp": 222,
-    "lck": 33,
-    "oil": 2,
-    "rld": 62
+    "base": {
+      "aa": 28,
+      "acc": 63,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 60,
+      "fp": 7,
+      "hp": 222,
+      "lck": 33,
+      "oil": 2,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 130,
+      "acc": 165,
+      "arm": "light",
+      "asw": 171,
+      "avi": 0,
+      "eva": 156,
+      "fp": 34,
+      "hp": 1145,
+      "lck": 33,
+      "oil": 9,
+      "rld": 148
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 149,
+      "acc": 173,
+      "arm": "light",
+      "asw": 190,
+      "avi": 0,
+      "eva": 163,
+      "fp": 39,
+      "hp": 1375,
+      "lck": 33,
+      "oil": 9,
+      "rld": 170
+    },
+    "lvl120retro": {}
   }
 }

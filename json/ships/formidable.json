@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "formidable",
   "stats": {
-    "aa": 54,
-    "acc": 31,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 79,
-    "eva": 12,
-    "fp": 0,
-    "hp": 1090,
-    "lck": 75,
-    "oil": 4,
-    "rld": 43
+    "base": {
+      "aa": 54,
+      "acc": 31,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 79,
+      "eva": 12,
+      "fp": 0,
+      "hp": 1090,
+      "lck": 75,
+      "oil": 4,
+      "rld": 43
+    },
+    "lvl100": {
+      "aa": 253,
+      "acc": 80,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 372,
+      "eva": 31,
+      "fp": 0,
+      "hp": 5636,
+      "lck": 75,
+      "oil": 13,
+      "rld": 102
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 289,
+      "acc": 90,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 413,
+      "eva": 51,
+      "fp": 0,
+      "hp": 6481,
+      "lck": 75,
+      "oil": 13,
+      "rld": 117
+    },
+    "lvl120retro": {}
   }
 }

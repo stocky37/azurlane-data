@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "bismarck",
   "stats": {
-    "aa": 39,
-    "acc": 24,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 82,
-    "hp": 1456,
-    "lck": 32,
-    "oil": 5,
-    "rld": 56
+    "base": {
+      "aa": 39,
+      "acc": 24,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 82,
+      "hp": 1456,
+      "lck": 32,
+      "oil": 5,
+      "rld": 56
+    },
+    "lvl100": {
+      "aa": 181,
+      "acc": 63,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 21,
+      "fp": 387,
+      "hp": 7529,
+      "lck": 32,
+      "oil": 15,
+      "rld": 133
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 208,
+      "acc": 73,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 423,
+      "hp": 8762,
+      "lck": 32,
+      "oil": 15,
+      "rld": 152
+    },
+    "lvl120retro": {}
   }
 }

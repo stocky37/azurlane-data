@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "quincy",
   "stats": {
-    "aa": 43,
-    "acc": 41,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 40,
-    "hp": 693,
-    "lck": 9,
-    "oil": 3,
-    "rld": 59
+    "base": {
+      "aa": 43,
+      "acc": 41,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 40,
+      "hp": 693,
+      "lck": 9,
+      "oil": 3,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 200,
+      "acc": 107,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 190,
+      "hp": 3585,
+      "lck": 9,
+      "oil": 11,
+      "rld": 140
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 230,
+      "acc": 125,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 57,
+      "fp": 218,
+      "hp": 4015,
+      "lck": 9,
+      "oil": 11,
+      "rld": 161
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "oyashio",
   "stats": {
-    "aa": 28,
-    "acc": 67,
-    "arm": "light",
-    "asw": 46,
-    "avi": 0,
-    "eva": 71,
-    "fp": 12,
-    "hp": 336,
-    "lck": 34,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 28,
+      "acc": 67,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 71,
+      "fp": 12,
+      "hp": 336,
+      "lck": 34,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 130,
+      "acc": 175,
+      "arm": "light",
+      "asw": 169,
+      "avi": 0,
+      "eva": 185,
+      "fp": 56,
+      "hp": 1736,
+      "lck": 34,
+      "oil": 8,
+      "rld": 175
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 150,
+      "acc": 184,
+      "arm": "light",
+      "asw": 189,
+      "avi": 0,
+      "eva": 191,
+      "fp": 65,
+      "hp": 2083,
+      "lck": 34,
+      "oil": 8,
+      "rld": 201
+    },
+    "lvl120retro": {}
   }
 }

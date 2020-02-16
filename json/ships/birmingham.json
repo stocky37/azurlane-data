@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "birmingham",
   "stats": {
-    "aa": 62,
-    "acc": 58,
-    "arm": "light",
-    "asw": 24,
-    "avi": 0,
-    "eva": 29,
-    "fp": 31,
-    "hp": 730,
-    "lck": 48,
-    "oil": 3,
-    "rld": 68
+    "base": {
+      "aa": 62,
+      "acc": 58,
+      "arm": "light",
+      "asw": 24,
+      "avi": 0,
+      "eva": 29,
+      "fp": 31,
+      "hp": 730,
+      "lck": 48,
+      "oil": 3,
+      "rld": 68
+    },
+    "lvl100": {
+      "aa": 289,
+      "acc": 151,
+      "arm": "light",
+      "asw": 87,
+      "avi": 0,
+      "eva": 76,
+      "fp": 146,
+      "hp": 3774,
+      "lck": 48,
+      "oil": 10,
+      "rld": 161
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 327,
+      "acc": 169,
+      "arm": "light",
+      "asw": 99,
+      "avi": 0,
+      "eva": 94,
+      "fp": 168,
+      "hp": 4189,
+      "lck": 48,
+      "oil": 10,
+      "rld": 185
+    },
+    "lvl120retro": {}
   }
 }

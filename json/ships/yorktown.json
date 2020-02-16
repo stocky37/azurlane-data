@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "yorktown",
   "stats": {
-    "aa": 60,
-    "acc": 33,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 75,
-    "eva": 13,
-    "fp": 0,
-    "hp": 975,
-    "lck": 39,
-    "oil": 4,
-    "rld": 45
+    "base": {
+      "aa": 60,
+      "acc": 33,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 75,
+      "eva": 13,
+      "fp": 0,
+      "hp": 975,
+      "lck": 39,
+      "oil": 4,
+      "rld": 45
+    },
+    "lvl100": {
+      "aa": 280,
+      "acc": 85,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 354,
+      "eva": 34,
+      "fp": 0,
+      "hp": 5041,
+      "lck": 39,
+      "oil": 12,
+      "rld": 105
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 317,
+      "acc": 96,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 395,
+      "eva": 54,
+      "fp": 0,
+      "hp": 5797,
+      "lck": 39,
+      "oil": 12,
+      "rld": 121
+    },
+    "lvl120retro": {}
   }
 }

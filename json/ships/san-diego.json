@@ -8,16 +8,70 @@
   "nationality": "eagle-union",
   "slug": "san-diego",
   "stats": {
-    "aa": 87,
-    "acc": 58,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 28,
-    "fp": 25,
-    "hp": 646,
-    "lck": 85,
-    "oil": 3,
-    "rld": 70
+    "base": {
+      "aa": 87,
+      "acc": 58,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 28,
+      "fp": 25,
+      "hp": 646,
+      "lck": 85,
+      "oil": 3,
+      "rld": 70
+    },
+    "lvl100": {
+      "aa": 406,
+      "acc": 150,
+      "arm": "light",
+      "asw": 181,
+      "avi": 0,
+      "eva": 73,
+      "fp": 119,
+      "hp": 3338,
+      "lck": 85,
+      "oil": 11,
+      "rld": 165
+    },
+    "lvl100retro": {
+      "aa": 516,
+      "acc": 150,
+      "arm": "light",
+      "asw": 181,
+      "avi": 0,
+      "eva": 73,
+      "fp": 164,
+      "hp": 3578,
+      "lck": 85,
+      "oil": 11,
+      "rld": 185
+    },
+    "lvl120": {
+      "aa": 449,
+      "acc": 168,
+      "arm": "light",
+      "asw": 201,
+      "avi": 0,
+      "eva": 95,
+      "fp": 137,
+      "hp": 3755,
+      "lck": 85,
+      "oil": 11,
+      "rld": 190
+    },
+    "lvl120retro": {
+      "aa": 559,
+      "acc": 168,
+      "arm": "light",
+      "asw": 201,
+      "avi": 0,
+      "eva": 95,
+      "fp": 182,
+      "hp": 3995,
+      "lck": 85,
+      "oil": 11,
+      "rld": 210
+    }
   }
 }

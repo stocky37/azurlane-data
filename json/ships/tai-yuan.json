@@ -8,16 +8,46 @@
   "nationality": "eastern-radiance",
   "slug": "tai-yuan",
   "stats": {
-    "aa": 32,
-    "acc": 68,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 61,
-    "fp": 24,
-    "hp": 367,
-    "lck": 71,
-    "oil": 2,
-    "rld": 73
+    "base": {
+      "aa": 32,
+      "acc": 68,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 61,
+      "fp": 24,
+      "hp": 367,
+      "lck": 71,
+      "oil": 2,
+      "rld": 73
+    },
+    "lvl100": {
+      "aa": 151,
+      "acc": 177,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 159,
+      "fp": 111,
+      "hp": 1897,
+      "lck": 71,
+      "oil": 9,
+      "rld": 173
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 174,
+      "acc": 186,
+      "arm": "light",
+      "asw": 200,
+      "avi": 0,
+      "eva": 165,
+      "fp": 128,
+      "hp": 2277,
+      "lck": 71,
+      "oil": 9,
+      "rld": 199
+    },
+    "lvl120retro": {}
   }
 }

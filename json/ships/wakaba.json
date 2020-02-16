@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "wakaba",
   "stats": {
-    "aa": 27,
-    "acc": 66,
-    "arm": "light",
-    "asw": 46,
-    "avi": 0,
-    "eva": 71,
-    "fp": 11,
-    "hp": 286,
-    "lck": 36,
-    "oil": 2,
-    "rld": 72
+    "base": {
+      "aa": 27,
+      "acc": 66,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 71,
+      "fp": 11,
+      "hp": 286,
+      "lck": 36,
+      "oil": 2,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 126,
+      "acc": 171,
+      "arm": "light",
+      "asw": 169,
+      "avi": 0,
+      "eva": 186,
+      "fp": 51,
+      "hp": 1477,
+      "lck": 36,
+      "oil": 8,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 145,
+      "acc": 180,
+      "arm": "light",
+      "asw": 189,
+      "avi": 0,
+      "eva": 192,
+      "fp": 59,
+      "hp": 1770,
+      "lck": 36,
+      "oil": 8,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

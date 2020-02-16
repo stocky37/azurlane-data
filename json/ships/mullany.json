@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "mullany",
   "stats": {
-    "aa": 32,
-    "acc": 72,
-    "arm": "light",
-    "asw": 52,
-    "avi": 0,
-    "eva": 59,
-    "fp": 17,
-    "hp": 341,
-    "lck": 89,
-    "oil": 2,
-    "rld": 76
+    "base": {
+      "aa": 32,
+      "acc": 72,
+      "arm": "light",
+      "asw": 52,
+      "avi": 0,
+      "eva": 59,
+      "fp": 17,
+      "hp": 341,
+      "lck": 89,
+      "oil": 2,
+      "rld": 76
+    },
+    "lvl100": {
+      "aa": 150,
+      "acc": 187,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 154,
+      "fp": 78,
+      "hp": 1762,
+      "lck": 89,
+      "oil": 9,
+      "rld": 179
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 172,
+      "acc": 197,
+      "arm": "light",
+      "asw": 212,
+      "avi": 0,
+      "eva": 160,
+      "fp": 90,
+      "hp": 2115,
+      "lck": 89,
+      "oil": 9,
+      "rld": 206
+    },
+    "lvl120retro": {}
   }
 }

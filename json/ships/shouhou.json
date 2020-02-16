@@ -8,16 +8,70 @@
   "nationality": "sakura-empire",
   "slug": "shouhou",
   "stats": {
-    "aa": 46,
-    "acc": 25,
-    "arm": "medium",
-    "asw": 20,
-    "avi": 52,
-    "eva": 19,
-    "fp": 0,
-    "hp": 714,
-    "lck": 24,
-    "oil": 3,
-    "rld": 65
+    "base": {
+      "aa": 46,
+      "acc": 25,
+      "arm": "medium",
+      "asw": 20,
+      "avi": 52,
+      "eva": 19,
+      "fp": 0,
+      "hp": 714,
+      "lck": 24,
+      "oil": 3,
+      "rld": 65
+    },
+    "lvl100": {
+      "aa": 216,
+      "acc": 65,
+      "arm": "medium",
+      "asw": 73,
+      "avi": 244,
+      "eva": 50,
+      "fp": 0,
+      "hp": 3692,
+      "lck": 24,
+      "oil": 10,
+      "rld": 154
+    },
+    "lvl100retro": {
+      "aa": 251,
+      "acc": 65,
+      "arm": "medium",
+      "asw": 73,
+      "avi": 304,
+      "eva": 50,
+      "fp": 0,
+      "hp": 3932,
+      "lck": 24,
+      "oil": 10,
+      "rld": 159
+    },
+    "lvl120": {
+      "aa": 248,
+      "acc": 78,
+      "arm": "medium",
+      "asw": 84,
+      "avi": 279,
+      "eva": 70,
+      "fp": 0,
+      "hp": 4283,
+      "lck": 24,
+      "oil": 10,
+      "rld": 178
+    },
+    "lvl120retro": {
+      "aa": 283,
+      "acc": 78,
+      "arm": "medium",
+      "asw": 84,
+      "avi": 339,
+      "eva": 70,
+      "fp": 0,
+      "hp": 4523,
+      "lck": 24,
+      "oil": 10,
+      "rld": 183
+    }
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "vichya-dominion",
   "slug": "jean-bart",
   "stats": {
-    "aa": 45,
-    "acc": 23,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 80,
-    "hp": 1334,
-    "lck": 17,
-    "oil": 5,
-    "rld": 66
+    "base": {
+      "aa": 45,
+      "acc": 23,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 80,
+      "hp": 1334,
+      "lck": 17,
+      "oil": 5,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 210,
+      "acc": 60,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 378,
+      "hp": 6897,
+      "lck": 17,
+      "oil": 15,
+      "rld": 156
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 241,
+      "acc": 66,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 42,
+      "fp": 419,
+      "hp": 8036,
+      "lck": 17,
+      "oil": 15,
+      "rld": 179
+    },
+    "lvl120retro": {}
   }
 }

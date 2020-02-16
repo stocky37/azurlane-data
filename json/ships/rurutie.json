@@ -8,16 +8,46 @@
   "nationality": "utawarerumono",
   "slug": "rurutie",
   "stats": {
-    "aa": 51,
-    "acc": 56,
-    "arm": "light",
-    "asw": 25,
-    "avi": 0,
-    "eva": 31,
-    "fp": 28,
-    "hp": 700,
-    "lck": 66,
-    "oil": 3,
-    "rld": 62
+    "base": {
+      "aa": 51,
+      "acc": 56,
+      "arm": "light",
+      "asw": 25,
+      "avi": 0,
+      "eva": 31,
+      "fp": 28,
+      "hp": 700,
+      "lck": 66,
+      "oil": 3,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 240,
+      "acc": 145,
+      "arm": "light",
+      "asw": 93,
+      "avi": 0,
+      "eva": 80,
+      "fp": 131,
+      "hp": 3618,
+      "lck": 66,
+      "oil": 11,
+      "rld": 148
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 274,
+      "acc": 160,
+      "arm": "light",
+      "asw": 105,
+      "avi": 0,
+      "eva": 88,
+      "fp": 151,
+      "hp": 4106,
+      "lck": 66,
+      "oil": 11,
+      "rld": 170
+    },
+    "lvl120retro": {}
   }
 }

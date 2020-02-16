@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "aoba",
   "stats": {
-    "aa": 31,
-    "acc": 38,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 13,
-    "fp": 40,
-    "hp": 601,
-    "lck": 52,
-    "oil": 2,
-    "rld": 60
+    "base": {
+      "aa": 31,
+      "acc": 38,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 13,
+      "fp": 40,
+      "hp": 601,
+      "lck": 52,
+      "oil": 2,
+      "rld": 60
+    },
+    "lvl100": {
+      "aa": 145,
+      "acc": 99,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 34,
+      "fp": 187,
+      "hp": 3108,
+      "lck": 52,
+      "oil": 9,
+      "rld": 142
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 167,
+      "acc": 111,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 76,
+      "fp": 215,
+      "hp": 3527,
+      "lck": 52,
+      "oil": 9,
+      "rld": 163
+    },
+    "lvl120retro": {}
   }
 }

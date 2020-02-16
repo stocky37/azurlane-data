@@ -8,16 +8,46 @@
   "nationality": "neptunia",
   "slug": "white-heart",
   "stats": {
-    "aa": 29,
-    "acc": 69,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 66,
-    "fp": 14,
-    "hp": 314,
-    "lck": 73,
-    "oil": 3,
-    "rld": 79
+    "base": {
+      "aa": 29,
+      "acc": 69,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 66,
+      "fp": 14,
+      "hp": 314,
+      "lck": 73,
+      "oil": 3,
+      "rld": 79
+    },
+    "lvl100": {
+      "aa": 134,
+      "acc": 180,
+      "arm": "light",
+      "asw": 186,
+      "avi": 0,
+      "eva": 171,
+      "fp": 65,
+      "hp": 1622,
+      "lck": 73,
+      "oil": 10,
+      "rld": 187
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 154,
+      "acc": 189,
+      "arm": "light",
+      "asw": 206,
+      "avi": 0,
+      "eva": 178,
+      "fp": 74,
+      "hp": 1947,
+      "lck": 73,
+      "oil": 10,
+      "rld": 215
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "hololive",
   "slug": "minato-aqua",
   "stats": {
-    "aa": 0,
-    "acc": 61,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 10,
-    "fp": 12,
-    "hp": 271,
-    "lck": 64,
-    "oil": 3,
-    "rld": 40
+    "base": {
+      "aa": 0,
+      "acc": 61,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 10,
+      "fp": 12,
+      "hp": 271,
+      "lck": 64,
+      "oil": 3,
+      "rld": 40
+    },
+    "lvl100": {
+      "aa": 0,
+      "acc": 159,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 25,
+      "fp": 57,
+      "hp": 1401,
+      "lck": 64,
+      "oil": 8,
+      "rld": 94
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 0,
+      "acc": 175,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 45,
+      "fp": 65,
+      "hp": 1681,
+      "lck": 64,
+      "oil": 7,
+      "rld": 109
+    },
+    "lvl120retro": {}
   }
 }

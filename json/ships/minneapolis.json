@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "minneapolis",
   "stats": {
-    "aa": 46,
-    "acc": 42,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 48,
-    "hp": 717,
-    "lck": 76,
-    "oil": 4,
-    "rld": 67
+    "base": {
+      "aa": 46,
+      "acc": 42,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 48,
+      "hp": 717,
+      "lck": 76,
+      "oil": 4,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 216,
+      "acc": 110,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 24,
+      "fp": 225,
+      "hp": 3707,
+      "lck": 76,
+      "oil": 12,
+      "rld": 159
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 248,
+      "acc": 128,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 57,
+      "fp": 258,
+      "hp": 4152,
+      "lck": 76,
+      "oil": 12,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

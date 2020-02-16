@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "maury",
   "stats": {
-    "aa": 33,
-    "acc": 71,
-    "arm": "light",
-    "asw": 50,
-    "avi": 0,
-    "eva": 73,
-    "fp": 14,
-    "hp": 292,
-    "lck": 69,
-    "oil": 2,
-    "rld": 76
+    "base": {
+      "aa": 33,
+      "acc": 71,
+      "arm": "light",
+      "asw": 50,
+      "avi": 0,
+      "eva": 73,
+      "fp": 14,
+      "hp": 292,
+      "lck": 69,
+      "oil": 2,
+      "rld": 76
+    },
+    "lvl100": {
+      "aa": 155,
+      "acc": 184,
+      "arm": "light",
+      "asw": 183,
+      "avi": 0,
+      "eva": 190,
+      "fp": 66,
+      "hp": 1508,
+      "lck": 69,
+      "oil": 9,
+      "rld": 180
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 178,
+      "acc": 194,
+      "arm": "light",
+      "asw": 202,
+      "avi": 0,
+      "eva": 198,
+      "fp": 76,
+      "hp": 1809,
+      "lck": 69,
+      "oil": 9,
+      "rld": 207
+    },
+    "lvl120retro": {}
   }
 }

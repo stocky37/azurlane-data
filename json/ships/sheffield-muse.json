@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "sheffield-muse",
   "stats": {
-    "aa": 67,
-    "acc": 55,
-    "arm": "light",
-    "asw": 21,
-    "avi": 0,
-    "eva": 29,
-    "fp": 28,
-    "hp": 615,
-    "lck": 78,
-    "oil": 3,
-    "rld": 67
+    "base": {
+      "aa": 67,
+      "acc": 55,
+      "arm": "light",
+      "asw": 21,
+      "avi": 0,
+      "eva": 29,
+      "fp": 28,
+      "hp": 615,
+      "lck": 78,
+      "oil": 3,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 311,
+      "acc": 143,
+      "arm": "light",
+      "asw": 76,
+      "avi": 0,
+      "eva": 76,
+      "fp": 133,
+      "hp": 3177,
+      "lck": 78,
+      "oil": 10,
+      "rld": 159
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 351,
+      "acc": 160,
+      "arm": "light",
+      "asw": 87,
+      "avi": 0,
+      "eva": 100,
+      "fp": 153,
+      "hp": 3559,
+      "lck": 78,
+      "oil": 10,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

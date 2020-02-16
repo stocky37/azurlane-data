@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "wasp",
   "stats": {
-    "aa": 51,
-    "acc": 30,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 62,
-    "eva": 12,
-    "fp": 0,
-    "hp": 816,
-    "lck": 20,
-    "oil": 3,
-    "rld": 43
+    "base": {
+      "aa": 51,
+      "acc": 30,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 62,
+      "eva": 12,
+      "fp": 0,
+      "hp": 816,
+      "lck": 20,
+      "oil": 3,
+      "rld": 43
+    },
+    "lvl100": {
+      "aa": 238,
+      "acc": 79,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 292,
+      "eva": 31,
+      "fp": 0,
+      "hp": 4219,
+      "lck": 20,
+      "oil": 11,
+      "rld": 102
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 272,
+      "acc": 88,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 330,
+      "eva": 51,
+      "fp": 0,
+      "hp": 4894,
+      "lck": 20,
+      "oil": 11,
+      "rld": 117
+    },
+    "lvl120retro": {}
   }
 }

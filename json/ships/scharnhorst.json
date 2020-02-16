@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "scharnhorst",
   "stats": {
-    "aa": 46,
-    "acc": 22,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 69,
-    "hp": 1241,
-    "lck": 43,
-    "oil": 4,
-    "rld": 58
+    "base": {
+      "aa": 46,
+      "acc": 22,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 69,
+      "hp": 1241,
+      "lck": 43,
+      "oil": 4,
+      "rld": 58
+    },
+    "lvl100": {
+      "aa": 216,
+      "acc": 56,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 22,
+      "fp": 326,
+      "hp": 6415,
+      "lck": 43,
+      "oil": 13,
+      "rld": 137
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 248,
+      "acc": 66,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 38,
+      "fp": 366,
+      "hp": 7455,
+      "lck": 43,
+      "oil": 13,
+      "rld": 157
+    },
+    "lvl120retro": {}
   }
 }

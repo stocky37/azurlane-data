@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "tirpitz",
   "stats": {
-    "aa": 39,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 82,
-    "hp": 1477,
-    "lck": 45,
-    "oil": 5,
-    "rld": 55
+    "base": {
+      "aa": 39,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 82,
+      "hp": 1477,
+      "lck": 45,
+      "oil": 5,
+      "rld": 55
+    },
+    "lvl100": {
+      "aa": 181,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 21,
+      "fp": 387,
+      "hp": 7637,
+      "lck": 45,
+      "oil": 15,
+      "rld": 130
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 208,
+      "acc": 67,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 423,
+      "hp": 8401,
+      "lck": 45,
+      "oil": 15,
+      "rld": 150
+    },
+    "lvl120retro": {}
   }
 }

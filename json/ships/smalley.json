@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "smalley",
   "stats": {
-    "aa": 35,
-    "acc": 72,
-    "arm": "light",
-    "asw": 52,
-    "avi": 0,
-    "eva": 59,
-    "fp": 16,
-    "hp": 338,
-    "lck": 65,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 35,
+      "acc": 72,
+      "arm": "light",
+      "asw": 52,
+      "avi": 0,
+      "eva": 59,
+      "fp": 16,
+      "hp": 338,
+      "lck": 65,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 164,
+      "acc": 188,
+      "arm": "light",
+      "asw": 190,
+      "avi": 0,
+      "eva": 154,
+      "fp": 76,
+      "hp": 1746,
+      "lck": 65,
+      "oil": 8,
+      "rld": 176
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 189,
+      "acc": 197,
+      "arm": "light",
+      "asw": 210,
+      "avi": 0,
+      "eva": 160,
+      "fp": 87,
+      "hp": 2095,
+      "lck": 65,
+      "oil": 8,
+      "rld": 203
+    },
+    "lvl120retro": {}
   }
 }

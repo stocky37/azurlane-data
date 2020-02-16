@@ -3,8 +3,9 @@ from scrapy.loader import ItemLoader
 from scrapy.loader.processors import Compose, TakeFirst
 from slugify import slugify
 
-from azurlane.items.ship import Construction, Stats
 from azurlane.items.util import default_processor
+from .construction import Construction
+from .stats import AllStats
 
 
 class Ship(Item):
@@ -15,7 +16,7 @@ class Ship(Item):
     nationality = Field()
     classification = Field()
     construction = Field(serializer=Construction)
-    stats = Field(serializer=Stats)
+    stats = Field(serializer=AllStats)
 
 
 class ShipLoader(ItemLoader):

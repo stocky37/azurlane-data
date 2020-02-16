@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "hardy",
   "stats": {
-    "aa": 29,
-    "acc": 72,
-    "arm": "light",
-    "asw": 47,
-    "avi": 0,
-    "eva": 78,
-    "fp": 15,
-    "hp": 245,
-    "lck": 40,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 29,
+      "acc": 72,
+      "arm": "light",
+      "asw": 47,
+      "avi": 0,
+      "eva": 78,
+      "fp": 15,
+      "hp": 245,
+      "lck": 40,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 136,
+      "acc": 188,
+      "arm": "light",
+      "asw": 172,
+      "avi": 0,
+      "eva": 204,
+      "fp": 70,
+      "hp": 1265,
+      "lck": 40,
+      "oil": 9,
+      "rld": 175
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 157,
+      "acc": 197,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 210,
+      "fp": 81,
+      "hp": 1518,
+      "lck": 40,
+      "oil": 9,
+      "rld": 201
+    },
+    "lvl120retro": {}
   }
 }

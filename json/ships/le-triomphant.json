@@ -8,16 +8,46 @@
   "nationality": "iris-libre",
   "slug": "le-triomphant",
   "stats": {
-    "aa": 31,
-    "acc": 68,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 79,
-    "fp": 24,
-    "hp": 326,
-    "lck": 77,
-    "oil": 3,
-    "rld": 76
+    "base": {
+      "aa": 31,
+      "acc": 68,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 79,
+      "fp": 24,
+      "hp": 326,
+      "lck": 77,
+      "oil": 3,
+      "rld": 76
+    },
+    "lvl100": {
+      "aa": 145,
+      "acc": 177,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 206,
+      "fp": 114,
+      "hp": 1684,
+      "lck": 77,
+      "oil": 10,
+      "rld": 180
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 167,
+      "acc": 186,
+      "arm": "light",
+      "asw": 207,
+      "avi": 0,
+      "eva": 213,
+      "fp": 131,
+      "hp": 2021,
+      "lck": 77,
+      "oil": 10,
+      "rld": 207
+    },
+    "lvl120retro": {}
   }
 }

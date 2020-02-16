@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "enterprise",
   "stats": {
-    "aa": 62,
-    "acc": 37,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 83,
-    "eva": 19,
-    "fp": 0,
-    "hp": 1042,
-    "lck": 93,
-    "oil": 4,
-    "rld": 49
+    "base": {
+      "aa": 62,
+      "acc": 37,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 83,
+      "eva": 19,
+      "fp": 0,
+      "hp": 1042,
+      "lck": 93,
+      "oil": 4,
+      "rld": 49
+    },
+    "lvl100": {
+      "aa": 291,
+      "acc": 95,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 394,
+      "eva": 49,
+      "fp": 0,
+      "hp": 5385,
+      "lck": 93,
+      "oil": 13,
+      "rld": 115
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 329,
+      "acc": 107,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 429,
+      "eva": 62,
+      "fp": 0,
+      "hp": 6193,
+      "lck": 93,
+      "oil": 13,
+      "rld": 132
+    },
+    "lvl120retro": {}
   }
 }

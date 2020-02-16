@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "suruga",
   "stats": {
-    "aa": 40,
-    "acc": 21,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 80,
-    "hp": 1364,
-    "lck": 37,
-    "oil": 5,
-    "rld": 51
+    "base": {
+      "aa": 40,
+      "acc": 21,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 80,
+      "hp": 1364,
+      "lck": 37,
+      "oil": 5,
+      "rld": 51
+    },
+    "lvl100": {
+      "aa": 187,
+      "acc": 55,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 379,
+      "hp": 7051,
+      "lck": 37,
+      "oil": 15,
+      "rld": 120
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 215,
+      "acc": 68,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 37,
+      "fp": 421,
+      "hp": 8229,
+      "lck": 37,
+      "oil": 15,
+      "rld": 139
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "harutsuki",
   "stats": {
-    "aa": 36,
-    "acc": 69,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 67,
-    "fp": 14,
-    "hp": 394,
-    "lck": 61,
-    "oil": 2,
-    "rld": 77
+    "base": {
+      "aa": 36,
+      "acc": 69,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 67,
+      "fp": 14,
+      "hp": 394,
+      "lck": 61,
+      "oil": 2,
+      "rld": 77
+    },
+    "lvl100": {
+      "aa": 169,
+      "acc": 180,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 174,
+      "fp": 65,
+      "hp": 2037,
+      "lck": 61,
+      "oil": 9,
+      "rld": 183
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 194,
+      "acc": 189,
+      "arm": "light",
+      "asw": 207,
+      "avi": 0,
+      "eva": 179,
+      "fp": 74,
+      "hp": 2445,
+      "lck": 61,
+      "oil": 9,
+      "rld": 210
+    },
+    "lvl120retro": {}
   }
 }

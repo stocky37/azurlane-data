@@ -1,23 +1,12 @@
 {
-  "classification": "destroyer",
-  "construction": {
-    "time": "Cannot Be Constructed"
-  },
-  "id": "160",
+  "construction": {},
   "name": "Hibiki",
-  "nationality": "sakura-empire",
   "slug": "hibiki",
   "stats": {
-    "aa": 29,
-    "acc": 65,
-    "arm": "light",
-    "asw": 48,
-    "avi": 0,
-    "eva": 72,
-    "fp": 12,
-    "hp": 290,
-    "lck": 88,
-    "oil": 2,
-    "rld": 79
+    "base": {},
+    "lvl100": {},
+    "lvl100retro": {},
+    "lvl120": {},
+    "lvl120retro": {}
   }
 }

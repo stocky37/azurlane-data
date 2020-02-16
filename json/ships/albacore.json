@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "albacore",
   "stats": {
-    "aa": 0,
-    "acc": 66,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 11,
-    "hp": 310,
-    "lck": 79,
-    "oil": 2,
-    "rld": 35
+    "base": {
+      "aa": 0,
+      "acc": 66,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 11,
+      "hp": 310,
+      "lck": 79,
+      "oil": 2,
+      "rld": 35
+    },
+    "lvl100": {
+      "aa": 0,
+      "acc": 172,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 22,
+      "fp": 53,
+      "hp": 1603,
+      "lck": 79,
+      "oil": 7,
+      "rld": 82
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 0,
+      "acc": 193,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 41,
+      "fp": 61,
+      "hp": 1924,
+      "lck": 79,
+      "oil": 7,
+      "rld": 95
+    },
+    "lvl120retro": {}
   }
 }

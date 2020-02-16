@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "pensacola",
   "stats": {
-    "aa": 37,
-    "acc": 39,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 43,
-    "hp": 563,
-    "lck": 75,
-    "oil": 2,
-    "rld": 59
+    "base": {
+      "aa": 37,
+      "acc": 39,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 43,
+      "hp": 563,
+      "lck": 75,
+      "oil": 2,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 172,
+      "acc": 101,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 202,
+      "hp": 2911,
+      "lck": 75,
+      "oil": 9,
+      "rld": 139
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 198,
+      "acc": 118,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 55,
+      "fp": 232,
+      "hp": 3290,
+      "lck": 75,
+      "oil": 9,
+      "rld": 160
+    },
+    "lvl120retro": {}
   }
 }

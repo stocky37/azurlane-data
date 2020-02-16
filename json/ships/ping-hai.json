@@ -8,16 +8,70 @@
   "nationality": "eastern-radiance",
   "slug": "ping-hai",
   "stats": {
-    "aa": 48,
-    "acc": 53,
-    "arm": "light",
-    "asw": 18,
-    "avi": 0,
-    "eva": 25,
-    "fp": 27,
-    "hp": 340,
-    "lck": 47,
-    "oil": 3,
-    "rld": 67
+    "base": {
+      "aa": 48,
+      "acc": 53,
+      "arm": "light",
+      "asw": 18,
+      "avi": 0,
+      "eva": 25,
+      "fp": 27,
+      "hp": 340,
+      "lck": 47,
+      "oil": 3,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 224,
+      "acc": 138,
+      "arm": "light",
+      "asw": 66,
+      "avi": 0,
+      "eva": 64,
+      "fp": 127,
+      "hp": 1757,
+      "lck": 47,
+      "oil": 10,
+      "rld": 159
+    },
+    "lvl100retro": {
+      "aa": 239,
+      "acc": 138,
+      "arm": "light",
+      "asw": 66,
+      "avi": 0,
+      "eva": 99,
+      "fp": 182,
+      "hp": 1967,
+      "lck": 47,
+      "oil": 10,
+      "rld": 164
+    },
+    "lvl120": {
+      "aa": 257,
+      "acc": 155,
+      "arm": "light",
+      "asw": 75,
+      "avi": 0,
+      "eva": 72,
+      "fp": 146,
+      "hp": 1950,
+      "lck": 47,
+      "oil": 10,
+      "rld": 182
+    },
+    "lvl120retro": {
+      "aa": 272,
+      "acc": 155,
+      "arm": "light",
+      "asw": 75,
+      "avi": 0,
+      "eva": 107,
+      "fp": 201,
+      "hp": 2160,
+      "lck": 47,
+      "oil": 10,
+      "rld": 187
+    }
   }
 }

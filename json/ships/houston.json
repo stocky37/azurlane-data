@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "houston",
   "stats": {
-    "aa": 39,
-    "acc": 40,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 45,
-    "hp": 590,
-    "lck": 49,
-    "oil": 3,
-    "rld": 63
+    "base": {
+      "aa": 39,
+      "acc": 40,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 45,
+      "hp": 590,
+      "lck": 49,
+      "oil": 3,
+      "rld": 63
+    },
+    "lvl100": {
+      "aa": 183,
+      "acc": 104,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 214,
+      "hp": 3049,
+      "lck": 49,
+      "oil": 11,
+      "rld": 149
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 210,
+      "acc": 121,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 53,
+      "fp": 246,
+      "hp": 3445,
+      "lck": 49,
+      "oil": 11,
+      "rld": 171
+    },
+    "lvl120retro": {}
   }
 }

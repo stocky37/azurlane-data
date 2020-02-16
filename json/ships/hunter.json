@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "hunter",
   "stats": {
-    "aa": 29,
-    "acc": 70,
-    "arm": "light",
-    "asw": 46,
-    "avi": 0,
-    "eva": 78,
-    "fp": 14,
-    "hp": 221,
-    "lck": 24,
-    "oil": 2,
-    "rld": 72
+    "base": {
+      "aa": 29,
+      "acc": 70,
+      "arm": "light",
+      "asw": 46,
+      "avi": 0,
+      "eva": 78,
+      "fp": 14,
+      "hp": 221,
+      "lck": 24,
+      "oil": 2,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 136,
+      "acc": 182,
+      "arm": "light",
+      "asw": 168,
+      "avi": 0,
+      "eva": 204,
+      "fp": 66,
+      "hp": 1142,
+      "lck": 24,
+      "oil": 8,
+      "rld": 171
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 156,
+      "acc": 191,
+      "arm": "light",
+      "asw": 187,
+      "avi": 0,
+      "eva": 210,
+      "fp": 76,
+      "hp": 1370,
+      "lck": 24,
+      "oil": 8,
+      "rld": 196
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "sirius",
   "stats": {
-    "aa": 74,
-    "acc": 58,
-    "arm": "light",
-    "asw": 40,
-    "avi": 0,
-    "eva": 28,
-    "fp": 28,
-    "hp": 647,
-    "lck": 70,
-    "oil": 3,
-    "rld": 67
+    "base": {
+      "aa": 74,
+      "acc": 58,
+      "arm": "light",
+      "asw": 40,
+      "avi": 0,
+      "eva": 28,
+      "fp": 28,
+      "hp": 647,
+      "lck": 70,
+      "oil": 3,
+      "rld": 67
+    },
+    "lvl100": {
+      "aa": 344,
+      "acc": 151,
+      "arm": "light",
+      "asw": 146,
+      "avi": 0,
+      "eva": 73,
+      "fp": 131,
+      "hp": 3343,
+      "lck": 70,
+      "oil": 11,
+      "rld": 158
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 385,
+      "acc": 169,
+      "arm": "light",
+      "asw": 164,
+      "avi": 0,
+      "eva": 97,
+      "fp": 151,
+      "hp": 3744,
+      "lck": 70,
+      "oil": 11,
+      "rld": 182
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,70 @@
   "nationality": "eagle-union",
   "slug": "laffey",
   "stats": {
-    "aa": 33,
-    "acc": 75,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 60,
-    "fp": 19,
-    "hp": 319,
-    "lck": 18,
-    "oil": 2,
-    "rld": 81
+    "base": {
+      "aa": 33,
+      "acc": 75,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 60,
+      "fp": 19,
+      "hp": 319,
+      "lck": 18,
+      "oil": 2,
+      "rld": 81
+    },
+    "lvl100": {
+      "aa": 153,
+      "acc": 195,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 157,
+      "fp": 88,
+      "hp": 1650,
+      "lck": 18,
+      "oil": 9,
+      "rld": 191
+    },
+    "lvl100retro": {
+      "aa": 153,
+      "acc": 195,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 197,
+      "fp": 148,
+      "hp": 1815,
+      "lck": 18,
+      "oil": 9,
+      "rld": 191
+    },
+    "lvl120": {
+      "aa": 176,
+      "acc": 205,
+      "arm": "light",
+      "asw": 199,
+      "avi": 0,
+      "eva": 163,
+      "fp": 101,
+      "hp": 1980,
+      "lck": 18,
+      "oil": 9,
+      "rld": 220
+    },
+    "lvl120retro": {
+      "aa": 176,
+      "acc": 205,
+      "arm": "light",
+      "asw": 199,
+      "avi": 0,
+      "eva": 203,
+      "fp": 161,
+      "hp": 2145,
+      "lck": 18,
+      "oil": 9,
+      "rld": 220
+    }
   }
 }

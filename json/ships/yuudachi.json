@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "yuudachi",
   "stats": {
-    "aa": 29,
-    "acc": 70,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 71,
-    "fp": 13,
-    "hp": 295,
-    "lck": 32,
-    "oil": 3,
-    "rld": 83
+    "base": {
+      "aa": 29,
+      "acc": 70,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 71,
+      "fp": 13,
+      "hp": 295,
+      "lck": 32,
+      "oil": 3,
+      "rld": 83
+    },
+    "lvl100": {
+      "aa": 136,
+      "acc": 182,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 184,
+      "fp": 61,
+      "hp": 1524,
+      "lck": 32,
+      "oil": 10,
+      "rld": 197
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 157,
+      "acc": 191,
+      "arm": "light",
+      "asw": 200,
+      "avi": 0,
+      "eva": 190,
+      "fp": 70,
+      "hp": 1828,
+      "lck": 32,
+      "oil": 10,
+      "rld": 226
+    },
+    "lvl120retro": {}
   }
 }

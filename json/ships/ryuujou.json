@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "ryuujou",
   "stats": {
-    "aa": 47,
-    "acc": 29,
-    "arm": "medium",
-    "asw": 17,
-    "avi": 65,
-    "eva": 24,
-    "fp": 0,
-    "hp": 707,
-    "lck": 42,
-    "oil": 3,
-    "rld": 66
+    "base": {
+      "aa": 47,
+      "acc": 29,
+      "arm": "medium",
+      "asw": 17,
+      "avi": 65,
+      "eva": 24,
+      "fp": 0,
+      "hp": 707,
+      "lck": 42,
+      "oil": 3,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 219,
+      "acc": 76,
+      "arm": "medium",
+      "asw": 63,
+      "avi": 308,
+      "eva": 61,
+      "fp": 0,
+      "hp": 3657,
+      "lck": 42,
+      "oil": 11,
+      "rld": 156
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 252,
+      "acc": 89,
+      "arm": "medium",
+      "asw": 72,
+      "avi": 347,
+      "eva": 82,
+      "fp": 0,
+      "hp": 4278,
+      "lck": 42,
+      "oil": 11,
+      "rld": 179
+    },
+    "lvl120retro": {}
   }
 }

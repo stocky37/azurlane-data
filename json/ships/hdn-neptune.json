@@ -8,16 +8,46 @@
   "nationality": "neptunia",
   "slug": "hdn-neptune",
   "stats": {
-    "aa": 57,
-    "acc": 54,
-    "arm": "light",
-    "asw": 29,
-    "avi": 0,
-    "eva": 28,
-    "fp": 28,
-    "hp": 588,
-    "lck": 73,
-    "oil": 3,
-    "rld": 63
+    "base": {
+      "aa": 57,
+      "acc": 54,
+      "arm": "light",
+      "asw": 29,
+      "avi": 0,
+      "eva": 28,
+      "fp": 28,
+      "hp": 588,
+      "lck": 73,
+      "oil": 3,
+      "rld": 63
+    },
+    "lvl100": {
+      "aa": 266,
+      "acc": 140,
+      "arm": "light",
+      "asw": 108,
+      "avi": 0,
+      "eva": 73,
+      "fp": 133,
+      "hp": 3041,
+      "lck": 73,
+      "oil": 10,
+      "rld": 149
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 303,
+      "acc": 154,
+      "arm": "light",
+      "asw": 122,
+      "avi": 0,
+      "eva": 100,
+      "fp": 153,
+      "hp": 3430,
+      "lck": 73,
+      "oil": 10,
+      "rld": 171
+    },
+    "lvl120retro": {}
   }
 }

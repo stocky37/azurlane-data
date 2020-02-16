@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "graf-zeppelin",
   "stats": {
-    "aa": 60,
-    "acc": 30,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 76,
-    "eva": 14,
-    "fp": 0,
-    "hp": 1317,
-    "lck": 45,
-    "oil": 4,
-    "rld": 42
+    "base": {
+      "aa": 60,
+      "acc": 30,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 76,
+      "eva": 14,
+      "fp": 0,
+      "hp": 1317,
+      "lck": 45,
+      "oil": 4,
+      "rld": 42
+    },
+    "lvl100": {
+      "aa": 281,
+      "acc": 78,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 358,
+      "eva": 36,
+      "fp": 0,
+      "hp": 6808,
+      "lck": 45,
+      "oil": 13,
+      "rld": 100
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 319,
+      "acc": 87,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 400,
+      "eva": 50,
+      "fp": 0,
+      "hp": 7488,
+      "lck": 45,
+      "oil": 13,
+      "rld": 115
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "mikuma",
   "stats": {
-    "aa": 35,
-    "acc": 51,
-    "arm": "medium",
-    "asw": 11,
-    "avi": 0,
-    "eva": 14,
-    "fp": 37,
-    "hp": 686,
-    "lck": 13,
-    "oil": 3,
-    "rld": 69
+    "base": {
+      "aa": 35,
+      "acc": 51,
+      "arm": "medium",
+      "asw": 11,
+      "avi": 0,
+      "eva": 14,
+      "fp": 37,
+      "hp": 686,
+      "lck": 13,
+      "oil": 3,
+      "rld": 69
+    },
+    "lvl100": {
+      "aa": 162,
+      "acc": 133,
+      "arm": "medium",
+      "asw": 39,
+      "avi": 0,
+      "eva": 36,
+      "fp": 175,
+      "hp": 3547,
+      "lck": 13,
+      "oil": 11,
+      "rld": 164
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 186,
+      "acc": 149,
+      "arm": "medium",
+      "asw": 45,
+      "avi": 0,
+      "eva": 82,
+      "fp": 201,
+      "hp": 4015,
+      "lck": 13,
+      "oil": 11,
+      "rld": 189
+    },
+    "lvl120retro": {}
   }
 }

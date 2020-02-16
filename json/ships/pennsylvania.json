@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "pennsylvania",
   "stats": {
-    "aa": 40,
-    "acc": 21,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 4,
-    "fp": 74,
-    "hp": 1192,
-    "lck": 72,
-    "oil": 4,
-    "rld": 50
+    "base": {
+      "aa": 40,
+      "acc": 21,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 4,
+      "fp": 74,
+      "hp": 1192,
+      "lck": 72,
+      "oil": 4,
+      "rld": 50
+    },
+    "lvl100": {
+      "aa": 185,
+      "acc": 54,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 349,
+      "hp": 6165,
+      "lck": 72,
+      "oil": 13,
+      "rld": 119
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 212,
+      "acc": 70,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 27,
+      "fp": 390,
+      "hp": 7194,
+      "lck": 72,
+      "oil": 13,
+      "rld": 137
+    },
+    "lvl120retro": {}
   }
 }

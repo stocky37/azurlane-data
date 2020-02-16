@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "dido",
   "stats": {
-    "aa": 74,
-    "acc": 55,
-    "arm": "light",
-    "asw": 41,
-    "avi": 0,
-    "eva": 28,
-    "fp": 29,
-    "hp": 647,
-    "lck": 85,
-    "oil": 4,
-    "rld": 71
+    "base": {
+      "aa": 74,
+      "acc": 55,
+      "arm": "light",
+      "asw": 41,
+      "avi": 0,
+      "eva": 28,
+      "fp": 29,
+      "hp": 647,
+      "lck": 85,
+      "oil": 4,
+      "rld": 71
+    },
+    "lvl100": {
+      "aa": 347,
+      "acc": 143,
+      "arm": "light",
+      "asw": 151,
+      "avi": 0,
+      "eva": 73,
+      "fp": 137,
+      "hp": 3343,
+      "lck": 85,
+      "oil": 11,
+      "rld": 168
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 388,
+      "acc": 160,
+      "arm": "light",
+      "asw": 169,
+      "avi": 0,
+      "eva": 97,
+      "fp": 158,
+      "hp": 3745,
+      "lck": 85,
+      "oil": 11,
+      "rld": 194
+    },
+    "lvl120retro": {}
   }
 }

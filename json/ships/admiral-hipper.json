@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "admiral-hipper",
   "stats": {
-    "aa": 35,
-    "acc": 44,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 46,
-    "hp": 874,
-    "lck": 66,
-    "oil": 3,
-    "rld": 65
+    "base": {
+      "aa": 35,
+      "acc": 44,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 46,
+      "hp": 874,
+      "lck": 66,
+      "oil": 3,
+      "rld": 65
+    },
+    "lvl100": {
+      "aa": 164,
+      "acc": 114,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 218,
+      "hp": 4518,
+      "lck": 66,
+      "oil": 11,
+      "rld": 153
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 189,
+      "acc": 128,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 61,
+      "fp": 251,
+      "hp": 4970,
+      "lck": 66,
+      "oil": 11,
+      "rld": 176
+    },
+    "lvl120retro": {}
   }
 }

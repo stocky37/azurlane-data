@@ -8,16 +8,46 @@
   "nationality": "sardegna-empire",
   "slug": "littorio",
   "stats": {
-    "aa": 45,
-    "acc": 19,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 80,
-    "hp": 1389,
-    "lck": 79,
-    "oil": 5,
-    "rld": 57
+    "base": {
+      "aa": 45,
+      "acc": 19,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 80,
+      "hp": 1389,
+      "lck": 79,
+      "oil": 5,
+      "rld": 57
+    },
+    "lvl100": {
+      "aa": 211,
+      "acc": 49,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 21,
+      "fp": 379,
+      "hp": 7182,
+      "lck": 79,
+      "oil": 15,
+      "rld": 134
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 243,
+      "acc": 58,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 35,
+      "fp": 421,
+      "hp": 8367,
+      "lck": 79,
+      "oil": 15,
+      "rld": 154
+    },
+    "lvl120retro": {}
   }
 }

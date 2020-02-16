@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "gridley",
   "stats": {
-    "aa": 32,
-    "acc": 71,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 60,
-    "fp": 14,
-    "hp": 292,
-    "lck": 72,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 32,
+      "acc": 71,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 60,
+      "fp": 14,
+      "hp": 292,
+      "lck": 72,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 151,
+      "acc": 184,
+      "arm": "light",
+      "asw": 181,
+      "avi": 0,
+      "eva": 157,
+      "fp": 63,
+      "hp": 1508,
+      "lck": 72,
+      "oil": 8,
+      "rld": 175
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 174,
+      "acc": 194,
+      "arm": "light",
+      "asw": 201,
+      "avi": 0,
+      "eva": 163,
+      "fp": 73,
+      "hp": 1810,
+      "lck": 72,
+      "oil": 8,
+      "rld": 201
+    },
+    "lvl120retro": {}
   }
 }

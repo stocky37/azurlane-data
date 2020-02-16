@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "aurora",
   "stats": {
-    "aa": 63,
-    "acc": 59,
-    "arm": "light",
-    "asw": 26,
-    "avi": 0,
-    "eva": 29,
-    "fp": 30,
-    "hp": 497,
-    "lck": 84,
-    "oil": 3,
-    "rld": 72
+    "base": {
+      "aa": 63,
+      "acc": 59,
+      "arm": "light",
+      "asw": 26,
+      "avi": 0,
+      "eva": 29,
+      "fp": 30,
+      "hp": 497,
+      "lck": 84,
+      "oil": 3,
+      "rld": 72
+    },
+    "lvl100": {
+      "aa": 295,
+      "acc": 153,
+      "arm": "light",
+      "asw": 96,
+      "avi": 0,
+      "eva": 76,
+      "fp": 141,
+      "hp": 2568,
+      "lck": 84,
+      "oil": 10,
+      "rld": 169
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 333,
+      "acc": 172,
+      "arm": "light",
+      "asw": 109,
+      "avi": 0,
+      "eva": 100,
+      "fp": 162,
+      "hp": 2914,
+      "lck": 84,
+      "oil": 10,
+      "rld": 195
+    },
+    "lvl120retro": {}
   }
 }

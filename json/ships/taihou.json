@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "taihou",
   "stats": {
-    "aa": 60,
-    "acc": 28,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 76,
-    "eva": 13,
-    "fp": 0,
-    "hp": 1240,
-    "lck": 36,
-    "oil": 4,
-    "rld": 44
+    "base": {
+      "aa": 60,
+      "acc": 28,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 76,
+      "eva": 13,
+      "fp": 0,
+      "hp": 1240,
+      "lck": 36,
+      "oil": 4,
+      "rld": 44
+    },
+    "lvl100": {
+      "aa": 281,
+      "acc": 73,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 358,
+      "eva": 34,
+      "fp": 0,
+      "hp": 6412,
+      "lck": 36,
+      "oil": 13,
+      "rld": 104
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 319,
+      "acc": 82,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 399,
+      "eva": 54,
+      "fp": 0,
+      "hp": 7310,
+      "lck": 36,
+      "oil": 13,
+      "rld": 120
+    },
+    "lvl120retro": {}
   }
 }

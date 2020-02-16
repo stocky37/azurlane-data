@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "fumizuki",
   "stats": {
-    "aa": 24,
-    "acc": 65,
-    "arm": "light",
-    "asw": 45,
-    "avi": 0,
-    "eva": 72,
-    "fp": 11,
-    "hp": 244,
-    "lck": 27,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 24,
+      "acc": 65,
+      "arm": "light",
+      "asw": 45,
+      "avi": 0,
+      "eva": 72,
+      "fp": 11,
+      "hp": 244,
+      "lck": 27,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 112,
+      "acc": 169,
+      "arm": "light",
+      "asw": 165,
+      "avi": 0,
+      "eva": 187,
+      "fp": 52,
+      "hp": 1263,
+      "lck": 27,
+      "oil": 8,
+      "rld": 175
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 128,
+      "acc": 178,
+      "arm": "light",
+      "asw": 184,
+      "avi": 0,
+      "eva": 193,
+      "fp": 60,
+      "hp": 1516,
+      "lck": 27,
+      "oil": 8,
+      "rld": 201
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "king-george-v",
   "stats": {
-    "aa": 49,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 7,
-    "fp": 82,
-    "hp": 1334,
-    "lck": 77,
-    "oil": 5,
-    "rld": 57
+    "base": {
+      "aa": 49,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 7,
+      "fp": 82,
+      "hp": 1334,
+      "lck": 77,
+      "oil": 5,
+      "rld": 57
+    },
+    "lvl100": {
+      "aa": 230,
+      "acc": 57,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 18,
+      "fp": 387,
+      "hp": 6897,
+      "lck": 77,
+      "oil": 15,
+      "rld": 136
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 264,
+      "acc": 70,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 35,
+      "fp": 423,
+      "hp": 7970,
+      "lck": 77,
+      "oil": 15,
+      "rld": 156
+    },
+    "lvl120retro": {}
   }
 }

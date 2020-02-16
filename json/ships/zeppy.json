@@ -8,16 +8,46 @@
   "nationality": "ironblood",
   "slug": "zeppy",
   "stats": {
-    "aa": 58,
-    "acc": 29,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 71,
-    "eva": 16,
-    "fp": 32,
-    "hp": 1228,
-    "lck": 45,
-    "oil": 4,
-    "rld": 41
+    "base": {
+      "aa": 58,
+      "acc": 29,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 71,
+      "eva": 16,
+      "fp": 32,
+      "hp": 1228,
+      "lck": 45,
+      "oil": 4,
+      "rld": 41
+    },
+    "lvl100": {
+      "aa": 270,
+      "acc": 76,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 335,
+      "eva": 41,
+      "fp": 152,
+      "hp": 6348,
+      "lck": 45,
+      "oil": 12,
+      "rld": 96
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 307,
+      "acc": 85,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 376,
+      "eva": 56,
+      "fp": 174,
+      "hp": 6983,
+      "lck": 45,
+      "oil": 12,
+      "rld": 110
+    },
+    "lvl120retro": {}
   }
 }

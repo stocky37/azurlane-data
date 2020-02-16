@@ -8,16 +8,70 @@
   "nationality": "royal-navy",
   "slug": "javelin",
   "stats": {
-    "aa": 30,
-    "acc": 71,
-    "arm": "light",
-    "asw": 53,
-    "avi": 0,
-    "eva": 78,
-    "fp": 15,
-    "hp": 255,
-    "lck": 65,
-    "oil": 2,
-    "rld": 76
+    "base": {
+      "aa": 30,
+      "acc": 71,
+      "arm": "light",
+      "asw": 53,
+      "avi": 0,
+      "eva": 78,
+      "fp": 15,
+      "hp": 255,
+      "lck": 65,
+      "oil": 2,
+      "rld": 76
+    },
+    "lvl100": {
+      "aa": 139,
+      "acc": 185,
+      "arm": "light",
+      "asw": 195,
+      "avi": 0,
+      "eva": 204,
+      "fp": 70,
+      "hp": 1317,
+      "lck": 65,
+      "oil": 9,
+      "rld": 180
+    },
+    "lvl100retro": {
+      "aa": 139,
+      "acc": 185,
+      "arm": "light",
+      "asw": 195,
+      "avi": 0,
+      "eva": 244,
+      "fp": 80,
+      "hp": 1482,
+      "lck": 65,
+      "oil": 9,
+      "rld": 180
+    },
+    "lvl120": {
+      "aa": 160,
+      "acc": 194,
+      "arm": "light",
+      "asw": 215,
+      "avi": 0,
+      "eva": 210,
+      "fp": 80,
+      "hp": 1581,
+      "lck": 65,
+      "oil": 9,
+      "rld": 207
+    },
+    "lvl120retro": {
+      "aa": 160,
+      "acc": 194,
+      "arm": "light",
+      "asw": 215,
+      "avi": 0,
+      "eva": 250,
+      "fp": 90,
+      "hp": 1746,
+      "lck": 65,
+      "oil": 9,
+      "rld": 207
+    }
   }
 }

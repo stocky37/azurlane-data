@@ -8,16 +8,46 @@
   "nationality": "neptunia",
   "slug": "noire",
   "stats": {
-    "aa": 33,
-    "acc": 44,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 12,
-    "fp": 44,
-    "hp": 655,
-    "lck": 83,
-    "oil": 3,
-    "rld": 61
+    "base": {
+      "aa": 33,
+      "acc": 44,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 12,
+      "fp": 44,
+      "hp": 655,
+      "lck": 83,
+      "oil": 3,
+      "rld": 61
+    },
+    "lvl100": {
+      "aa": 155,
+      "acc": 114,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 30,
+      "fp": 206,
+      "hp": 3387,
+      "lck": 83,
+      "oil": 11,
+      "rld": 144
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 178,
+      "acc": 126,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 65,
+      "fp": 237,
+      "hp": 3828,
+      "lck": 83,
+      "oil": 11,
+      "rld": 165
+    },
+    "lvl120retro": {}
   }
 }

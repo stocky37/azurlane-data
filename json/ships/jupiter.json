@@ -8,16 +8,46 @@
   "nationality": "royal-navy",
   "slug": "jupiter",
   "stats": {
-    "aa": 29,
-    "acc": 71,
-    "arm": "light",
-    "asw": 52,
-    "avi": 0,
-    "eva": 78,
-    "fp": 14,
-    "hp": 248,
-    "lck": 52,
-    "oil": 2,
-    "rld": 74
+    "base": {
+      "aa": 29,
+      "acc": 71,
+      "arm": "light",
+      "asw": 52,
+      "avi": 0,
+      "eva": 78,
+      "fp": 14,
+      "hp": 248,
+      "lck": 52,
+      "oil": 2,
+      "rld": 74
+    },
+    "lvl100": {
+      "aa": 135,
+      "acc": 185,
+      "arm": "light",
+      "asw": 190,
+      "avi": 0,
+      "eva": 204,
+      "fp": 66,
+      "hp": 1280,
+      "lck": 52,
+      "oil": 8,
+      "rld": 175
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 156,
+      "acc": 194,
+      "arm": "light",
+      "asw": 210,
+      "avi": 0,
+      "eva": 210,
+      "fp": 76,
+      "hp": 1536,
+      "lck": 52,
+      "oil": 8,
+      "rld": 201
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,70 @@
   "nationality": "sakura-empire",
   "slug": "kinu",
   "stats": {
-    "aa": 57,
-    "acc": 50,
-    "arm": "light",
-    "asw": 30,
-    "avi": 0,
-    "eva": 31,
-    "fp": 27,
-    "hp": 494,
-    "lck": 52,
-    "oil": 3,
-    "rld": 66
+    "base": {
+      "aa": 57,
+      "acc": 50,
+      "arm": "light",
+      "asw": 30,
+      "avi": 0,
+      "eva": 31,
+      "fp": 27,
+      "hp": 494,
+      "lck": 52,
+      "oil": 3,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 267,
+      "acc": 129,
+      "arm": "light",
+      "asw": 109,
+      "avi": 0,
+      "eva": 80,
+      "fp": 129,
+      "hp": 2554,
+      "lck": 52,
+      "oil": 10,
+      "rld": 157
+    },
+    "lvl100retro": {
+      "aa": 282,
+      "acc": 134,
+      "arm": "light",
+      "asw": 109,
+      "avi": 0,
+      "eva": 80,
+      "fp": 139,
+      "hp": 2794,
+      "lck": 52,
+      "oil": 10,
+      "rld": 162
+    },
+    "lvl120": {
+      "aa": 304,
+      "acc": 145,
+      "arm": "light",
+      "asw": 123,
+      "avi": 0,
+      "eva": 105,
+      "fp": 148,
+      "hp": 2886,
+      "lck": 52,
+      "oil": 10,
+      "rld": 181
+    },
+    "lvl120retro": {
+      "aa": 319,
+      "acc": 150,
+      "arm": "light",
+      "asw": 123,
+      "avi": 0,
+      "eva": 105,
+      "fp": 158,
+      "hp": 3126,
+      "lck": 52,
+      "oil": 10,
+      "rld": 186
+    }
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "yukikaze",
   "stats": {
-    "aa": 30,
-    "acc": 71,
-    "arm": "light",
-    "asw": 52,
-    "avi": 0,
-    "eva": 71,
-    "fp": 13,
-    "hp": 359,
-    "lck": 93,
-    "oil": 3,
-    "rld": 82
+    "base": {
+      "aa": 30,
+      "acc": 71,
+      "arm": "light",
+      "asw": 52,
+      "avi": 0,
+      "eva": 71,
+      "fp": 13,
+      "hp": 359,
+      "lck": 93,
+      "oil": 3,
+      "rld": 82
+    },
+    "lvl100": {
+      "aa": 140,
+      "acc": 186,
+      "arm": "light",
+      "asw": 190,
+      "avi": 0,
+      "eva": 186,
+      "fp": 59,
+      "hp": 1855,
+      "lck": 93,
+      "oil": 10,
+      "rld": 194
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 161,
+      "acc": 195,
+      "arm": "light",
+      "asw": 210,
+      "avi": 0,
+      "eva": 192,
+      "fp": 68,
+      "hp": 2226,
+      "lck": 93,
+      "oil": 10,
+      "rld": 223
+    },
+    "lvl120retro": {}
   }
 }

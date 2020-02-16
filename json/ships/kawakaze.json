@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "kawakaze",
   "stats": {
-    "aa": 30,
-    "acc": 70,
-    "arm": "light",
-    "asw": 49,
-    "avi": 0,
-    "eva": 71,
-    "fp": 13,
-    "hp": 295,
-    "lck": 38,
-    "oil": 3,
-    "rld": 80
+    "base": {
+      "aa": 30,
+      "acc": 70,
+      "arm": "light",
+      "asw": 49,
+      "avi": 0,
+      "eva": 71,
+      "fp": 13,
+      "hp": 295,
+      "lck": 38,
+      "oil": 3,
+      "rld": 80
+    },
+    "lvl100": {
+      "aa": 140,
+      "acc": 182,
+      "arm": "light",
+      "asw": 180,
+      "avi": 0,
+      "eva": 184,
+      "fp": 60,
+      "hp": 1525,
+      "lck": 38,
+      "oil": 10,
+      "rld": 188
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 161,
+      "acc": 191,
+      "arm": "light",
+      "asw": 200,
+      "avi": 0,
+      "eva": 190,
+      "fp": 69,
+      "hp": 1830,
+      "lck": 38,
+      "oil": 10,
+      "rld": 217
+    },
+    "lvl120retro": {}
   }
 }

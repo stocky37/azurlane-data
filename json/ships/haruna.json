@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "haruna",
   "stats": {
-    "aa": 51,
-    "acc": 21,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 68,
-    "hp": 1087,
-    "lck": 47,
-    "oil": 5,
-    "rld": 58
+    "base": {
+      "aa": 51,
+      "acc": 21,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 68,
+      "hp": 1087,
+      "lck": 47,
+      "oil": 5,
+      "rld": 58
+    },
+    "lvl100": {
+      "aa": 238,
+      "acc": 55,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 20,
+      "fp": 320,
+      "hp": 5620,
+      "lck": 47,
+      "oil": 14,
+      "rld": 138
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 273,
+      "acc": 68,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 37,
+      "fp": 360,
+      "hp": 6604,
+      "lck": 47,
+      "oil": 14,
+      "rld": 159
+    },
+    "lvl120retro": {}
   }
 }

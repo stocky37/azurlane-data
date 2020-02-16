@@ -8,16 +8,46 @@
   "nationality": "utawarerumono",
   "slug": "kuon",
   "stats": {
-    "aa": 33,
-    "acc": 46,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 11,
-    "fp": 44,
-    "hp": 708,
-    "lck": 90,
-    "oil": 4,
-    "rld": 59
+    "base": {
+      "aa": 33,
+      "acc": 46,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 44,
+      "hp": 708,
+      "lck": 90,
+      "oil": 4,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 153,
+      "acc": 119,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 28,
+      "fp": 206,
+      "hp": 3662,
+      "lck": 90,
+      "oil": 12,
+      "rld": 140
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 175,
+      "acc": 131,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 54,
+      "fp": 237,
+      "hp": 4138,
+      "lck": 90,
+      "oil": 12,
+      "rld": 161
+    },
+    "lvl120retro": {}
   }
 }

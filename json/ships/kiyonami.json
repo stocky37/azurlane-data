@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "kiyonami",
   "stats": {
-    "aa": 26,
-    "acc": 71,
-    "arm": "light",
-    "asw": 45,
-    "avi": 0,
-    "eva": 71,
-    "fp": 11,
-    "hp": 331,
-    "lck": 46,
-    "oil": 2,
-    "rld": 77
+    "base": {
+      "aa": 26,
+      "acc": 71,
+      "arm": "light",
+      "asw": 45,
+      "avi": 0,
+      "eva": 71,
+      "fp": 11,
+      "hp": 331,
+      "lck": 46,
+      "oil": 2,
+      "rld": 77
+    },
+    "lvl100": {
+      "aa": 120,
+      "acc": 185,
+      "arm": "light",
+      "asw": 165,
+      "avi": 0,
+      "eva": 185,
+      "fp": 51,
+      "hp": 1712,
+      "lck": 46,
+      "oil": 8,
+      "rld": 183
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 138,
+      "acc": 194,
+      "arm": "light",
+      "asw": 184,
+      "avi": 0,
+      "eva": 191,
+      "fp": 59,
+      "hp": 2055,
+      "lck": 46,
+      "oil": 8,
+      "rld": 210
+    },
+    "lvl120retro": {}
   }
 }

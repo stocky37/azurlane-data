@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "california",
   "stats": {
-    "aa": 39,
-    "acc": 22,
-    "arm": "heavy",
-    "asw": 0,
-    "avi": 0,
-    "eva": 4,
-    "fp": 74,
-    "hp": 1226,
-    "lck": 36,
-    "oil": 4,
-    "rld": 51
+    "base": {
+      "aa": 39,
+      "acc": 22,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 4,
+      "fp": 74,
+      "hp": 1226,
+      "lck": 36,
+      "oil": 4,
+      "rld": 51
+    },
+    "lvl100": {
+      "aa": 183,
+      "acc": 56,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 11,
+      "fp": 350,
+      "hp": 6339,
+      "lck": 36,
+      "oil": 13,
+      "rld": 121
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 211,
+      "acc": 69,
+      "arm": "heavy",
+      "asw": 0,
+      "avi": 0,
+      "eva": 28,
+      "fp": 391,
+      "hp": 7385,
+      "lck": 36,
+      "oil": 13,
+      "rld": 139
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "stanly",
   "stats": {
-    "aa": 32,
-    "acc": 72,
-    "arm": "light",
-    "asw": 51,
-    "avi": 0,
-    "eva": 59,
-    "fp": 16,
-    "hp": 338,
-    "lck": 90,
-    "oil": 2,
-    "rld": 75
+    "base": {
+      "aa": 32,
+      "acc": 72,
+      "arm": "light",
+      "asw": 51,
+      "avi": 0,
+      "eva": 59,
+      "fp": 16,
+      "hp": 338,
+      "lck": 90,
+      "oil": 2,
+      "rld": 75
+    },
+    "lvl100": {
+      "aa": 150,
+      "acc": 188,
+      "arm": "light",
+      "asw": 186,
+      "avi": 0,
+      "eva": 154,
+      "fp": 74,
+      "hp": 1746,
+      "lck": 90,
+      "oil": 8,
+      "rld": 177
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 172,
+      "acc": 197,
+      "arm": "light",
+      "asw": 206,
+      "avi": 0,
+      "eva": 160,
+      "fp": 85,
+      "hp": 2095,
+      "lck": 90,
+      "oil": 8,
+      "rld": 204
+    },
+    "lvl120retro": {}
   }
 }

@@ -8,16 +8,70 @@
   "nationality": "royal-navy",
   "slug": "foxhound",
   "stats": {
-    "aa": 28,
-    "acc": 66,
-    "arm": "light",
-    "asw": 53,
-    "avi": 0,
-    "eva": 78,
-    "fp": 13,
-    "hp": 221,
-    "lck": 68,
-    "oil": 1,
-    "rld": 70
+    "base": {
+      "aa": 28,
+      "acc": 66,
+      "arm": "light",
+      "asw": 53,
+      "avi": 0,
+      "eva": 78,
+      "fp": 13,
+      "hp": 221,
+      "lck": 68,
+      "oil": 1,
+      "rld": 70
+    },
+    "lvl100": {
+      "aa": 130,
+      "acc": 171,
+      "arm": "light",
+      "asw": 193,
+      "avi": 0,
+      "eva": 203,
+      "fp": 62,
+      "hp": 1144,
+      "lck": 68,
+      "oil": 7,
+      "rld": 167
+    },
+    "lvl100retro": {
+      "aa": 145,
+      "acc": 171,
+      "arm": "light",
+      "asw": 193,
+      "avi": 0,
+      "eva": 243,
+      "fp": 97,
+      "hp": 1309,
+      "lck": 68,
+      "oil": 7,
+      "rld": 167
+    },
+    "lvl120": {
+      "aa": 150,
+      "acc": 180,
+      "arm": "light",
+      "asw": 213,
+      "avi": 0,
+      "eva": 209,
+      "fp": 71,
+      "hp": 1373,
+      "lck": 68,
+      "oil": 7,
+      "rld": 192
+    },
+    "lvl120retro": {
+      "aa": 165,
+      "acc": 180,
+      "arm": "light",
+      "asw": 213,
+      "avi": 0,
+      "eva": 249,
+      "fp": 106,
+      "hp": 1538,
+      "lck": 68,
+      "oil": 7,
+      "rld": 192
+    }
   }
 }

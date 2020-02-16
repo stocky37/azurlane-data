@@ -1,5 +1,4 @@
-from azurlane.items import ShipLoader, ConstructionLoader
-from azurlane.items.ship import StatsLoader
+from azurlane.items import ShipLoader, ConstructionLoader, AllStatsLoader, StatsLoader
 from azurlane.scrapers.util import adjacent_cell_text_selector
 
 
@@ -13,12 +12,7 @@ class ShipScraper:
         loader.add_xpath(
             "classification", adjacent_cell_text_selector("Classification")
         )
-        loader.add_value(
-            "stats",
-            self.parse_stats(
-                response.xpath("//div[@class='nomobile']//div[@title='Base Stats']")
-            ),
-        )
+        loader.add_value("stats", self.parse_all_stats(response))
         loader.add_value("construction", self.parse_construction(response))
         return loader.load_item()
 
@@ -26,6 +20,30 @@ class ShipScraper:
     def parse_construction(response):
         loader = ConstructionLoader(response=response)
         loader.add_xpath("time", adjacent_cell_text_selector("Construction Time"))
+        return loader.load_item()
+
+    def parse_all_stats(self, response):
+        def stats_selector(type):
+            return "//div[@class='nomobile']//div[@title='{0}']".format(type)
+
+        loader = AllStatsLoader(response=response)
+        loader.add_value(
+            "base", self.parse_stats(response.xpath(stats_selector("Base Stats")))
+        )
+        loader.add_value(
+            "lvl100", self.parse_stats(response.xpath(stats_selector("Level 100")))
+        )
+        loader.add_value(
+            "lvl120", self.parse_stats(response.xpath(stats_selector("Level 120")))
+        )
+        loader.add_value(
+            "lvl100retro",
+            self.parse_stats(response.xpath(stats_selector("Level 100 Retrofit"))),
+        )
+        loader.add_value(
+            "lvl120retro",
+            self.parse_stats(response.xpath(stats_selector("Level 120 Retrofit"))),
+        )
         return loader.load_item()
 
     @staticmethod

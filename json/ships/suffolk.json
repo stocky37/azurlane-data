@@ -8,16 +8,70 @@
   "nationality": "royal-navy",
   "slug": "suffolk",
   "stats": {
-    "aa": 39,
-    "acc": 38,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 8,
-    "fp": 40,
-    "hp": 595,
-    "lck": 72,
-    "oil": 3,
-    "rld": 59
+    "base": {
+      "aa": 39,
+      "acc": 38,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 8,
+      "fp": 40,
+      "hp": 595,
+      "lck": 72,
+      "oil": 3,
+      "rld": 59
+    },
+    "lvl100": {
+      "aa": 181,
+      "acc": 99,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 21,
+      "fp": 190,
+      "hp": 3074,
+      "lck": 72,
+      "oil": 10,
+      "rld": 139
+    },
+    "lvl100retro": {
+      "aa": 181,
+      "acc": 99,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 21,
+      "fp": 245,
+      "hp": 3354,
+      "lck": 72,
+      "oil": 10,
+      "rld": 144
+    },
+    "lvl120": {
+      "aa": 208,
+      "acc": 116,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 65,
+      "fp": 218,
+      "hp": 3474,
+      "lck": 72,
+      "oil": 10,
+      "rld": 160
+    },
+    "lvl120retro": {
+      "aa": 208,
+      "acc": 116,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 65,
+      "fp": 273,
+      "hp": 3754,
+      "lck": 72,
+      "oil": 10,
+      "rld": 165
+    }
   }
 }

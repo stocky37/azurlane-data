@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "agano",
   "stats": {
-    "aa": 61,
-    "acc": 51,
-    "arm": "light",
-    "asw": 19,
-    "avi": 0,
-    "eva": 29,
-    "fp": 27,
-    "hp": 540,
-    "lck": 21,
-    "oil": 3,
-    "rld": 62
+    "base": {
+      "aa": 61,
+      "acc": 51,
+      "arm": "light",
+      "asw": 19,
+      "avi": 0,
+      "eva": 29,
+      "fp": 27,
+      "hp": 540,
+      "lck": 21,
+      "oil": 3,
+      "rld": 62
+    },
+    "lvl100": {
+      "aa": 285,
+      "acc": 132,
+      "arm": "light",
+      "asw": 69,
+      "avi": 0,
+      "eva": 76,
+      "fp": 129,
+      "hp": 2791,
+      "lck": 21,
+      "oil": 10,
+      "rld": 146
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 323,
+      "acc": 148,
+      "arm": "light",
+      "asw": 79,
+      "avi": 0,
+      "eva": 104,
+      "fp": 148,
+      "hp": 3159,
+      "lck": 21,
+      "oil": 10,
+      "rld": 168
+    },
+    "lvl120retro": {}
   }
 }

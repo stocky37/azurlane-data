@@ -8,16 +8,46 @@
   "nationality": "sakura-empire",
   "slug": "takao",
   "stats": {
-    "aa": 33,
-    "acc": 46,
-    "arm": "medium",
-    "asw": 0,
-    "avi": 0,
-    "eva": 13,
-    "fp": 50,
-    "hp": 738,
-    "lck": 65,
-    "oil": 4,
-    "rld": 64
+    "base": {
+      "aa": 33,
+      "acc": 46,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 13,
+      "fp": 50,
+      "hp": 738,
+      "lck": 65,
+      "oil": 4,
+      "rld": 64
+    },
+    "lvl100": {
+      "aa": 155,
+      "acc": 119,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 33,
+      "fp": 236,
+      "hp": 3818,
+      "lck": 65,
+      "oil": 12,
+      "rld": 152
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 178,
+      "acc": 134,
+      "arm": "medium",
+      "asw": 0,
+      "avi": 0,
+      "eva": 79,
+      "fp": 270,
+      "hp": 4295,
+      "lck": 65,
+      "oil": 12,
+      "rld": 175
+    },
+    "lvl120retro": {}
   }
 }

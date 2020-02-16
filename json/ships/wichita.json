@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "wichita",
   "stats": {
-    "aa": 41,
-    "acc": 43,
-    "arm": "light",
-    "asw": 0,
-    "avi": 0,
-    "eva": 9,
-    "fp": 49,
-    "hp": 638,
-    "lck": 70,
-    "oil": 3,
-    "rld": 66
+    "base": {
+      "aa": 41,
+      "acc": 43,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 9,
+      "fp": 49,
+      "hp": 638,
+      "lck": 70,
+      "oil": 3,
+      "rld": 66
+    },
+    "lvl100": {
+      "aa": 193,
+      "acc": 112,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 23,
+      "fp": 233,
+      "hp": 3297,
+      "lck": 70,
+      "oil": 11,
+      "rld": 156
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 222,
+      "acc": 131,
+      "arm": "light",
+      "asw": 0,
+      "avi": 0,
+      "eva": 50,
+      "fp": 267,
+      "hp": 3709,
+      "lck": 70,
+      "oil": 11,
+      "rld": 179
+    },
+    "lvl120retro": {}
   }
 }

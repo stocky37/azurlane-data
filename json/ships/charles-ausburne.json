@@ -8,16 +8,46 @@
   "nationality": "eagle-union",
   "slug": "charles-ausburne",
   "stats": {
-    "aa": 33,
-    "acc": 76,
-    "arm": "light",
-    "asw": 52,
-    "avi": 0,
-    "eva": 59,
-    "fp": 16,
-    "hp": 343,
-    "lck": 82,
-    "oil": 2,
-    "rld": 79
+    "base": {
+      "aa": 33,
+      "acc": 76,
+      "arm": "light",
+      "asw": 52,
+      "avi": 0,
+      "eva": 59,
+      "fp": 16,
+      "hp": 343,
+      "lck": 82,
+      "oil": 2,
+      "rld": 79
+    },
+    "lvl100": {
+      "aa": 154,
+      "acc": 197,
+      "arm": "light",
+      "asw": 192,
+      "avi": 0,
+      "eva": 154,
+      "fp": 76,
+      "hp": 1775,
+      "lck": 82,
+      "oil": 9,
+      "rld": 187
+    },
+    "lvl100retro": {},
+    "lvl120": {
+      "aa": 178,
+      "acc": 207,
+      "arm": "light",
+      "asw": 212,
+      "avi": 0,
+      "eva": 158,
+      "fp": 87,
+      "hp": 2112,
+      "lck": 82,
+      "oil": 9,
+      "rld": 215
+    },
+    "lvl120retro": {}
   }
 }
