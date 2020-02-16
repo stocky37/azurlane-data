@@ -1,4 +1,5 @@
 {
+  "artist": "\u739b\u96c5G",
   "classification": "light-cruiser",
   "construction": {
     "time": "Drop Only"
@@ -49,5 +50,6 @@
       "rld": 182
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Riko Kohara"
 }

@@ -1,4 +1,5 @@
 {
+  "artist": "\u591c\u30ce\u307f\u3064\u304d",
   "classification": "destroyer",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -73,5 +74,6 @@
       "oil": 8,
       "rld": 193
     }
-  }
+  },
+  "voice_actress": "Play  Akiko Hasegawa"
 }

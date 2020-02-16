@@ -1,4 +1,5 @@
 {
+  "artist": "\u56e2\u5b50",
   "classification": "destroyer",
   "construction": {
     "time": "Drop Only"
@@ -49,5 +50,6 @@
       "rld": 201
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Mariya Ise"
 }

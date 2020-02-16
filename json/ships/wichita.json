@@ -1,4 +1,5 @@
 {
+  "artist": "\u68a6\u54b2\u67ab",
   "classification": "heavy-cruiser",
   "construction": {
     "time": "02:30:00"
@@ -49,5 +50,6 @@
       "rld": 179
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Nozomi Yamamoto"
 }

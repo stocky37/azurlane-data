@@ -1,4 +1,5 @@
 {
+  "artist": "Byulzzi",
   "classification": "destroyer",
   "construction": {
     "time": "00:28:00"
@@ -49,5 +50,6 @@
       "rld": 201
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Mariko Takeda"
 }

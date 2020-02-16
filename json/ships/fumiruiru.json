@@ -1,4 +1,5 @@
 {
+  "artist": "\u7518\u9732\u6a39",
   "classification": "aircraft-carrier",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 95
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Yuuko Gibu"
 }

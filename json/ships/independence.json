@@ -1,4 +1,5 @@
 {
+  "artist": "ATDAN",
   "classification": "light-aircraft-carrier",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 182
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Haruka Yamazaki"
 }

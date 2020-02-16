@@ -1,4 +1,5 @@
 {
+  "artist": "Rain Lan",
   "classification": "battleship-aviation-battleship",
   "construction": {
     "time": "Drop Only"
@@ -73,5 +74,6 @@
       "oil": 13,
       "rld": 134
     }
-  }
+  },
+  "voice_actress": "Ami Koshimizu"
 }

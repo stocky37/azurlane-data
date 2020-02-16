@@ -1,4 +1,5 @@
 {
+  "artist": "\u51ea\u767d\u307f\u3068",
   "classification": "destroyer",
   "construction": {
     "time": "00:25:00"
@@ -49,5 +50,6 @@
       "rld": 217
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Yuka Iguchi"
 }

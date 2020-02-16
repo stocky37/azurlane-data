@@ -1,4 +1,5 @@
 {
+  "artist": "Alisa",
   "classification": "destroyer",
   "construction": {
     "time": "00:23:00"
@@ -49,5 +50,6 @@
       "rld": 213
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  M\u30fbA\u30fbO"
 }

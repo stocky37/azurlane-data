@@ -1,4 +1,5 @@
 {
+  "artist": "Criin",
   "classification": "battlecruiser",
   "construction": {
     "time": "04:05:00"
@@ -49,5 +50,6 @@
       "rld": 160
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Eri Kitamura"
 }

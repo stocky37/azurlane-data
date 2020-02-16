@@ -1,4 +1,5 @@
 {
+  "artist": "PHI",
   "classification": "destroyer",
   "construction": {
     "time": "Cannot be constructed"
@@ -49,5 +50,6 @@
       "rld": 210
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Azusa Iwakura"
 }

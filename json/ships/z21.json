@@ -1,4 +1,5 @@
 {
+  "artist": "\u6a31\u5ead\u5149",
   "classification": "destroyer",
   "construction": {
     "time": "Drop Only"
@@ -49,5 +50,6 @@
       "rld": 196
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Rina Hidaka"
 }

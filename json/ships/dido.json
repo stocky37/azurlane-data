@@ -1,4 +1,5 @@
 {
+  "artist": "Kincora",
   "classification": "light-cruiser",
   "construction": {
     "time": "00:55:00"
@@ -49,5 +50,6 @@
       "rld": 194
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Ruriko Aoki"
 }

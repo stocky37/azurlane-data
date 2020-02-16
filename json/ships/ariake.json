@@ -1,4 +1,5 @@
 {
+  "artist": "\u6d45\u8471\u3086\u306a",
   "classification": "destroyer",
   "construction": {
     "time": "00:25:00"
@@ -49,5 +50,6 @@
       "rld": 196
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Karin Isobe"
 }

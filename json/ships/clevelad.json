@@ -1,4 +1,5 @@
 {
+  "artist": "Alisa",
   "classification": "light-cruiser",
   "construction": {
     "time": "01:20:00"
@@ -49,5 +50,6 @@
       "rld": 181
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Saya Horigome"
 }

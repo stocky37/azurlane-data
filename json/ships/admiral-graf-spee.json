@@ -1,4 +1,5 @@
 {
+  "artist": "RAN",
   "classification": "heavy-cruiser",
   "construction": {
     "time": "01:55:00"
@@ -49,5 +50,6 @@
       "rld": 174
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Mai Fuchigami"
 }

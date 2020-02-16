@@ -1,4 +1,5 @@
 {
+  "artist": "ALLENES",
   "classification": "destroyer",
   "construction": {
     "time": "00:19:00"
@@ -73,5 +74,6 @@
       "oil": 8,
       "rld": 193
     }
-  }
+  },
+  "voice_actress": "Play  Mami Kamikura"
 }

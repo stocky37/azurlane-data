@@ -1,4 +1,5 @@
 {
+  "artist": "Saru(\u7334\u5988)",
   "classification": "destroyer",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 196
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Narumi Shinohara"
 }

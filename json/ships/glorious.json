@@ -1,4 +1,5 @@
 {
+  "artist": "Kincora",
   "classification": "aircraft-carrier",
   "construction": {
     "time": "03:50:00"
@@ -49,5 +50,6 @@
       "rld": 109
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Noriko Shitaya"
 }

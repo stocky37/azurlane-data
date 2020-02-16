@@ -1,4 +1,5 @@
 {
+  "artist": "Sky-FreeDom",
   "classification": "light-aircraft-carrier",
   "construction": {
     "time": "Drop Only"
@@ -49,5 +50,6 @@
       "rld": 176
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Chiaki Takahashi"
 }

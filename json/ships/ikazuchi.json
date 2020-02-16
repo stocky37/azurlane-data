@@ -1,4 +1,5 @@
 {
+  "artist": "\u5927\u6708\u7d05\u8449",
   "classification": "destroyer",
   "construction": {
     "time": "Drop Only"
@@ -49,5 +50,6 @@
       "rld": 210
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Kazusa Aranami"
 }

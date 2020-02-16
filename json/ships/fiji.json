@@ -1,4 +1,5 @@
 {
+  "artist": "\u3086\u3089\u3093",
   "classification": "light-cruiser",
   "construction": {
     "time": "Drop Only"
@@ -49,5 +50,6 @@
       "rld": 182
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Sawako Hata"
 }

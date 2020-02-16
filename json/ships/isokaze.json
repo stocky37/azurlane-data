@@ -1,4 +1,5 @@
 {
+  "artist": "AO\u51f9\u51f9\u51f9",
   "classification": "destroyer",
   "construction": {
     "time": "00:27:00"
@@ -49,5 +50,6 @@
       "rld": 201
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Anju Inami"
 }

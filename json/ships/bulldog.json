@@ -1,4 +1,5 @@
 {
+  "artist": "\u6797\u5927B",
   "classification": "destroyer",
   "construction": {
     "time": "00:20:00"
@@ -49,5 +50,6 @@
       "rld": 190
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Eri Suzuki"
 }

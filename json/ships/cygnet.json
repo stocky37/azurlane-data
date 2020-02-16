@@ -1,4 +1,5 @@
 {
+  "artist": "\u548c\u8336",
   "classification": "destroyer",
   "construction": {
     "time": "00:21:00"
@@ -73,5 +74,6 @@
       "oil": 7,
       "rld": 190
     }
-  }
+  },
+  "voice_actress": "Risa Taneda"
 }

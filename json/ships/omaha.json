@@ -1,4 +1,5 @@
 {
+  "artist": "\u9a6c\u7532",
   "classification": "light-cruiser",
   "construction": {
     "time": "01:05:00"
@@ -49,5 +50,6 @@
       "rld": 182
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Juri Kimura"
 }

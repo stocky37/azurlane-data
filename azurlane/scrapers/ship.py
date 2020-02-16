@@ -12,6 +12,10 @@ class ShipScraper:
         loader.add_xpath(
             "classification", adjacent_cell_text_selector("Classification")
         )
+        loader.add_xpath("artist", adjacent_cell_text_selector("Artist", "td"))
+        loader.add_xpath(
+            "voice_actress", adjacent_cell_text_selector("Voice Actress", "td")
+        )
         loader.add_value("stats", self.parse_all_stats(response))
         loader.add_value("construction", self.parse_construction(response))
         return loader.load_item()

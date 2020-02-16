@@ -1,4 +1,5 @@
 {
+  "artist": "\u304b\u306b\u30d3\u30fc\u30e0",
   "classification": "submarine",
   "construction": {
     "time": "00:24:00"
@@ -49,5 +50,6 @@
       "rld": 95
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Atsumi Tanezaki"
 }

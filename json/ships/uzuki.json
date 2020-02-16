@@ -1,4 +1,5 @@
 {
+  "artist": "\u6708\u89c1",
   "classification": "destroyer",
   "construction": {
     "time": "00:21:00"
@@ -49,5 +50,6 @@
       "rld": 196
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Mako"
 }

@@ -1,4 +1,5 @@
 {
+  "artist": "AO\u51f9\u51f9\u51f9",
   "classification": "destroyer",
   "construction": {
     "time": "00:27:00"
@@ -73,5 +74,6 @@
       "oil": 8,
       "rld": 201
     }
-  }
+  },
+  "voice_actress": "Play  Natsumi Hioka"
 }

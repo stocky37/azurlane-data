@@ -1,4 +1,5 @@
 {
+  "artist": "\u9a6c\u7532",
   "classification": "light-cruiser",
   "construction": {
     "time": "01:20:00"
@@ -49,5 +50,6 @@
       "rld": 187
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Ayaka Suwa"
 }

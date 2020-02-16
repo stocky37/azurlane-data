@@ -1,4 +1,5 @@
 {
+  "artist": "\u5657\u547c_\u517d\u5316\u9650\u5b9a",
   "classification": "light-aircraft-carrier",
   "construction": {
     "time": "02:20:00"
@@ -49,5 +50,6 @@
       "rld": 185
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Rui Tanabe"
 }

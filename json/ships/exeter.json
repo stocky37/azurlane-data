@@ -1,4 +1,5 @@
 {
+  "artist": "Mkiiiiii33",
   "classification": "heavy-cruiser",
   "construction": {
     "time": "01:45:00"
@@ -73,5 +74,6 @@
       "oil": 11,
       "rld": 191
     }
-  }
+  },
+  "voice_actress": "Ai Kakuma"
 }

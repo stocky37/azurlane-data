@@ -1,4 +1,5 @@
 {
+  "artist": "alic\u55b5",
   "classification": "destroyer",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 196
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Hikaru Aono"
 }

@@ -1,4 +1,5 @@
 {
+  "artist": "\u308a\u3044\u3061\u3085",
   "classification": "destroyer",
   "construction": {
     "time": "00:26:00"
@@ -49,5 +50,6 @@
       "rld": 196
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Mai Goto"
 }

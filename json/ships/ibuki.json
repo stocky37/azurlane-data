@@ -1,4 +1,5 @@
 {
+  "artist": "\u739b\u96c5G",
   "classification": "heavy-cruiser",
   "construction": {
     "time": "Research"
@@ -49,5 +50,6 @@
       "rld": 187
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Misato Fukuen"
 }

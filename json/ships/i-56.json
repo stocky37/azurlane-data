@@ -1,4 +1,5 @@
 {
+  "artist": "\u54c8\u8def\u5361",
   "classification": "submarine",
   "construction": {
     "time": "00:30:00"
@@ -49,5 +50,6 @@
       "rld": 62
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Naomi Mukaiyama"
 }

@@ -1,4 +1,5 @@
 {
+  "artist": "\u3064\u306a\u3053",
   "classification": "aircraft-carrier",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 112
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Rina Satou"
 }

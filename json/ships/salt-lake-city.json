@@ -1,4 +1,5 @@
 {
+  "artist": "\u7d2b\u745f",
   "classification": "heavy-cruiser",
   "construction": {
     "time": "Drop Only"
@@ -49,5 +50,6 @@
       "rld": 160
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Manaka Iwami"
 }

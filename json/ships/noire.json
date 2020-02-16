@@ -1,4 +1,5 @@
 {
+  "artist": "\u3064\u306a\u3053",
   "classification": "heavy-cruiser",
   "construction": {
     "time": "02:38:00"
@@ -49,5 +50,6 @@
       "rld": 165
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Asami Imai"
 }

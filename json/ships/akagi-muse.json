@@ -1,4 +1,5 @@
 {
+  "artist": "",
   "classification": "aircraft-carrier",
   "construction": {
     "time": "04:40:00"
@@ -49,5 +50,6 @@
       "rld": 131
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Mai Nakahara"
 }

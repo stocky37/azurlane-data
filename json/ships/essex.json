@@ -1,4 +1,5 @@
 {
+  "artist": "\u5fb7\u610f\u5fd7\u7684\u79d1\u5b66",
   "classification": "aircraft-carrier",
   "construction": {
     "time": "04:25:00"
@@ -49,5 +50,6 @@
       "rld": 131
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Kaori Mizuhashi"
 }

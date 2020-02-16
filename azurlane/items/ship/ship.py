@@ -15,6 +15,8 @@ class Ship(Item):
     slug = Field()
     nationality = Field()
     classification = Field()
+    artist = Field()
+    voice_actress = Field()
     construction = Field(serializer=Construction)
     stats = Field(serializer=AllStats)
 

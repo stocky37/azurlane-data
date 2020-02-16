@@ -1,4 +1,5 @@
 {
+  "artist": "\u68a6\u54b2\u67ab",
   "classification": "light-aircraft-carrier",
   "construction": {
     "time": "02:10:00"
@@ -73,5 +74,6 @@
       "oil": 9,
       "rld": 193
     }
-  }
+  },
+  "voice_actress": "Play  Yuuna Inamura"
 }

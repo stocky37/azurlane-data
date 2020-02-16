@@ -1,4 +1,5 @@
 {
+  "artist": "\u68a6\u54b2\u67ab",
   "classification": "light-cruiser",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 185
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Yui Horie"
 }

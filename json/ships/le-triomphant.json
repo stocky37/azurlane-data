@@ -1,4 +1,5 @@
 {
+  "artist": "\u3086\u30fc\u3052\u3093",
   "classification": "destroyer",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 207
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Sora Amamiya"
 }

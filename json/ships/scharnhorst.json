@@ -1,4 +1,5 @@
 {
+  "artist": "NS",
   "classification": "battlecruiser",
   "construction": {
     "time": "Drop Only"
@@ -49,5 +50,6 @@
       "rld": 157
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Ayaka Fukuhara"
 }

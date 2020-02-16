@@ -1,4 +1,5 @@
 {
+  "artist": "Saru(\u7334\u5988)",
   "classification": "aircraft-carrier",
   "construction": {
     "time": "03:40:00"
@@ -73,5 +74,6 @@
       "oil": 12,
       "rld": 130
     }
-  }
+  },
+  "voice_actress": "Sumire Uesaka"
 }

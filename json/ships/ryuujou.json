@@ -1,4 +1,5 @@
 {
+  "artist": "\u9ed1\u732b",
   "classification": "light-aircraft-carrier",
   "construction": {
     "time": "02:22:00"
@@ -49,5 +50,6 @@
       "rld": 179
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play Play Aya Suzaki"
 }

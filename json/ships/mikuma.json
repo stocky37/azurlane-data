@@ -1,4 +1,5 @@
 {
+  "artist": "realmbw",
   "classification": "light-cruiser",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 189
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Anna Yamaki"
 }

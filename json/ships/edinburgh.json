@@ -1,4 +1,5 @@
 {
+  "artist": "\u6df1\u84dd\u7684\u6770\u514b",
   "classification": "light-cruiser",
   "construction": {
     "time": "01:25:00"
@@ -49,5 +50,6 @@
       "rld": 176
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Yuuko Gotou"
 }

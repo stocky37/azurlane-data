@@ -1,4 +1,5 @@
 {
+  "artist": "AO\u51f9\u51f9\u51f9",
   "classification": "destroyer",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 204
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Miyuki Kobori"
 }

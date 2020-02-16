@@ -1,4 +1,5 @@
 {
+  "artist": "",
   "classification": "destroyer",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 208
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": ""
 }

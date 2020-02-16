@@ -1,4 +1,5 @@
 {
+  "artist": "Alisa",
   "classification": "battleship",
   "construction": {
     "time": "Research"
@@ -49,5 +50,6 @@
       "rld": 146
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Reina Ueda"
 }

@@ -1,12 +1,55 @@
 {
-  "construction": {},
+  "artist": "\u5927\u6708\u7d05\u8449",
+  "classification": "destroyer",
+  "construction": {
+    "time": "Cannot Be Constructed"
+  },
+  "id": "160",
   "name": "Hibiki",
+  "nationality": "sakura-empire",
   "slug": "hibiki",
   "stats": {
-    "base": {},
-    "lvl100": {},
+    "base": {
+      "aa": 29,
+      "acc": 65,
+      "arm": "light",
+      "asw": 48,
+      "avi": 0,
+      "eva": 72,
+      "fp": 12,
+      "hp": 290,
+      "lck": 88,
+      "oil": 2,
+      "rld": 79
+    },
+    "lvl100": {
+      "aa": 134,
+      "acc": 170,
+      "arm": "light",
+      "asw": 175,
+      "avi": 0,
+      "eva": 188,
+      "fp": 54,
+      "hp": 1498,
+      "lck": 88,
+      "oil": 9,
+      "rld": 187
+    },
     "lvl100retro": {},
-    "lvl120": {},
+    "lvl120": {
+      "aa": 154,
+      "acc": 178,
+      "arm": "light",
+      "asw": 195,
+      "avi": 0,
+      "eva": 194,
+      "fp": 62,
+      "hp": 1798,
+      "lck": 88,
+      "oil": 9,
+      "rld": 215
+    },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Maaya Uchida"
 }

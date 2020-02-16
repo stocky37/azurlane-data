@@ -1,4 +1,5 @@
 {
+  "artist": "SA",
   "classification": "battlecruiser",
   "construction": {
     "time": "04:10:00"
@@ -49,5 +50,6 @@
       "rld": 156
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Ai Kayano"
 }

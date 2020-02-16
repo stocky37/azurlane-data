@@ -1,4 +1,5 @@
 {
+  "artist": "\u5e7b\u8c61\u9ed1\u5154",
   "classification": "light-cruiser",
   "construction": {
     "time": "01:25:00"
@@ -49,5 +50,6 @@
       "rld": 193
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Rie Takahashi"
 }

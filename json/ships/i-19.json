@@ -1,4 +1,5 @@
 {
+  "artist": "\u7c73\u767d\u7c95",
   "classification": "submarine",
   "construction": {
     "time": "00:30:00"
@@ -49,5 +50,6 @@
       "rld": 110
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Yui Ogura"
 }

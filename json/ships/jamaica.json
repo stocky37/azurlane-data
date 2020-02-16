@@ -1,4 +1,5 @@
 {
+  "artist": "\u5927\u6708\u7d05\u8449",
   "classification": "light-cruiser",
   "construction": {
     "time": "01:22:00"
@@ -49,5 +50,6 @@
       "rld": 182
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Yuuko Sanpei"
 }

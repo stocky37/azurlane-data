@@ -1,4 +1,5 @@
 {
+  "artist": "realmbw",
   "classification": "heavy-cruiser",
   "construction": {
     "time": "02:00:00"
@@ -49,5 +50,6 @@
       "rld": 182
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Ayane Sakura"
 }

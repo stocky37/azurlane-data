@@ -1,4 +1,5 @@
 {
+  "artist": "\u516b\u624d\u63d0\u7763",
   "classification": "light-cruiser",
   "construction": {
     "time": "01:10:00"
@@ -73,5 +74,6 @@
       "oil": 8,
       "rld": 180
     }
-  }
+  },
+  "voice_actress": "Play  Ryouko Ono"
 }

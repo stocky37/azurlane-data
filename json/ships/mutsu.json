@@ -1,4 +1,5 @@
 {
+  "artist": "Alisa",
   "classification": "battleship",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 145
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Tomoyo Kurosawa"
 }

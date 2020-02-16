@@ -1,4 +1,5 @@
 {
+  "artist": "\u5c0f\u539f\u30c8\u30e1\u592a",
   "classification": "destroyer",
   "construction": {
     "time": "00:35:00"
@@ -49,5 +50,6 @@
       "rld": 209
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Sayuri Hara"
 }

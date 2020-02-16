@@ -1,4 +1,5 @@
 {
+  "artist": "\u7518\u9732\u6a39",
   "classification": "destroyer",
   "construction": {
     "time": "00:23:00"
@@ -49,5 +50,6 @@
       "rld": 199
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Inori Minase"
 }

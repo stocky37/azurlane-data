@@ -1,4 +1,5 @@
 {
+  "artist": "Lpip",
   "classification": "light-cruiser",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -73,5 +74,6 @@
       "oil": 9,
       "rld": 194
     }
-  }
+  },
+  "voice_actress": "Play  Saori Gotou"
 }

@@ -1,4 +1,5 @@
 {
+  "artist": "\u3082\u306d\u3066\u3043",
   "classification": "light-cruiser",
   "construction": {
     "time": "01:07:00"
@@ -73,5 +74,6 @@
       "oil": 9,
       "rld": 190
     }
-  }
+  },
+  "voice_actress": "Fujisawa Reika"
 }

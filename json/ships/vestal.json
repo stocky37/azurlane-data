@@ -1,4 +1,5 @@
 {
+  "artist": "Saru(\u7334\u5988)",
   "classification": "repair-ship",
   "construction": {
     "time": "02:00:00"
@@ -49,5 +50,6 @@
       "rld": 168
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Maia"
 }

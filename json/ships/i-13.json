@@ -1,4 +1,5 @@
 {
+  "artist": "Amoeba\u539f\u866b",
   "classification": "submarine-carrier",
   "construction": {
     "time": "00:34:00"
@@ -49,5 +50,6 @@
       "rld": 109
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Kanako Yanagihara"
 }

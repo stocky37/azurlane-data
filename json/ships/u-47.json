@@ -1,4 +1,5 @@
 {
+  "artist": "\u5927\u6708\u7d05\u8449",
   "classification": "submarine",
   "construction": {
     "time": "00:11:00"
@@ -49,5 +50,6 @@
       "rld": 110
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Azumi Asakura"
 }

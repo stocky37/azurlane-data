@@ -1,4 +1,5 @@
 {
+  "artist": "Izumi Sai",
   "classification": "aircraft-carrier",
   "construction": {
     "time": "Cannot be constructed"
@@ -49,5 +50,6 @@
       "rld": 117
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Ookami Mio"
 }

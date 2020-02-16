@@ -1,4 +1,5 @@
 {
+  "artist": "",
   "classification": "submarine",
   "construction": {
     "time": "Cannot be constructed"
@@ -49,5 +50,6 @@
       "rld": 93
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Yurika Kubo"
 }

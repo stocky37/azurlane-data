@@ -1,4 +1,5 @@
 {
+  "artist": "\u5927\u69cd\u8466\u4eba",
   "classification": "light-cruiser",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -73,5 +74,6 @@
       "oil": 10,
       "rld": 178
     }
-  }
+  },
+  "voice_actress": "Play  Reina Ueda"
 }

@@ -1,4 +1,5 @@
 {
+  "artist": "Criin",
   "classification": "battlecruiser",
   "construction": {
     "time": "Cannot Be Constructed"
@@ -49,5 +50,6 @@
       "rld": 159
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Chiwa Saitou"
 }

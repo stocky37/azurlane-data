@@ -1,4 +1,5 @@
 {
+  "artist": "Criin",
   "classification": "battleship",
   "construction": {
     "time": "03:30:00"
@@ -49,5 +50,6 @@
       "rld": 163
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Sayaka Ohara"
 }

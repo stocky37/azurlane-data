@@ -1,4 +1,5 @@
 {
+  "artist": "\u9ebb\u9171",
   "classification": "destroyer",
   "construction": {
     "time": "00:25:00"
@@ -49,5 +50,6 @@
       "rld": 196
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Ayano Niina"
 }

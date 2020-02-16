@@ -9,7 +9,9 @@ class JsonPipeline:
             item.dir, item["slug"]
         )
         with open(filename, "w", encoding="utf-8") as f:
-            json.dump(self.nested_dict(item), f, indent=2, sort_keys=True)
+            json.dump(
+                self.nested_dict(item), f, indent=2, sort_keys=True, ensure_ascii=False
+            )
             f.write("\n")
         return item
 

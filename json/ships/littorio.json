@@ -1,4 +1,5 @@
 {
+  "artist": "\u80a1\u95f4\u5c11\u5973",
   "classification": "battleship",
   "construction": {
     "time": "05:15:00"
@@ -49,5 +50,6 @@
       "rld": 154
     },
     "lvl120retro": {}
-  }
+  },
+  "voice_actress": "Play  Shizuka Itou"
 }
