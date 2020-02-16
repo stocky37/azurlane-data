@@ -6,5 +6,18 @@
   "id": "091",
   "name": "Foxhound",
   "nationality": "royal-navy",
-  "slug": "foxhound"
+  "slug": "foxhound",
+  "stats": {
+    "aa": 28,
+    "acc": 66,
+    "arm": "light",
+    "asw": 53,
+    "avi": 0,
+    "eva": 78,
+    "fp": 13,
+    "hp": 221,
+    "lck": 68,
+    "oil": 1,
+    "rld": 70
+  }
 }

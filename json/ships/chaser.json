@@ -6,5 +6,18 @@
   "id": "376",
   "name": "Chaser",
   "nationality": "royal-navy",
-  "slug": "chaser"
+  "slug": "chaser",
+  "stats": {
+    "aa": 48,
+    "acc": 28,
+    "arm": "medium",
+    "asw": 35,
+    "avi": 56,
+    "eva": 15,
+    "fp": 0,
+    "hp": 778,
+    "lck": 82,
+    "oil": 3,
+    "rld": 68
+  }
 }

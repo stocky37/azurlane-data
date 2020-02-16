@@ -6,5 +6,18 @@
   "id": "232",
   "name": "Akashi",
   "nationality": "sakura-empire",
-  "slug": "akashi"
+  "slug": "akashi",
+  "stats": {
+    "aa": 30,
+    "acc": 37,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 8,
+    "hp": 682,
+    "lck": 53,
+    "oil": 3,
+    "rld": 66
+  }
 }

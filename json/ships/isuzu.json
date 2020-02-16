@@ -6,5 +6,18 @@
   "id": "183",
   "name": "Isuzu",
   "nationality": "sakura-empire",
-  "slug": "isuzu"
+  "slug": "isuzu",
+  "stats": {
+    "aa": 65,
+    "acc": 50,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 29,
+    "fp": 22,
+    "hp": 550,
+    "lck": 33,
+    "oil": 2,
+    "rld": 65
+  }
 }

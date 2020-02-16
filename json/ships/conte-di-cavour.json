@@ -6,5 +6,18 @@
   "id": "411",
   "name": "Conte di Cavour",
   "nationality": "sardegna-empire",
-  "slug": "conte-di-cavour"
+  "slug": "conte-di-cavour",
+  "stats": {
+    "aa": 33,
+    "acc": 20,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 64,
+    "hp": 1139,
+    "lck": 45,
+    "oil": 4,
+    "rld": 51
+  }
 }

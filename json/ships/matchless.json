@@ -6,5 +6,18 @@
   "id": "325",
   "name": "Matchless",
   "nationality": "royal-navy",
-  "slug": "matchless"
+  "slug": "matchless",
+  "stats": {
+    "aa": 29,
+    "acc": 66,
+    "arm": "light",
+    "asw": 55,
+    "avi": 0,
+    "eva": 78,
+    "fp": 14,
+    "hp": 271,
+    "lck": 76,
+    "oil": 2,
+    "rld": 74
+  }
 }

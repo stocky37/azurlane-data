@@ -6,5 +6,18 @@
   "id": "293",
   "name": "Kiyonami",
   "nationality": "sakura-empire",
-  "slug": "kiyonami"
+  "slug": "kiyonami",
+  "stats": {
+    "aa": 26,
+    "acc": 71,
+    "arm": "light",
+    "asw": 45,
+    "avi": 0,
+    "eva": 71,
+    "fp": 11,
+    "hp": 331,
+    "lck": 46,
+    "oil": 2,
+    "rld": 77
+  }
 }

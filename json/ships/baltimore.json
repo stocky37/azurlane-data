@@ -6,5 +6,18 @@
   "id": "050",
   "name": "Baltimore",
   "nationality": "eagle-union",
-  "slug": "baltimore"
+  "slug": "baltimore",
+  "stats": {
+    "aa": 49,
+    "acc": 45,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 50,
+    "hp": 793,
+    "lck": 56,
+    "oil": 4,
+    "rld": 68
+  }
 }

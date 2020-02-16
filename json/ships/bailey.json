@@ -6,5 +6,18 @@
   "id": "263",
   "name": "Bailey",
   "nationality": "eagle-union",
-  "slug": "bailey"
+  "slug": "bailey",
+  "stats": {
+    "aa": 32,
+    "acc": 67,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 60,
+    "fp": 16,
+    "hp": 294,
+    "lck": 70,
+    "oil": 2,
+    "rld": 75
+  }
 }

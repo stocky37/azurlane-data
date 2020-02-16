@@ -6,5 +6,18 @@
   "id": "102",
   "name": "Juno",
   "nationality": "royal-navy",
-  "slug": "juno"
+  "slug": "juno",
+  "stats": {
+    "aa": 29,
+    "acc": 71,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 78,
+    "fp": 14,
+    "hp": 248,
+    "lck": 40,
+    "oil": 2,
+    "rld": 74
+  }
 }

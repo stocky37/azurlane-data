@@ -6,5 +6,18 @@
   "id": "092",
   "name": "Fortune",
   "nationality": "royal-navy",
-  "slug": "fortune"
+  "slug": "fortune",
+  "stats": {
+    "aa": 29,
+    "acc": 66,
+    "arm": "light",
+    "asw": 54,
+    "avi": 0,
+    "eva": 78,
+    "fp": 13,
+    "hp": 226,
+    "lck": 68,
+    "oil": 2,
+    "rld": 72
+  }
 }

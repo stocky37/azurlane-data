@@ -6,5 +6,18 @@
   "id": "007",
   "name": "Gridley",
   "nationality": "eagle-union",
-  "slug": "gridley"
+  "slug": "gridley",
+  "stats": {
+    "aa": 32,
+    "acc": 71,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 60,
+    "fp": 14,
+    "hp": 292,
+    "lck": 72,
+    "oil": 2,
+    "rld": 74
+  }
 }

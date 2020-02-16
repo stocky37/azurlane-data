@@ -6,5 +6,18 @@
   "id": "Collab031",
   "name": "Kuon",
   "nationality": "utawarerumono",
-  "slug": "kuon"
+  "slug": "kuon",
+  "stats": {
+    "aa": 33,
+    "acc": 46,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 11,
+    "fp": 44,
+    "hp": 708,
+    "lck": 90,
+    "oil": 4,
+    "rld": 59
+  }
 }

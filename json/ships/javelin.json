@@ -6,5 +6,18 @@
   "id": "101",
   "name": "Javelin",
   "nationality": "royal-navy",
-  "slug": "javelin"
+  "slug": "javelin",
+  "stats": {
+    "aa": 30,
+    "acc": 71,
+    "arm": "light",
+    "asw": 53,
+    "avi": 0,
+    "eva": 78,
+    "fp": 15,
+    "hp": 255,
+    "lck": 65,
+    "oil": 2,
+    "rld": 76
+  }
 }

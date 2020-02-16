@@ -6,5 +6,18 @@
   "id": "076",
   "name": "Yorktown",
   "nationality": "eagle-union",
-  "slug": "yorktown"
+  "slug": "yorktown",
+  "stats": {
+    "aa": 60,
+    "acc": 33,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 75,
+    "eva": 13,
+    "fp": 0,
+    "hp": 975,
+    "lck": 39,
+    "oil": 4,
+    "rld": 45
+  }
 }

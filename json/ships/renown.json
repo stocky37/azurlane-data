@@ -6,5 +6,18 @@
   "id": "127",
   "name": "Renown",
   "nationality": "royal-navy",
-  "slug": "renown"
+  "slug": "renown",
+  "stats": {
+    "aa": 52,
+    "acc": 23,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 71,
+    "hp": 1022,
+    "lck": 85,
+    "oil": 4,
+    "rld": 57
+  }
 }

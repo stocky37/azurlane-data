@@ -6,5 +6,18 @@
   "id": "353",
   "name": "Jean Bart",
   "nationality": "vichya-dominion",
-  "slug": "jean-bart"
+  "slug": "jean-bart",
+  "stats": {
+    "aa": 45,
+    "acc": 23,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 80,
+    "hp": 1334,
+    "lck": 17,
+    "oil": 5,
+    "rld": 66
+  }
 }

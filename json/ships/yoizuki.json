@@ -6,5 +6,18 @@
   "id": "297",
   "name": "Yoizuki",
   "nationality": "sakura-empire",
-  "slug": "yoizuki"
+  "slug": "yoizuki",
+  "stats": {
+    "aa": 37,
+    "acc": 69,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 67,
+    "fp": 14,
+    "hp": 394,
+    "lck": 61,
+    "oil": 2,
+    "rld": 77
+  }
 }

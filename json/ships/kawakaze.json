@@ -6,5 +6,18 @@
   "id": "288",
   "name": "Kawakaze",
   "nationality": "sakura-empire",
-  "slug": "kawakaze"
+  "slug": "kawakaze",
+  "stats": {
+    "aa": 30,
+    "acc": 70,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 71,
+    "fp": 13,
+    "hp": 295,
+    "lck": 38,
+    "oil": 3,
+    "rld": 80
+  }
 }

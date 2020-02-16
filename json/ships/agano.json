@@ -6,5 +6,18 @@
   "id": "321",
   "name": "Agano",
   "nationality": "sakura-empire",
-  "slug": "agano"
+  "slug": "agano",
+  "stats": {
+    "aa": 61,
+    "acc": 51,
+    "arm": "light",
+    "asw": 19,
+    "avi": 0,
+    "eva": 29,
+    "fp": 27,
+    "hp": 540,
+    "lck": 21,
+    "oil": 3,
+    "rld": 62
+  }
 }

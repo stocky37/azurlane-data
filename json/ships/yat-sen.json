@@ -1,5 +1,23 @@
 {
-  "construction": {},
+  "classification": "light-cruiser",
+  "construction": {
+    "time": "00:40:00"
+  },
+  "id": "257",
   "name": "Yat Sen",
-  "slug": "yat-sen"
+  "nationality": "eastern-radiance",
+  "slug": "yat-sen",
+  "stats": {
+    "aa": 66,
+    "acc": 50,
+    "arm": "light",
+    "asw": 13,
+    "avi": 0,
+    "eva": 24,
+    "fp": 22,
+    "hp": 328,
+    "lck": 64,
+    "oil": 3,
+    "rld": 67
+  }
 }

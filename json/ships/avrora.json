@@ -6,5 +6,18 @@
   "id": "262",
   "name": "Avrora",
   "nationality": "north-union",
-  "slug": "avrora"
+  "slug": "avrora",
+  "stats": {
+    "aa": 30,
+    "acc": 45,
+    "arm": "medium",
+    "asw": 14,
+    "avi": 0,
+    "eva": 24,
+    "fp": 19,
+    "hp": 585,
+    "lck": 55,
+    "oil": 3,
+    "rld": 55
+  }
 }

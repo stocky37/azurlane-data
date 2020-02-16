@@ -6,5 +6,18 @@
   "id": "Plan005",
   "name": "Roon",
   "nationality": "ironblood",
-  "slug": "roon"
+  "slug": "roon",
+  "stats": {
+    "aa": 43,
+    "acc": 43,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 53,
+    "hp": 1041,
+    "lck": 0,
+    "oil": 7,
+    "rld": 63
+  }
 }

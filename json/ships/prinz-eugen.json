@@ -6,5 +6,18 @@
   "id": "244",
   "name": "Prinz Eugen",
   "nationality": "ironblood",
-  "slug": "prinz-eugen"
+  "slug": "prinz-eugen",
+  "stats": {
+    "aa": 38,
+    "acc": 44,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 43,
+    "hp": 1099,
+    "lck": 78,
+    "oil": 4,
+    "rld": 67
+  }
 }

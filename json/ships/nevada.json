@@ -6,5 +6,18 @@
   "id": "052",
   "name": "Nevada",
   "nationality": "eagle-union",
-  "slug": "nevada"
+  "slug": "nevada",
+  "stats": {
+    "aa": 38,
+    "acc": 20,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 4,
+    "fp": 72,
+    "hp": 1153,
+    "lck": 75,
+    "oil": 4,
+    "rld": 49
+  }
 }

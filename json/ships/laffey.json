@@ -6,5 +6,18 @@
   "id": "019",
   "name": "Laffey",
   "nationality": "eagle-union",
-  "slug": "laffey"
+  "slug": "laffey",
+  "stats": {
+    "aa": 33,
+    "acc": 75,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 60,
+    "fp": 19,
+    "hp": 319,
+    "lck": 18,
+    "oil": 2,
+    "rld": 81
+  }
 }

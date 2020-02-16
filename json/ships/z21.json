@@ -6,5 +6,18 @@
   "id": "266",
   "name": "Z21",
   "nationality": "ironblood",
-  "slug": "z21"
+  "slug": "z21",
+  "stats": {
+    "aa": 27,
+    "acc": 67,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 55,
+    "fp": 12,
+    "hp": 324,
+    "lck": 42,
+    "oil": 1,
+    "rld": 72
+  }
 }

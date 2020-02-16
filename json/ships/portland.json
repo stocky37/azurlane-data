@@ -6,5 +6,18 @@
   "id": "044",
   "name": "Portland",
   "nationality": "eagle-union",
-  "slug": "portland"
+  "slug": "portland",
+  "stats": {
+    "aa": 46,
+    "acc": 41,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 10,
+    "fp": 38,
+    "hp": 788,
+    "lck": 78,
+    "oil": 3,
+    "rld": 62
+  }
 }

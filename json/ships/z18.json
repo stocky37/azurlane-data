@@ -6,5 +6,18 @@
   "id": "346",
   "name": "Z18",
   "nationality": "ironblood",
-  "slug": "z18"
+  "slug": "z18",
+  "stats": {
+    "aa": 28,
+    "acc": 67,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 55,
+    "fp": 13,
+    "hp": 330,
+    "lck": 38,
+    "oil": 2,
+    "rld": 74
+  }
 }

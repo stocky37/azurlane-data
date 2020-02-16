@@ -6,5 +6,18 @@
   "id": "113",
   "name": "Gloucester",
   "nationality": "royal-navy",
-  "slug": "gloucester"
+  "slug": "gloucester",
+  "stats": {
+    "aa": 60,
+    "acc": 54,
+    "arm": "light",
+    "asw": 34,
+    "avi": 0,
+    "eva": 29,
+    "fp": 29,
+    "hp": 666,
+    "lck": 45,
+    "oil": 3,
+    "rld": 65
+  }
 }

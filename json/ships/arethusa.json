@@ -6,5 +6,18 @@
   "id": "116",
   "name": "Arethusa",
   "nationality": "royal-navy",
-  "slug": "arethusa"
+  "slug": "arethusa",
+  "stats": {
+    "aa": 61,
+    "acc": 58,
+    "arm": "light",
+    "asw": 28,
+    "avi": 0,
+    "eva": 29,
+    "fp": 29,
+    "hp": 482,
+    "lck": 69,
+    "oil": 2,
+    "rld": 69
+  }
 }

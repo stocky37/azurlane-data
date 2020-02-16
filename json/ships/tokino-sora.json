@@ -6,5 +6,18 @@
   "id": "Collab052",
   "name": "Tokino Sora",
   "nationality": "hololive",
-  "slug": "tokino-sora"
+  "slug": "tokino-sora",
+  "stats": {
+    "aa": 64,
+    "acc": 35,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 80,
+    "eva": 11,
+    "fp": 0,
+    "hp": 1066,
+    "lck": 46,
+    "oil": 4,
+    "rld": 45
+  }
 }

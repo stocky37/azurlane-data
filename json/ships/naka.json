@@ -6,5 +6,18 @@
   "id": "310",
   "name": "Naka",
   "nationality": "sakura-empire",
-  "slug": "naka"
+  "slug": "naka",
+  "stats": {
+    "aa": 54,
+    "acc": 52,
+    "arm": "light",
+    "asw": 25,
+    "avi": 0,
+    "eva": 29,
+    "fp": 28,
+    "hp": 434,
+    "lck": 53,
+    "oil": 2,
+    "rld": 68
+  }
 }

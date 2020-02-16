@@ -6,5 +6,18 @@
   "id": "406",
   "name": "Aylwin",
   "nationality": "eagle-union",
-  "slug": "aylwin"
+  "slug": "aylwin",
+  "stats": {
+    "aa": 34,
+    "acc": 63,
+    "arm": "light",
+    "asw": 48,
+    "avi": 0,
+    "eva": 60,
+    "fp": 15,
+    "hp": 271,
+    "lck": 83,
+    "oil": 2,
+    "rld": 73
+  }
 }

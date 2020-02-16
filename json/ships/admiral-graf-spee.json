@@ -6,5 +6,18 @@
   "id": "246",
   "name": "Admiral Graf Spee",
   "nationality": "ironblood",
-  "slug": "admiral-graf-spee"
+  "slug": "admiral-graf-spee",
+  "stats": {
+    "aa": 29,
+    "acc": 43,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 55,
+    "hp": 750,
+    "lck": 36,
+    "oil": 3,
+    "rld": 64
+  }
 }

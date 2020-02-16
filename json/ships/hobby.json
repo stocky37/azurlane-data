@@ -6,5 +6,18 @@
   "id": "362",
   "name": "Hobby",
   "nationality": "eagle-union",
-  "slug": "hobby"
+  "slug": "hobby",
+  "stats": {
+    "aa": 32,
+    "acc": 67,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 60,
+    "fp": 16,
+    "hp": 294,
+    "lck": 68,
+    "oil": 2,
+    "rld": 75
+  }
 }

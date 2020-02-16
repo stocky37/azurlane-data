@@ -6,5 +6,18 @@
   "id": "227",
   "name": "Hiryuu",
   "nationality": "sakura-empire",
-  "slug": "hiryuu"
+  "slug": "hiryuu",
+  "stats": {
+    "aa": 59,
+    "acc": 29,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 74,
+    "eva": 14,
+    "fp": 0,
+    "hp": 912,
+    "lck": 36,
+    "oil": 4,
+    "rld": 45
+  }
 }

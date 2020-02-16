@@ -6,5 +6,18 @@
   "id": "218",
   "name": "Hiyou",
   "nationality": "sakura-empire",
-  "slug": "hiyou"
+  "slug": "hiyou",
+  "stats": {
+    "aa": 46,
+    "acc": 25,
+    "arm": "medium",
+    "asw": 19,
+    "avi": 52,
+    "eva": 19,
+    "fp": 0,
+    "hp": 860,
+    "lck": 43,
+    "oil": 3,
+    "rld": 58
+  }
 }

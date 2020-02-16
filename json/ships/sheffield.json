@@ -6,5 +6,18 @@
   "id": "111",
   "name": "Sheffield",
   "nationality": "royal-navy",
-  "slug": "sheffield"
+  "slug": "sheffield",
+  "stats": {
+    "aa": 67,
+    "acc": 55,
+    "arm": "light",
+    "asw": 21,
+    "avi": 0,
+    "eva": 29,
+    "fp": 29,
+    "hp": 656,
+    "lck": 78,
+    "oil": 3,
+    "rld": 67
+  }
 }

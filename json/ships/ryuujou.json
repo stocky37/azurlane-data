@@ -6,5 +6,18 @@
   "id": "223",
   "name": "Ryuujou",
   "nationality": "sakura-empire",
-  "slug": "ryuujou"
+  "slug": "ryuujou",
+  "stats": {
+    "aa": 47,
+    "acc": 29,
+    "arm": "medium",
+    "asw": 17,
+    "avi": 65,
+    "eva": 24,
+    "fp": 0,
+    "hp": 707,
+    "lck": 42,
+    "oil": 3,
+    "rld": 66
+  }
 }

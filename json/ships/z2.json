@@ -6,5 +6,18 @@
   "id": "379",
   "name": "Z2",
   "nationality": "ironblood",
-  "slug": "z2"
+  "slug": "z2",
+  "stats": {
+    "aa": 29,
+    "acc": 64,
+    "arm": "light",
+    "asw": 48,
+    "avi": 0,
+    "eva": 55,
+    "fp": 16,
+    "hp": 334,
+    "lck": 44,
+    "oil": 2,
+    "rld": 76
+  }
 }

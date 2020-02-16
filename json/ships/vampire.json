@@ -6,5 +6,18 @@
   "id": "103",
   "name": "Vampire",
   "nationality": "royal-navy",
-  "slug": "vampire"
+  "slug": "vampire",
+  "stats": {
+    "aa": 29,
+    "acc": 61,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 73,
+    "fp": 13,
+    "hp": 212,
+    "lck": 42,
+    "oil": 2,
+    "rld": 72
+  }
 }

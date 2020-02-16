@@ -6,5 +6,18 @@
   "id": "093",
   "name": "Grenville",
   "nationality": "royal-navy",
-  "slug": "grenville"
+  "slug": "grenville",
+  "stats": {
+    "aa": 31,
+    "acc": 67,
+    "arm": "light",
+    "asw": 53,
+    "avi": 0,
+    "eva": 78,
+    "fp": 16,
+    "hp": 245,
+    "lck": 32,
+    "oil": 2,
+    "rld": 74
+  }
 }

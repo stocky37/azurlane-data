@@ -6,5 +6,18 @@
   "id": "186",
   "name": "Kinu",
   "nationality": "sakura-empire",
-  "slug": "kinu"
+  "slug": "kinu",
+  "stats": {
+    "aa": 57,
+    "acc": 50,
+    "arm": "light",
+    "asw": 30,
+    "avi": 0,
+    "eva": 31,
+    "fp": 27,
+    "hp": 494,
+    "lck": 52,
+    "oil": 3,
+    "rld": 66
+  }
 }

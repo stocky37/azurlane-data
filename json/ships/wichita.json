@@ -6,5 +6,18 @@
   "id": "049",
   "name": "Wichita",
   "nationality": "eagle-union",
-  "slug": "wichita"
+  "slug": "wichita",
+  "stats": {
+    "aa": 41,
+    "acc": 43,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 49,
+    "hp": 638,
+    "lck": 70,
+    "oil": 3,
+    "rld": 66
+  }
 }

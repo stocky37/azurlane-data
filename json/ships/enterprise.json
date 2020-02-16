@@ -6,5 +6,18 @@
   "id": "077",
   "name": "Enterprise",
   "nationality": "eagle-union",
-  "slug": "enterprise"
+  "slug": "enterprise",
+  "stats": {
+    "aa": 62,
+    "acc": 37,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 83,
+    "eva": 19,
+    "fp": 0,
+    "hp": 1042,
+    "lck": 93,
+    "oil": 4,
+    "rld": 49
+  }
 }

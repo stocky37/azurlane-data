@@ -6,5 +6,18 @@
   "id": "032",
   "name": "Phoenix",
   "nationality": "eagle-union",
-  "slug": "phoenix"
+  "slug": "phoenix",
+  "stats": {
+    "aa": 58,
+    "acc": 54,
+    "arm": "light",
+    "asw": 23,
+    "avi": 0,
+    "eva": 28,
+    "fp": 30,
+    "hp": 595,
+    "lck": 88,
+    "oil": 2,
+    "rld": 66
+  }
 }

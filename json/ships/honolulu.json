@@ -6,5 +6,18 @@
   "id": "304",
   "name": "Honolulu",
   "nationality": "eagle-union",
-  "slug": "honolulu"
+  "slug": "honolulu",
+  "stats": {
+    "aa": 58,
+    "acc": 54,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 28,
+    "fp": 30,
+    "hp": 595,
+    "lck": 50,
+    "oil": 2,
+    "rld": 66
+  }
 }

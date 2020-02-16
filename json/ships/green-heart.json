@@ -6,5 +6,18 @@
   "id": "Collab008",
   "name": "Green Heart",
   "nationality": "neptunia",
-  "slug": "green-heart"
+  "slug": "green-heart",
+  "stats": {
+    "aa": 56,
+    "acc": 30,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 75,
+    "eva": 14,
+    "fp": 0,
+    "hp": 972,
+    "lck": 95,
+    "oil": 4,
+    "rld": 42
+  }
 }

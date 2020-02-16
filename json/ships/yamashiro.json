@@ -6,5 +6,18 @@
   "id": "209",
   "name": "Yamashiro",
   "nationality": "sakura-empire",
-  "slug": "yamashiro"
+  "slug": "yamashiro",
+  "stats": {
+    "aa": 41,
+    "acc": 20,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 5,
+    "fp": 74,
+    "hp": 1208,
+    "lck": 14,
+    "oil": 4,
+    "rld": 51
+  }
 }

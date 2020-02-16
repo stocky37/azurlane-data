@@ -6,5 +6,18 @@
   "id": "303",
   "name": "Richmond",
   "nationality": "eagle-union",
-  "slug": "richmond"
+  "slug": "richmond",
+  "stats": {
+    "aa": 53,
+    "acc": 52,
+    "arm": "light",
+    "asw": 22,
+    "avi": 0,
+    "eva": 30,
+    "fp": 26,
+    "hp": 554,
+    "lck": 69,
+    "oil": 2,
+    "rld": 67
+  }
 }

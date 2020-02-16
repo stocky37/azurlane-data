@@ -6,5 +6,18 @@
   "id": "147",
   "name": "Formidable",
   "nationality": "royal-navy",
-  "slug": "formidable"
+  "slug": "formidable",
+  "stats": {
+    "aa": 54,
+    "acc": 31,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 79,
+    "eva": 12,
+    "fp": 0,
+    "hp": 1090,
+    "lck": 75,
+    "oil": 4,
+    "rld": 43
+  }
 }

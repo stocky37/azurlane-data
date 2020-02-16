@@ -6,5 +6,18 @@
   "id": "407",
   "name": "Bache",
   "nationality": "eagle-union",
-  "slug": "bache"
+  "slug": "bache",
+  "stats": {
+    "aa": 36,
+    "acc": 68,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 60,
+    "fp": 14,
+    "hp": 338,
+    "lck": 78,
+    "oil": 2,
+    "rld": 72
+  }
 }

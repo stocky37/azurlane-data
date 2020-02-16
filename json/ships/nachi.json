@@ -6,5 +6,18 @@
   "id": "197",
   "name": "Nachi",
   "nationality": "sakura-empire",
-  "slug": "nachi"
+  "slug": "nachi",
+  "stats": {
+    "aa": 36,
+    "acc": 43,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 14,
+    "fp": 36,
+    "hp": 918,
+    "lck": 58,
+    "oil": 3,
+    "rld": 60
+  }
 }

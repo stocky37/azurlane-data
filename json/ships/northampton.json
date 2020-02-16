@@ -6,5 +6,18 @@
   "id": "041",
   "name": "Northampton",
   "nationality": "eagle-union",
-  "slug": "northampton"
+  "slug": "northampton",
+  "stats": {
+    "aa": 38,
+    "acc": 40,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 44,
+    "hp": 573,
+    "lck": 27,
+    "oil": 3,
+    "rld": 61
+  }
 }

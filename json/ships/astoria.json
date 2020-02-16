@@ -6,5 +6,18 @@
   "id": "046",
   "name": "Astoria",
   "nationality": "eagle-union",
-  "slug": "astoria"
+  "slug": "astoria",
+  "stats": {
+    "aa": 42,
+    "acc": 40,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 40,
+    "hp": 670,
+    "lck": 15,
+    "oil": 3,
+    "rld": 59
+  }
 }

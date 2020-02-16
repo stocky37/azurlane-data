@@ -6,5 +6,18 @@
   "id": "168",
   "name": "Shiranui",
   "nationality": "sakura-empire",
-  "slug": "shiranui"
+  "slug": "shiranui",
+  "stats": {
+    "aa": 27,
+    "acc": 67,
+    "arm": "light",
+    "asw": 42,
+    "avi": 0,
+    "eva": 71,
+    "fp": 12,
+    "hp": 298,
+    "lck": 25,
+    "oil": 1,
+    "rld": 72
+  }
 }

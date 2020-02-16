@@ -6,5 +6,18 @@
   "id": "132",
   "name": "Nelson",
   "nationality": "royal-navy",
-  "slug": "nelson"
+  "slug": "nelson",
+  "stats": {
+    "aa": 41,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 6,
+    "fp": 79,
+    "hp": 1276,
+    "lck": 66,
+    "oil": 5,
+    "rld": 55
+  }
 }

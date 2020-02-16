@@ -6,5 +6,18 @@
   "id": "047",
   "name": "Quincy",
   "nationality": "eagle-union",
-  "slug": "quincy"
+  "slug": "quincy",
+  "stats": {
+    "aa": 43,
+    "acc": 41,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 40,
+    "hp": 693,
+    "lck": 9,
+    "oil": 3,
+    "rld": 59
+  }
 }

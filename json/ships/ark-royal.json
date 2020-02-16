@@ -6,5 +6,18 @@
   "id": "144",
   "name": "Ark Royal",
   "nationality": "royal-navy",
-  "slug": "ark-royal"
+  "slug": "ark-royal",
+  "stats": {
+    "aa": 58,
+    "acc": 35,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 76,
+    "eva": 13,
+    "fp": 0,
+    "hp": 1027,
+    "lck": 87,
+    "oil": 4,
+    "rld": 43
+  }
 }

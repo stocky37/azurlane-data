@@ -6,5 +6,18 @@
   "id": "259",
   "name": "Ping Hai",
   "nationality": "eastern-radiance",
-  "slug": "ping-hai"
+  "slug": "ping-hai",
+  "stats": {
+    "aa": 48,
+    "acc": 53,
+    "arm": "light",
+    "asw": 18,
+    "avi": 0,
+    "eva": 25,
+    "fp": 27,
+    "hp": 340,
+    "lck": 47,
+    "oil": 3,
+    "rld": 67
+  }
 }

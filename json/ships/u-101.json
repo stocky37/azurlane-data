@@ -6,5 +6,18 @@
   "id": "399",
   "name": "U-101",
   "nationality": "ironblood",
-  "slug": "u-101"
+  "slug": "u-101",
+  "stats": {
+    "aa": 0,
+    "acc": 60,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 9,
+    "hp": 209,
+    "lck": 68,
+    "oil": 2,
+    "rld": 41
+  }
 }

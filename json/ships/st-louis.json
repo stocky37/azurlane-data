@@ -6,5 +6,18 @@
   "id": "305",
   "name": "St. Louis",
   "nationality": "eagle-union",
-  "slug": "st-louis"
+  "slug": "st-louis",
+  "stats": {
+    "aa": 60,
+    "acc": 57,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 28,
+    "fp": 32,
+    "hp": 620,
+    "lck": 65,
+    "oil": 3,
+    "rld": 68
+  }
 }

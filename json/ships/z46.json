@@ -6,5 +6,18 @@
   "id": "267",
   "name": "Z46",
   "nationality": "ironblood",
-  "slug": "z46"
+  "slug": "z46",
+  "stats": {
+    "aa": 48,
+    "acc": 66,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 56,
+    "fp": 17,
+    "hp": 433,
+    "lck": 63,
+    "oil": 3,
+    "rld": 78
+  }
 }

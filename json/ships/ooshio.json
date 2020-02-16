@@ -6,5 +6,18 @@
   "id": "332",
   "name": "Ooshio",
   "nationality": "sakura-empire",
-  "slug": "ooshio"
+  "slug": "ooshio",
+  "stats": {
+    "aa": 28,
+    "acc": 67,
+    "arm": "light",
+    "asw": 42,
+    "avi": 0,
+    "eva": 71,
+    "fp": 12,
+    "hp": 312,
+    "lck": 40,
+    "oil": 2,
+    "rld": 72
+  }
 }

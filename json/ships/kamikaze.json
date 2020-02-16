@@ -6,5 +6,18 @@
   "id": "269",
   "name": "Kamikaze",
   "nationality": "sakura-empire",
-  "slug": "kamikaze"
+  "slug": "kamikaze",
+  "stats": {
+    "aa": 26,
+    "acc": 67,
+    "arm": "light",
+    "asw": 50,
+    "avi": 0,
+    "eva": 72,
+    "fp": 11,
+    "hp": 252,
+    "lck": 86,
+    "oil": 1,
+    "rld": 77
+  }
 }

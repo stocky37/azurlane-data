@@ -6,5 +6,18 @@
   "id": "339",
   "name": "I-26",
   "nationality": "sakura-empire",
-  "slug": "i-26"
+  "slug": "i-26",
+  "stats": {
+    "aa": 0,
+    "acc": 56,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 10,
+    "fp": 11,
+    "hp": 333,
+    "lck": 26,
+    "oil": 2,
+    "rld": 40
+  }
 }

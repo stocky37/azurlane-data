@@ -6,5 +6,18 @@
   "id": "299",
   "name": "Radford",
   "nationality": "eagle-union",
-  "slug": "radford"
+  "slug": "radford",
+  "stats": {
+    "aa": 32,
+    "acc": 72,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 60,
+    "fp": 16,
+    "hp": 331,
+    "lck": 80,
+    "oil": 2,
+    "rld": 74
+  }
 }

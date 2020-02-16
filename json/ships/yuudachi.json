@@ -6,5 +6,18 @@
   "id": "164",
   "name": "Yuudachi",
   "nationality": "sakura-empire",
-  "slug": "yuudachi"
+  "slug": "yuudachi",
+  "stats": {
+    "aa": 29,
+    "acc": 70,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 71,
+    "fp": 13,
+    "hp": 295,
+    "lck": 32,
+    "oil": 3,
+    "rld": 83
+  }
 }

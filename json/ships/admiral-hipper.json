@@ -6,5 +6,18 @@
   "id": "242",
   "name": "Admiral Hipper",
   "nationality": "ironblood",
-  "slug": "admiral-hipper"
+  "slug": "admiral-hipper",
+  "stats": {
+    "aa": 35,
+    "acc": 44,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 46,
+    "hp": 874,
+    "lck": 66,
+    "oil": 3,
+    "rld": 65
+  }
 }

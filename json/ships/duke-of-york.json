@@ -6,5 +6,18 @@
   "id": "136",
   "name": "Duke of York",
   "nationality": "royal-navy",
-  "slug": "duke-of-york"
+  "slug": "duke-of-york",
+  "stats": {
+    "aa": 42,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 82,
+    "hp": 1334,
+    "lck": 73,
+    "oil": 5,
+    "rld": 56
+  }
 }

@@ -6,5 +6,18 @@
   "id": "403",
   "name": "Bataan",
   "nationality": "eagle-union",
-  "slug": "bataan"
+  "slug": "bataan",
+  "stats": {
+    "aa": 52,
+    "acc": 29,
+    "arm": "medium",
+    "asw": 17,
+    "avi": 65,
+    "eva": 21,
+    "fp": 0,
+    "hp": 835,
+    "lck": 65,
+    "oil": 3,
+    "rld": 73
+  }
 }

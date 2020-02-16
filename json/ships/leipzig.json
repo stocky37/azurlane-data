@@ -6,5 +6,18 @@
   "id": "241",
   "name": "Leipzig",
   "nationality": "ironblood",
-  "slug": "leipzig"
+  "slug": "leipzig",
+  "stats": {
+    "aa": 66,
+    "acc": 53,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 29,
+    "fp": 27,
+    "hp": 601,
+    "lck": 67,
+    "oil": 2,
+    "rld": 68
+  }
 }

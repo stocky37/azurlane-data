@@ -6,5 +6,18 @@
   "id": "083",
   "name": "Ardent",
   "nationality": "royal-navy",
-  "slug": "ardent"
+  "slug": "ardent",
+  "stats": {
+    "aa": 29,
+    "acc": 63,
+    "arm": "light",
+    "asw": 42,
+    "avi": 0,
+    "eva": 78,
+    "fp": 13,
+    "hp": 221,
+    "lck": 35,
+    "oil": 2,
+    "rld": 71
+  }
 }

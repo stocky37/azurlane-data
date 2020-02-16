@@ -6,5 +6,18 @@
   "id": "351",
   "name": "Le Mars",
   "nationality": "vichya-dominion",
-  "slug": "le-mars"
+  "slug": "le-mars",
+  "stats": {
+    "aa": 26,
+    "acc": 68,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 74,
+    "fp": 13,
+    "hp": 222,
+    "lck": 24,
+    "oil": 2,
+    "rld": 71
+  }
 }

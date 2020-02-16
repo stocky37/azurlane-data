@@ -6,5 +6,18 @@
   "id": "240",
   "name": "K\u00f6ln",
   "nationality": "ironblood",
-  "slug": "koln"
+  "slug": "koln",
+  "stats": {
+    "aa": 63,
+    "acc": 51,
+    "arm": "light",
+    "asw": 25,
+    "avi": 0,
+    "eva": 29,
+    "fp": 28,
+    "hp": 578,
+    "lck": 62,
+    "oil": 2,
+    "rld": 64
+  }
 }

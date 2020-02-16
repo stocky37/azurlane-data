@@ -6,5 +6,18 @@
   "id": "397",
   "name": "I-56",
   "nationality": "sakura-empire",
-  "slug": "i-56"
+  "slug": "i-56",
+  "stats": {
+    "aa": 0,
+    "acc": 57,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 11,
+    "hp": 335,
+    "lck": 46,
+    "oil": 2,
+    "rld": 23
+  }
 }

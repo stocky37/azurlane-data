@@ -6,5 +6,18 @@
   "id": "334",
   "name": "Arashio",
   "nationality": "sakura-empire",
-  "slug": "arashio"
+  "slug": "arashio",
+  "stats": {
+    "aa": 28,
+    "acc": 67,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 71,
+    "fp": 12,
+    "hp": 312,
+    "lck": 32,
+    "oil": 2,
+    "rld": 72
+  }
 }

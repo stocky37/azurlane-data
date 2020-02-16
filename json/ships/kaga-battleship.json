@@ -6,5 +6,18 @@
   "id": "368",
   "name": "Kaga (Battleship)",
   "nationality": "sakura-empire",
-  "slug": "kaga-battleship"
+  "slug": "kaga-battleship",
+  "stats": {
+    "aa": 35,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 81,
+    "hp": 1376,
+    "lck": 42,
+    "oil": 5,
+    "rld": 55
+  }
 }

@@ -6,5 +6,18 @@
   "id": "114",
   "name": "Edinburgh",
   "nationality": "royal-navy",
-  "slug": "edinburgh"
+  "slug": "edinburgh",
+  "stats": {
+    "aa": 59,
+    "acc": 55,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 29,
+    "fp": 29,
+    "hp": 789,
+    "lck": 37,
+    "oil": 3,
+    "rld": 65
+  }
 }

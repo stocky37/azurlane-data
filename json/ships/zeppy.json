@@ -6,5 +6,18 @@
   "id": "385",
   "name": "Zeppy",
   "nationality": "ironblood",
-  "slug": "zeppy"
+  "slug": "zeppy",
+  "stats": {
+    "aa": 58,
+    "acc": 29,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 71,
+    "eva": 16,
+    "fp": 32,
+    "hp": 1228,
+    "lck": 45,
+    "oil": 4,
+    "rld": 41
+  }
 }

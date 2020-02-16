@@ -6,5 +6,18 @@
   "id": "039",
   "name": "Pensacola",
   "nationality": "eagle-union",
-  "slug": "pensacola"
+  "slug": "pensacola",
+  "stats": {
+    "aa": 37,
+    "acc": 39,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 43,
+    "hp": 563,
+    "lck": 75,
+    "oil": 2,
+    "rld": 59
+  }
 }

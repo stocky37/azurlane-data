@@ -6,5 +6,18 @@
   "id": "122",
   "name": "Suffolk",
   "nationality": "royal-navy",
-  "slug": "suffolk"
+  "slug": "suffolk",
+  "stats": {
+    "aa": 39,
+    "acc": 38,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 40,
+    "hp": 595,
+    "lck": 72,
+    "oil": 3,
+    "rld": 59
+  }
 }

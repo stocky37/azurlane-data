@@ -6,5 +6,18 @@
   "id": "160",
   "name": "Hibiki",
   "nationality": "sakura-empire",
-  "slug": "hibiki"
+  "slug": "hibiki",
+  "stats": {
+    "aa": 29,
+    "acc": 65,
+    "arm": "light",
+    "asw": 48,
+    "avi": 0,
+    "eva": 72,
+    "fp": 12,
+    "hp": 290,
+    "lck": 88,
+    "oil": 2,
+    "rld": 79
+  }
 }

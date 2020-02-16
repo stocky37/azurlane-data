@@ -6,5 +6,18 @@
   "id": "372",
   "name": "Curacoa",
   "nationality": "royal-navy",
-  "slug": "curacoa"
+  "slug": "curacoa",
+  "stats": {
+    "aa": 29,
+    "acc": 58,
+    "arm": "light",
+    "asw": 13,
+    "avi": 0,
+    "eva": 26,
+    "fp": 25,
+    "hp": 510,
+    "lck": 24,
+    "oil": 2,
+    "rld": 67
+  }
 }

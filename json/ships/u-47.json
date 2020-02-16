@@ -6,5 +6,18 @@
   "id": "343",
   "name": "U-47",
   "nationality": "ironblood",
-  "slug": "u-47"
+  "slug": "u-47",
+  "stats": {
+    "aa": 0,
+    "acc": 61,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 9,
+    "hp": 209,
+    "lck": 32,
+    "oil": 2,
+    "rld": 41
+  }
 }

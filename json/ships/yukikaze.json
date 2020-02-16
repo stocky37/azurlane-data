@@ -6,5 +6,18 @@
   "id": "166",
   "name": "Yukikaze",
   "nationality": "sakura-empire",
-  "slug": "yukikaze"
+  "slug": "yukikaze",
+  "stats": {
+    "aa": 30,
+    "acc": 71,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 71,
+    "fp": 13,
+    "hp": 359,
+    "lck": 93,
+    "oil": 3,
+    "rld": 82
+  }
 }

@@ -6,5 +6,18 @@
   "id": "062",
   "name": "West Virginia",
   "nationality": "eagle-union",
-  "slug": "west-virginia"
+  "slug": "west-virginia",
+  "stats": {
+    "aa": 40,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 4,
+    "fp": 78,
+    "hp": 1241,
+    "lck": 61,
+    "oil": 5,
+    "rld": 55
+  }
 }

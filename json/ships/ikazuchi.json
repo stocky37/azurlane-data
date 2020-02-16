@@ -6,5 +6,18 @@
   "id": "161",
   "name": "Ikazuchi",
   "nationality": "sakura-empire",
-  "slug": "ikazuchi"
+  "slug": "ikazuchi",
+  "stats": {
+    "aa": 28,
+    "acc": 65,
+    "arm": "light",
+    "asw": 41,
+    "avi": 0,
+    "eva": 72,
+    "fp": 11,
+    "hp": 282,
+    "lck": 52,
+    "oil": 2,
+    "rld": 77
+  }
 }

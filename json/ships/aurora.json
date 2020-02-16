@@ -6,5 +6,18 @@
   "id": "118",
   "name": "Aurora",
   "nationality": "royal-navy",
-  "slug": "aurora"
+  "slug": "aurora",
+  "stats": {
+    "aa": 63,
+    "acc": 59,
+    "arm": "light",
+    "asw": 26,
+    "avi": 0,
+    "eva": 29,
+    "fp": 30,
+    "hp": 497,
+    "lck": 84,
+    "oil": 3,
+    "rld": 72
+  }
 }

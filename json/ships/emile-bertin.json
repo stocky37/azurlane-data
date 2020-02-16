@@ -6,5 +6,18 @@
   "id": "349",
   "name": "Emile Bertin",
   "nationality": "iris-libre",
-  "slug": "emile-bertin"
+  "slug": "emile-bertin",
+  "stats": {
+    "aa": 51,
+    "acc": 57,
+    "arm": "light",
+    "asw": 35,
+    "avi": 0,
+    "eva": 30,
+    "fp": 30,
+    "hp": 548,
+    "lck": 67,
+    "oil": 3,
+    "rld": 64
+  }
 }

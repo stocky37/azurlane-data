@@ -6,5 +6,18 @@
   "id": "Collab003",
   "name": "Blanc",
   "nationality": "neptunia",
-  "slug": "blanc"
+  "slug": "blanc",
+  "stats": {
+    "aa": 28,
+    "acc": 69,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 65,
+    "fp": 13,
+    "hp": 293,
+    "lck": 71,
+    "oil": 2,
+    "rld": 76
+  }
 }

@@ -6,5 +6,18 @@
   "id": "Collab007",
   "name": "White Heart",
   "nationality": "neptunia",
-  "slug": "white-heart"
+  "slug": "white-heart",
+  "stats": {
+    "aa": 29,
+    "acc": 69,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 66,
+    "fp": 14,
+    "hp": 314,
+    "lck": 73,
+    "oil": 3,
+    "rld": 79
+  }
 }

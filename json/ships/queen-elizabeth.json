@@ -6,5 +6,18 @@
   "id": "130",
   "name": "Queen Elizabeth",
   "nationality": "royal-navy",
-  "slug": "queen-elizabeth"
+  "slug": "queen-elizabeth",
+  "stats": {
+    "aa": 40,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 6,
+    "fp": 78,
+    "hp": 1250,
+    "lck": 25,
+    "oil": 5,
+    "rld": 53
+  }
 }

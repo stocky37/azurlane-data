@@ -6,5 +6,18 @@
   "id": "036",
   "name": "San Diego",
   "nationality": "eagle-union",
-  "slug": "san-diego"
+  "slug": "san-diego",
+  "stats": {
+    "aa": 87,
+    "acc": 58,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 28,
+    "fp": 25,
+    "hp": 646,
+    "lck": 85,
+    "oil": 3,
+    "rld": 70
+  }
 }

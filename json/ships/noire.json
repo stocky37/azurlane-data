@@ -6,5 +6,18 @@
   "id": "Collab002",
   "name": "Noire",
   "nationality": "neptunia",
-  "slug": "noire"
+  "slug": "noire",
+  "stats": {
+    "aa": 33,
+    "acc": 44,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 12,
+    "fp": 44,
+    "hp": 655,
+    "lck": 83,
+    "oil": 3,
+    "rld": 61
+  }
 }

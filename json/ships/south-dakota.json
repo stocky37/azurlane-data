@@ -6,5 +6,18 @@
   "id": "065",
   "name": "South Dakota",
   "nationality": "eagle-union",
-  "slug": "south-dakota"
+  "slug": "south-dakota",
+  "stats": {
+    "aa": 79,
+    "acc": 23,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 80,
+    "hp": 1345,
+    "lck": 76,
+    "oil": 5,
+    "rld": 58
+  }
 }

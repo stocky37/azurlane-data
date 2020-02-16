@@ -6,5 +6,18 @@
   "id": "328",
   "name": "Jamaica",
   "nationality": "royal-navy",
-  "slug": "jamaica"
+  "slug": "jamaica",
+  "stats": {
+    "aa": 62,
+    "acc": 58,
+    "arm": "light",
+    "asw": 30,
+    "avi": 0,
+    "eva": 29,
+    "fp": 29,
+    "hp": 625,
+    "lck": 67,
+    "oil": 2,
+    "rld": 67
+  }
 }

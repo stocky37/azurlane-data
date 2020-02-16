@@ -6,5 +6,18 @@
   "id": "129",
   "name": "Hood",
   "nationality": "royal-navy",
-  "slug": "hood"
+  "slug": "hood",
+  "stats": {
+    "aa": 61,
+    "acc": 22,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 66,
+    "hp": 1485,
+    "lck": 38,
+    "oil": 5,
+    "rld": 58
+  }
 }

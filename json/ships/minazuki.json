@@ -6,5 +6,18 @@
   "id": "276",
   "name": "Minazuki",
   "nationality": "sakura-empire",
-  "slug": "minazuki"
+  "slug": "minazuki",
+  "stats": {
+    "aa": 26,
+    "acc": 65,
+    "arm": "light",
+    "asw": 41,
+    "avi": 0,
+    "eva": 72,
+    "fp": 11,
+    "hp": 240,
+    "lck": 45,
+    "oil": 1,
+    "rld": 72
+  }
 }

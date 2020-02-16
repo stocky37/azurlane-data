@@ -6,5 +6,18 @@
   "id": "063",
   "name": "North Carolina",
   "nationality": "eagle-union",
-  "slug": "north-carolina"
+  "slug": "north-carolina",
+  "stats": {
+    "aa": 79,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 82,
+    "hp": 1315,
+    "lck": 81,
+    "oil": 5,
+    "rld": 58
+  }
 }

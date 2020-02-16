@@ -6,5 +6,18 @@
   "id": "367",
   "name": "Amagi",
   "nationality": "sakura-empire",
-  "slug": "amagi"
+  "slug": "amagi",
+  "stats": {
+    "aa": 35,
+    "acc": 21,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 80,
+    "hp": 1260,
+    "lck": 23,
+    "oil": 5,
+    "rld": 54
+  }
 }

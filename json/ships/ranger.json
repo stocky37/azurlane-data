@@ -6,5 +6,18 @@
   "id": "075",
   "name": "Ranger",
   "nationality": "eagle-union",
-  "slug": "ranger"
+  "slug": "ranger",
+  "stats": {
+    "aa": 46,
+    "acc": 29,
+    "arm": "medium",
+    "asw": 26,
+    "avi": 44,
+    "eva": 19,
+    "fp": 0,
+    "hp": 797,
+    "lck": 71,
+    "oil": 2,
+    "rld": 48
+  }
 }

@@ -6,5 +6,18 @@
   "id": "278",
   "name": "Nagatsuki",
   "nationality": "sakura-empire",
-  "slug": "nagatsuki"
+  "slug": "nagatsuki",
+  "stats": {
+    "aa": 24,
+    "acc": 65,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 72,
+    "fp": 11,
+    "hp": 244,
+    "lck": 35,
+    "oil": 2,
+    "rld": 74
+  }
 }

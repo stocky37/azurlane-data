@@ -6,5 +6,18 @@
   "id": "002",
   "name": "Trial Bullin MKII",
   "nationality": "universal",
-  "slug": "trial-bullin-mkii"
+  "slug": "trial-bullin-mkii",
+  "stats": {
+    "aa": 10,
+    "acc": 50,
+    "arm": "light",
+    "asw": 20,
+    "avi": 10,
+    "eva": 50,
+    "fp": 10,
+    "hp": 100,
+    "lck": 100,
+    "oil": 2,
+    "rld": 50
+  }
 }

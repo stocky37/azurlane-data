@@ -6,5 +6,18 @@
   "id": "060",
   "name": "Colorado",
   "nationality": "eagle-union",
-  "slug": "colorado"
+  "slug": "colorado",
+  "stats": {
+    "aa": 40,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 4,
+    "fp": 78,
+    "hp": 1241,
+    "lck": 67,
+    "oil": 5,
+    "rld": 55
+  }
 }

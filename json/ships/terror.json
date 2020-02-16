@@ -6,5 +6,18 @@
   "id": "150",
   "name": "Terror",
   "nationality": "royal-navy",
-  "slug": "terror"
+  "slug": "terror",
+  "stats": {
+    "aa": 32,
+    "acc": 28,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 11,
+    "fp": 52,
+    "hp": 587,
+    "lck": 19,
+    "oil": 3,
+    "rld": 53
+  }
 }

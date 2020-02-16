@@ -6,5 +6,18 @@
   "id": "401",
   "name": "Alabama",
   "nationality": "eagle-union",
-  "slug": "alabama"
+  "slug": "alabama",
+  "stats": {
+    "aa": 80,
+    "acc": 20,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 81,
+    "hp": 1303,
+    "lck": 86,
+    "oil": 5,
+    "rld": 57
+  }
 }

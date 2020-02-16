@@ -6,5 +6,18 @@
   "id": "026",
   "name": "Sims",
   "nationality": "eagle-union",
-  "slug": "sims"
+  "slug": "sims",
+  "stats": {
+    "aa": 32,
+    "acc": 65,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 59,
+    "fp": 15,
+    "hp": 293,
+    "lck": 45,
+    "oil": 2,
+    "rld": 75
+  }
 }

@@ -6,5 +6,18 @@
   "id": "212",
   "name": "Nagato",
   "nationality": "sakura-empire",
-  "slug": "nagato"
+  "slug": "nagato",
+  "stats": {
+    "aa": 34,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 80,
+    "hp": 1345,
+    "lck": 71,
+    "oil": 5,
+    "rld": 54
+  }
 }

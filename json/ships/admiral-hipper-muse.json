@@ -6,5 +6,18 @@
   "id": "422",
   "name": "Admiral Hipper (Muse)",
   "nationality": "ironblood",
-  "slug": "admiral-hipper-muse"
+  "slug": "admiral-hipper-muse",
+  "stats": {
+    "aa": 35,
+    "acc": 44,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 46,
+    "hp": 833,
+    "lck": 66,
+    "oil": 3,
+    "rld": 65
+  }
 }

@@ -6,5 +6,18 @@
   "id": "058",
   "name": "Tennessee",
   "nationality": "eagle-union",
-  "slug": "tennessee"
+  "slug": "tennessee",
+  "stats": {
+    "aa": 39,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 4,
+    "fp": 74,
+    "hp": 1226,
+    "lck": 51,
+    "oil": 4,
+    "rld": 51
+  }
 }

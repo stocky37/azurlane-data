@@ -6,5 +6,18 @@
   "id": "055",
   "name": "Arizona",
   "nationality": "eagle-union",
-  "slug": "arizona"
+  "slug": "arizona",
+  "stats": {
+    "aa": 41,
+    "acc": 21,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 4,
+    "fp": 76,
+    "hp": 1183,
+    "lck": 17,
+    "oil": 5,
+    "rld": 51
+  }
 }

@@ -6,5 +6,18 @@
   "id": "162",
   "name": "Inazuma",
   "nationality": "sakura-empire",
-  "slug": "inazuma"
+  "slug": "inazuma",
+  "stats": {
+    "aa": 28,
+    "acc": 65,
+    "arm": "light",
+    "asw": 41,
+    "avi": 0,
+    "eva": 72,
+    "fp": 11,
+    "hp": 282,
+    "lck": 57,
+    "oil": 2,
+    "rld": 77
+  }
 }

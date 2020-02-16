@@ -6,5 +6,18 @@
   "id": "177",
   "name": "Kuroshio",
   "nationality": "sakura-empire",
-  "slug": "kuroshio"
+  "slug": "kuroshio",
+  "stats": {
+    "aa": 28,
+    "acc": 67,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 71,
+    "fp": 12,
+    "hp": 336,
+    "lck": 34,
+    "oil": 2,
+    "rld": 74
+  }
 }

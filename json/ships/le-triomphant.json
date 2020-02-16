@@ -6,5 +6,18 @@
   "id": "347",
   "name": "Le Triomphant",
   "nationality": "iris-libre",
-  "slug": "le-triomphant"
+  "slug": "le-triomphant",
+  "stats": {
+    "aa": 31,
+    "acc": 68,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 79,
+    "fp": 24,
+    "hp": 326,
+    "lck": 77,
+    "oil": 3,
+    "rld": 76
+  }
 }

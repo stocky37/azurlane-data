@@ -6,5 +6,18 @@
   "id": "405",
   "name": "Birmingham",
   "nationality": "eagle-union",
-  "slug": "birmingham"
+  "slug": "birmingham",
+  "stats": {
+    "aa": 62,
+    "acc": 58,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 29,
+    "fp": 31,
+    "hp": 730,
+    "lck": 48,
+    "oil": 3,
+    "rld": 68
+  }
 }

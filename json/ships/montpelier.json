@@ -6,5 +6,18 @@
   "id": "329",
   "name": "Montpelier",
   "nationality": "eagle-union",
-  "slug": "montpelier"
+  "slug": "montpelier",
+  "stats": {
+    "aa": 63,
+    "acc": 56,
+    "arm": "light",
+    "asw": 25,
+    "avi": 0,
+    "eva": 30,
+    "fp": 31,
+    "hp": 760,
+    "lck": 72,
+    "oil": 3,
+    "rld": 71
+  }
 }

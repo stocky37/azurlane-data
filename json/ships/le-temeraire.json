@@ -6,5 +6,18 @@
   "id": "359",
   "name": "Le Temeraire",
   "nationality": "iris-libre",
-  "slug": "le-temeraire"
+  "slug": "le-temeraire",
+  "stats": {
+    "aa": 32,
+    "acc": 69,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 70,
+    "fp": 17,
+    "hp": 253,
+    "lck": 41,
+    "oil": 2,
+    "rld": 70
+  }
 }

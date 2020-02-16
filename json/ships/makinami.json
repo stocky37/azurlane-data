@@ -6,5 +6,18 @@
   "id": "370",
   "name": "Makinami",
   "nationality": "sakura-empire",
-  "slug": "makinami"
+  "slug": "makinami",
+  "stats": {
+    "aa": 29,
+    "acc": 69,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 71,
+    "fp": 13,
+    "hp": 348,
+    "lck": 40,
+    "oil": 2,
+    "rld": 79
+  }
 }

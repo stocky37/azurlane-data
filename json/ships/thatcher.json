@@ -6,5 +6,18 @@
   "id": "014",
   "name": "Thatcher",
   "nationality": "eagle-union",
-  "slug": "thatcher"
+  "slug": "thatcher",
+  "stats": {
+    "aa": 32,
+    "acc": 72,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 59,
+    "fp": 16,
+    "hp": 331,
+    "lck": 65,
+    "oil": 2,
+    "rld": 77
+  }
 }

@@ -6,5 +6,18 @@
   "id": "027",
   "name": "Hammann",
   "nationality": "eagle-union",
-  "slug": "hammann"
+  "slug": "hammann",
+  "stats": {
+    "aa": 32,
+    "acc": 65,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 59,
+    "fp": 15,
+    "hp": 293,
+    "lck": 47,
+    "oil": 2,
+    "rld": 75
+  }
 }

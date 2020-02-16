@@ -6,5 +6,18 @@
   "id": "348",
   "name": "Forbin",
   "nationality": "iris-libre",
-  "slug": "forbin"
+  "slug": "forbin",
+  "stats": {
+    "aa": 26,
+    "acc": 68,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 74,
+    "fp": 13,
+    "hp": 222,
+    "lck": 69,
+    "oil": 2,
+    "rld": 71
+  }
 }

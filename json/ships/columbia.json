@@ -6,5 +6,18 @@
   "id": "038",
   "name": "Columbia",
   "nationality": "eagle-union",
-  "slug": "columbia"
+  "slug": "columbia",
+  "stats": {
+    "aa": 61,
+    "acc": 56,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 30,
+    "fp": 31,
+    "hp": 751,
+    "lck": 70,
+    "oil": 3,
+    "rld": 69
+  }
 }

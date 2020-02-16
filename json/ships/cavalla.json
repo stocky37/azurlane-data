@@ -6,5 +6,18 @@
   "id": "402",
   "name": "Cavalla",
   "nationality": "eagle-union",
-  "slug": "cavalla"
+  "slug": "cavalla",
+  "stats": {
+    "aa": 0,
+    "acc": 66,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 12,
+    "hp": 306,
+    "lck": 78,
+    "oil": 2,
+    "rld": 34
+  }
 }

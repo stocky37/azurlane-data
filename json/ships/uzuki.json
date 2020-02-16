@@ -6,5 +6,18 @@
   "id": "274",
   "name": "Uzuki",
   "nationality": "sakura-empire",
-  "slug": "uzuki"
+  "slug": "uzuki",
+  "stats": {
+    "aa": 26,
+    "acc": 65,
+    "arm": "light",
+    "asw": 44,
+    "avi": 0,
+    "eva": 72,
+    "fp": 11,
+    "hp": 240,
+    "lck": 37,
+    "oil": 1,
+    "rld": 72
+  }
 }

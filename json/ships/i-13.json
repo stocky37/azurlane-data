@@ -6,5 +6,18 @@
   "id": "381",
   "name": "I-13",
   "nationality": "sakura-empire",
-  "slug": "i-13"
+  "slug": "i-13",
+  "stats": {
+    "aa": 0,
+    "acc": 59,
+    "arm": "light",
+    "asw": 0,
+    "avi": 47,
+    "eva": 7,
+    "fp": 9,
+    "hp": 428,
+    "lck": 20,
+    "oil": 2,
+    "rld": 40
+  }
 }

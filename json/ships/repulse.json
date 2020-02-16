@@ -6,5 +6,18 @@
   "id": "128",
   "name": "Repulse",
   "nationality": "royal-navy",
-  "slug": "repulse"
+  "slug": "repulse",
+  "stats": {
+    "aa": 50,
+    "acc": 22,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 67,
+    "hp": 993,
+    "lck": 28,
+    "oil": 4,
+    "rld": 56
+  }
 }

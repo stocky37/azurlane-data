@@ -6,5 +6,18 @@
   "id": "009",
   "name": "McCall",
   "nationality": "eagle-union",
-  "slug": "mccall"
+  "slug": "mccall",
+  "stats": {
+    "aa": 32,
+    "acc": 71,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 60,
+    "fp": 13,
+    "hp": 278,
+    "lck": 69,
+    "oil": 1,
+    "rld": 72
+  }
 }

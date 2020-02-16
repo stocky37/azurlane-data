@@ -6,5 +6,18 @@
   "id": "Collab057",
   "name": "Ookami Mio",
   "nationality": "hololive",
-  "slug": "ookami-mio"
+  "slug": "ookami-mio",
+  "stats": {
+    "aa": 54,
+    "acc": 35,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 71,
+    "eva": 11,
+    "fp": 0,
+    "hp": 1027,
+    "lck": 53,
+    "oil": 4,
+    "rld": 43
+  }
 }

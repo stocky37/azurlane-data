@@ -6,5 +6,18 @@
   "id": "384",
   "name": "Akagi-chan",
   "nationality": "sakura-empire",
-  "slug": "akagi-chan"
+  "slug": "akagi-chan",
+  "stats": {
+    "aa": 59,
+    "acc": 31,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 75,
+    "eva": 13,
+    "fp": 0,
+    "hp": 1077,
+    "lck": 42,
+    "oil": 4,
+    "rld": 46
+  }
 }

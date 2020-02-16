@@ -1,10 +1,6 @@
 {
-  "classification": "light-aircraft-carrier",
-  "construction": {
-    "time": "02:30:00"
-  },
-  "id": "142",
+  "construction": {},
   "name": "Unicorn",
-  "nationality": "royal-navy",
-  "slug": "unicorn"
+  "slug": "unicorn",
+  "stats": {}
 }

@@ -6,5 +6,18 @@
   "id": "035",
   "name": "Juneau",
   "nationality": "eagle-union",
-  "slug": "juneau"
+  "slug": "juneau",
+  "stats": {
+    "aa": 81,
+    "acc": 58,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 28,
+    "fp": 24,
+    "hp": 605,
+    "lck": 18,
+    "oil": 2,
+    "rld": 66
+  }
 }

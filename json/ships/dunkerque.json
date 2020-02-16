@@ -6,5 +6,18 @@
   "id": "352",
   "name": "Dunkerque",
   "nationality": "vichya-dominion",
-  "slug": "dunkerque"
+  "slug": "dunkerque",
+  "stats": {
+    "aa": 42,
+    "acc": 24,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 67,
+    "hp": 1127,
+    "lck": 35,
+    "oil": 4,
+    "rld": 60
+  }
 }

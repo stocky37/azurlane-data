@@ -6,5 +6,18 @@
   "id": "417",
   "name": "Smalley",
   "nationality": "eagle-union",
-  "slug": "smalley"
+  "slug": "smalley",
+  "stats": {
+    "aa": 35,
+    "acc": 72,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 59,
+    "fp": 16,
+    "hp": 338,
+    "lck": 65,
+    "oil": 2,
+    "rld": 74
+  }
 }

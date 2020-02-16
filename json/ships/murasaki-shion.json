@@ -6,5 +6,18 @@
   "id": "Collab056",
   "name": "Murasaki Shion",
   "nationality": "hololive",
-  "slug": "murasaki-shion"
+  "slug": "murasaki-shion",
+  "stats": {
+    "aa": 48,
+    "acc": 28,
+    "arm": "medium",
+    "asw": 17,
+    "avi": 58,
+    "eva": 19,
+    "fp": 0,
+    "hp": 835,
+    "lck": 85,
+    "oil": 3,
+    "rld": 64
+  }
 }

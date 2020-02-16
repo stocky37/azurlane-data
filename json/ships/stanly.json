@@ -6,5 +6,18 @@
   "id": "409",
   "name": "Stanly",
   "nationality": "eagle-union",
-  "slug": "stanly"
+  "slug": "stanly",
+  "stats": {
+    "aa": 32,
+    "acc": 72,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 59,
+    "fp": 16,
+    "hp": 338,
+    "lck": 90,
+    "oil": 2,
+    "rld": 75
+  }
 }

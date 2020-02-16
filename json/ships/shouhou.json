@@ -6,5 +6,18 @@
   "id": "222",
   "name": "Shouhou",
   "nationality": "sakura-empire",
-  "slug": "shouhou"
+  "slug": "shouhou",
+  "stats": {
+    "aa": 46,
+    "acc": 25,
+    "arm": "medium",
+    "asw": 20,
+    "avi": 52,
+    "eva": 19,
+    "fp": 0,
+    "hp": 714,
+    "lck": 24,
+    "oil": 3,
+    "rld": 65
+  }
 }

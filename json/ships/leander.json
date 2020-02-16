@@ -6,5 +6,18 @@
   "id": "104",
   "name": "Leander",
   "nationality": "royal-navy",
-  "slug": "leander"
+  "slug": "leander",
+  "stats": {
+    "aa": 61,
+    "acc": 50,
+    "arm": "light",
+    "asw": 30,
+    "avi": 0,
+    "eva": 30,
+    "fp": 27,
+    "hp": 558,
+    "lck": 44,
+    "oil": 2,
+    "rld": 63
+  }
 }

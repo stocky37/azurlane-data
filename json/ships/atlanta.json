@@ -6,5 +6,18 @@
   "id": "034",
   "name": "Atlanta",
   "nationality": "eagle-union",
-  "slug": "atlanta"
+  "slug": "atlanta",
+  "stats": {
+    "aa": 81,
+    "acc": 58,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 28,
+    "fp": 24,
+    "hp": 605,
+    "lck": 12,
+    "oil": 2,
+    "rld": 66
+  }
 }

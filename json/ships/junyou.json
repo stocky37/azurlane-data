@@ -6,5 +6,18 @@
   "id": "219",
   "name": "Junyou",
   "nationality": "sakura-empire",
-  "slug": "junyou"
+  "slug": "junyou",
+  "stats": {
+    "aa": 46,
+    "acc": 25,
+    "arm": "medium",
+    "asw": 19,
+    "avi": 52,
+    "eva": 19,
+    "fp": 0,
+    "hp": 860,
+    "lck": 80,
+    "oil": 3,
+    "rld": 58
+  }
 }

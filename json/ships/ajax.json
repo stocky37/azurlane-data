@@ -6,5 +6,18 @@
   "id": "106",
   "name": "Ajax",
   "nationality": "royal-navy",
-  "slug": "ajax"
+  "slug": "ajax",
+  "stats": {
+    "aa": 55,
+    "acc": 51,
+    "arm": "light",
+    "asw": 31,
+    "avi": 0,
+    "eva": 28,
+    "fp": 30,
+    "hp": 509,
+    "lck": 74,
+    "oil": 2,
+    "rld": 64
+  }
 }

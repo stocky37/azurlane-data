@@ -6,5 +6,18 @@
   "id": "358",
   "name": "Albacore",
   "nationality": "eagle-union",
-  "slug": "albacore"
+  "slug": "albacore",
+  "stats": {
+    "aa": 0,
+    "acc": 66,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 11,
+    "hp": 310,
+    "lck": 79,
+    "oil": 2,
+    "rld": 35
+  }
 }

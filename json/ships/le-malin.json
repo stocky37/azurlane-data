@@ -6,5 +6,18 @@
   "id": "394",
   "name": "Le Malin",
   "nationality": "vichya-dominion",
-  "slug": "le-malin"
+  "slug": "le-malin",
+  "stats": {
+    "aa": 26,
+    "acc": 68,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 79,
+    "fp": 25,
+    "hp": 326,
+    "lck": 51,
+    "oil": 3,
+    "rld": 76
+  }
 }

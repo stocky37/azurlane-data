@@ -6,5 +6,18 @@
   "id": "204",
   "name": "Kongou",
   "nationality": "sakura-empire",
-  "slug": "kongou"
+  "slug": "kongou",
+  "stats": {
+    "aa": 51,
+    "acc": 22,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 69,
+    "hp": 1087,
+    "lck": 43,
+    "oil": 5,
+    "rld": 58
+  }
 }

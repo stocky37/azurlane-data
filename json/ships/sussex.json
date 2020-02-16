@@ -6,5 +6,18 @@
   "id": "337",
   "name": "Sussex",
   "nationality": "royal-navy",
-  "slug": "sussex"
+  "slug": "sussex",
+  "stats": {
+    "aa": 48,
+    "acc": 38,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 37,
+    "hp": 590,
+    "lck": 68,
+    "oil": 3,
+    "rld": 59
+  }
 }

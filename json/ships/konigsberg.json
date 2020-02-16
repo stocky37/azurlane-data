@@ -6,5 +6,18 @@
   "id": "238",
   "name": "K\u00f6nigsberg",
   "nationality": "ironblood",
-  "slug": "konigsberg"
+  "slug": "konigsberg",
+  "stats": {
+    "aa": 63,
+    "acc": 51,
+    "arm": "light",
+    "asw": 25,
+    "avi": 0,
+    "eva": 29,
+    "fp": 28,
+    "hp": 578,
+    "lck": 42,
+    "oil": 2,
+    "rld": 64
+  }
 }

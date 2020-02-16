@@ -6,5 +6,18 @@
   "id": "073",
   "name": "Lexington",
   "nationality": "eagle-union",
-  "slug": "lexington"
+  "slug": "lexington",
+  "stats": {
+    "aa": 57,
+    "acc": 32,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 75,
+    "eva": 13,
+    "fp": 0,
+    "hp": 1183,
+    "lck": 35,
+    "oil": 4,
+    "rld": 41
+  }
 }

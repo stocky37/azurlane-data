@@ -6,5 +6,18 @@
   "id": "013",
   "name": "Charles Ausburne",
   "nationality": "eagle-union",
-  "slug": "charles-ausburne"
+  "slug": "charles-ausburne",
+  "stats": {
+    "aa": 33,
+    "acc": 76,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 59,
+    "fp": 16,
+    "hp": 343,
+    "lck": 82,
+    "oil": 2,
+    "rld": 79
+  }
 }

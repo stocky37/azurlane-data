@@ -6,5 +6,18 @@
   "id": "413",
   "name": "Zara",
   "nationality": "sardegna-empire",
-  "slug": "zara"
+  "slug": "zara",
+  "stats": {
+    "aa": 43,
+    "acc": 39,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 47,
+    "hp": 853,
+    "lck": 75,
+    "oil": 4,
+    "rld": 67
+  }
 }

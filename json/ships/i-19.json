@@ -6,5 +6,18 @@
   "id": "338",
   "name": "I-19",
   "nationality": "sakura-empire",
-  "slug": "i-19"
+  "slug": "i-19",
+  "stats": {
+    "aa": 0,
+    "acc": 58,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 10,
+    "fp": 11,
+    "hp": 349,
+    "lck": 19,
+    "oil": 2,
+    "rld": 41
+  }
 }

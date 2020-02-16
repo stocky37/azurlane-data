@@ -6,5 +6,18 @@
   "id": "174",
   "name": "Hatsushimo",
   "nationality": "sakura-empire",
-  "slug": "hatsushimo"
+  "slug": "hatsushimo",
+  "stats": {
+    "aa": 27,
+    "acc": 66,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 71,
+    "fp": 11,
+    "hp": 286,
+    "lck": 51,
+    "oil": 2,
+    "rld": 72
+  }
 }

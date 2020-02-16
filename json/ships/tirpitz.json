@@ -6,5 +6,18 @@
   "id": "251",
   "name": "Tirpitz",
   "nationality": "ironblood",
-  "slug": "tirpitz"
+  "slug": "tirpitz",
+  "stats": {
+    "aa": 39,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 82,
+    "hp": 1477,
+    "lck": 45,
+    "oil": 5,
+    "rld": 55
+  }
 }

@@ -6,5 +6,18 @@
   "id": "424",
   "name": "Kasumi",
   "nationality": "sakura-empire",
-  "slug": "kasumi"
+  "slug": "kasumi",
+  "stats": {
+    "aa": 29,
+    "acc": 67,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 71,
+    "fp": 12,
+    "hp": 322,
+    "lck": 70,
+    "oil": 2,
+    "rld": 74
+  }
 }

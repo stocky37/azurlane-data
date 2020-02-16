@@ -6,5 +6,18 @@
   "id": "Plan003",
   "name": "Ibuki",
   "nationality": "sakura-empire",
-  "slug": "ibuki"
+  "slug": "ibuki",
+  "stats": {
+    "aa": 36,
+    "acc": 47,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 10,
+    "fp": 51,
+    "hp": 824,
+    "lck": 0,
+    "oil": 7,
+    "rld": 69
+  }
 }

@@ -6,5 +6,18 @@
   "id": "011",
   "name": "Fletcher",
   "nationality": "eagle-union",
-  "slug": "fletcher"
+  "slug": "fletcher",
+  "stats": {
+    "aa": 32,
+    "acc": 69,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 60,
+    "fp": 16,
+    "hp": 338,
+    "lck": 73,
+    "oil": 2,
+    "rld": 72
+  }
 }

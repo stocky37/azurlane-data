@@ -6,5 +6,18 @@
   "id": "Collab004",
   "name": "Vert",
   "nationality": "neptunia",
-  "slug": "vert"
+  "slug": "vert",
+  "stats": {
+    "aa": 54,
+    "acc": 30,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 71,
+    "eva": 13,
+    "fp": 0,
+    "hp": 929,
+    "lck": 93,
+    "oil": 4,
+    "rld": 41
+  }
 }

@@ -6,5 +6,18 @@
   "id": "383",
   "name": "Hiei-chan",
   "nationality": "sakura-empire",
-  "slug": "hiei-chan"
+  "slug": "hiei-chan",
+  "stats": {
+    "aa": 46,
+    "acc": 21,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 68,
+    "hp": 1062,
+    "lck": 37,
+    "oil": 5,
+    "rld": 59
+  }
 }

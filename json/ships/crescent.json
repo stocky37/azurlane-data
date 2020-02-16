@@ -6,5 +6,18 @@
   "id": "089",
   "name": "Crescent",
   "nationality": "royal-navy",
-  "slug": "crescent"
+  "slug": "crescent",
+  "stats": {
+    "aa": 28,
+    "acc": 65,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 78,
+    "fp": 13,
+    "hp": 219,
+    "lck": 35,
+    "oil": 1,
+    "rld": 70
+  }
 }

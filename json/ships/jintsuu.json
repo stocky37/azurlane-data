@@ -6,5 +6,18 @@
   "id": "309",
   "name": "Jintsuu",
   "nationality": "sakura-empire",
-  "slug": "jintsuu"
+  "slug": "jintsuu",
+  "stats": {
+    "aa": 53,
+    "acc": 52,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 29,
+    "fp": 29,
+    "hp": 447,
+    "lck": 38,
+    "oil": 3,
+    "rld": 70
+  }
 }

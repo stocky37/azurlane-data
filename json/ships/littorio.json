@@ -6,5 +6,18 @@
   "id": "410",
   "name": "Littorio",
   "nationality": "sardegna-empire",
-  "slug": "littorio"
+  "slug": "littorio",
+  "stats": {
+    "aa": 45,
+    "acc": 19,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 80,
+    "hp": 1389,
+    "lck": 79,
+    "oil": 5,
+    "rld": 57
+  }
 }

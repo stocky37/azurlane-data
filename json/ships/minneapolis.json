@@ -6,5 +6,18 @@
   "id": "364",
   "name": "Minneapolis",
   "nationality": "eagle-union",
-  "slug": "minneapolis"
+  "slug": "minneapolis",
+  "stats": {
+    "aa": 46,
+    "acc": 42,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 48,
+    "hp": 717,
+    "lck": 76,
+    "oil": 4,
+    "rld": 67
+  }
 }

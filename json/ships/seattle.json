@@ -6,5 +6,18 @@
   "id": "Plan007",
   "name": "Seattle",
   "nationality": "eagle-union",
-  "slug": "seattle"
+  "slug": "seattle",
+  "stats": {
+    "aa": 70,
+    "acc": 54,
+    "arm": "light",
+    "asw": 37,
+    "avi": 0,
+    "eva": 28,
+    "fp": 33,
+    "hp": 924,
+    "lck": 0,
+    "oil": 7,
+    "rld": 57
+  }
 }

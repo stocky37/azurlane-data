@@ -6,5 +6,18 @@
   "id": "115",
   "name": "Belfast",
   "nationality": "royal-navy",
-  "slug": "belfast"
+  "slug": "belfast",
+  "stats": {
+    "aa": 55,
+    "acc": 55,
+    "arm": "light",
+    "asw": 35,
+    "avi": 0,
+    "eva": 28,
+    "fp": 33,
+    "hp": 686,
+    "lck": 88,
+    "oil": 3,
+    "rld": 67
+  }
 }

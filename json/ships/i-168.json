@@ -6,5 +6,18 @@
   "id": "398",
   "name": "I-168",
   "nationality": "sakura-empire",
-  "slug": "i-168"
+  "slug": "i-168",
+  "stats": {
+    "aa": 0,
+    "acc": 59,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 12,
+    "hp": 321,
+    "lck": 22,
+    "oil": 2,
+    "rld": 42
+  }
 }

@@ -6,5 +6,18 @@
   "id": "258",
   "name": "Ning Hai",
   "nationality": "eastern-radiance",
-  "slug": "ning-hai"
+  "slug": "ning-hai",
+  "stats": {
+    "aa": 54,
+    "acc": 52,
+    "arm": "light",
+    "asw": 18,
+    "avi": 0,
+    "eva": 26,
+    "fp": 27,
+    "hp": 345,
+    "lck": 51,
+    "oil": 3,
+    "rld": 67
+  }
 }

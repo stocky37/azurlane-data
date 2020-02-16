@@ -6,5 +6,18 @@
   "id": "354",
   "name": "Massachusetts",
   "nationality": "eagle-union",
-  "slug": "massachusetts"
+  "slug": "massachusetts",
+  "stats": {
+    "aa": 79,
+    "acc": 24,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 80,
+    "hp": 1303,
+    "lck": 82,
+    "oil": 5,
+    "rld": 57
+  }
 }

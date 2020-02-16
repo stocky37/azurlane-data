@@ -6,5 +6,18 @@
   "id": "306",
   "name": "Jupiter",
   "nationality": "royal-navy",
-  "slug": "jupiter"
+  "slug": "jupiter",
+  "stats": {
+    "aa": 29,
+    "acc": 71,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 78,
+    "fp": 14,
+    "hp": 248,
+    "lck": 52,
+    "oil": 2,
+    "rld": 74
+  }
 }

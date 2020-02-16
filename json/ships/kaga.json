@@ -6,5 +6,18 @@
   "id": "225",
   "name": "Kaga",
   "nationality": "sakura-empire",
-  "slug": "kaga"
+  "slug": "kaga",
+  "stats": {
+    "aa": 61,
+    "acc": 31,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 78,
+    "eva": 11,
+    "fp": 0,
+    "hp": 1159,
+    "lck": 42,
+    "oil": 4,
+    "rld": 48
+  }
 }

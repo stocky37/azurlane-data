@@ -6,5 +6,18 @@
   "id": "031",
   "name": "Brooklyn",
   "nationality": "eagle-union",
-  "slug": "brooklyn"
+  "slug": "brooklyn",
+  "stats": {
+    "aa": 58,
+    "acc": 54,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 28,
+    "fp": 30,
+    "hp": 595,
+    "lck": 55,
+    "oil": 2,
+    "rld": 66
+  }
 }

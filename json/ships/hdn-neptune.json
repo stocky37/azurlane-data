@@ -6,5 +6,18 @@
   "id": "Collab001",
   "name": "HDN Neptune",
   "nationality": "neptunia",
-  "slug": "hdn-neptune"
+  "slug": "hdn-neptune",
+  "stats": {
+    "aa": 57,
+    "acc": 54,
+    "arm": "light",
+    "asw": 29,
+    "avi": 0,
+    "eva": 28,
+    "fp": 28,
+    "hp": 588,
+    "lck": 73,
+    "oil": 3,
+    "rld": 63
+  }
 }

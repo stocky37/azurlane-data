@@ -6,5 +6,18 @@
   "id": "254",
   "name": "Fu Shun",
   "nationality": "eastern-radiance",
-  "slug": "fu-shun"
+  "slug": "fu-shun",
+  "stats": {
+    "aa": 32,
+    "acc": 68,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 61,
+    "fp": 24,
+    "hp": 367,
+    "lck": 51,
+    "oil": 2,
+    "rld": 74
+  }
 }

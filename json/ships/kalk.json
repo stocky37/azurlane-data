@@ -6,5 +6,18 @@
   "id": "363",
   "name": "Kalk",
   "nationality": "eagle-union",
-  "slug": "kalk"
+  "slug": "kalk",
+  "stats": {
+    "aa": 32,
+    "acc": 67,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 60,
+    "fp": 16,
+    "hp": 294,
+    "lck": 75,
+    "oil": 2,
+    "rld": 75
+  }
 }

@@ -6,5 +6,18 @@
   "id": "Plan011",
   "name": "Friedrich der Grosse",
   "nationality": "ironblood",
-  "slug": "friedrich-der-grosse"
+  "slug": "friedrich-der-grosse",
+  "stats": {
+    "aa": 45,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 87,
+    "hp": 1634,
+    "lck": 0,
+    "oil": 10,
+    "rld": 58
+  }
 }

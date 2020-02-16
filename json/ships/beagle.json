@@ -6,5 +6,18 @@
   "id": "086",
   "name": "Beagle",
   "nationality": "royal-navy",
-  "slug": "beagle"
+  "slug": "beagle",
+  "stats": {
+    "aa": 28,
+    "acc": 64,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 78,
+    "fp": 12,
+    "hp": 218,
+    "lck": 71,
+    "oil": 1,
+    "rld": 70
+  }
 }

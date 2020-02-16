@@ -6,5 +6,18 @@
   "id": "386",
   "name": "U-556",
   "nationality": "ironblood",
-  "slug": "u-556"
+  "slug": "u-556",
+  "stats": {
+    "aa": 0,
+    "acc": 61,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 7,
+    "hp": 203,
+    "lck": 45,
+    "oil": 2,
+    "rld": 31
+  }
 }

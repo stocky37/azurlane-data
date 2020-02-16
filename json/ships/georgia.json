@@ -6,5 +6,18 @@
   "id": "Plan008",
   "name": "Georgia",
   "nationality": "eagle-union",
-  "slug": "georgia"
+  "slug": "georgia",
+  "stats": {
+    "aa": 79,
+    "acc": 23,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 84,
+    "hp": 1459,
+    "lck": 0,
+    "oil": 9,
+    "rld": 60
+  }
 }

@@ -6,5 +6,18 @@
   "id": "253",
   "name": "An Shan",
   "nationality": "eastern-radiance",
-  "slug": "an-shan"
+  "slug": "an-shan",
+  "stats": {
+    "aa": 32,
+    "acc": 69,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 61,
+    "fp": 24,
+    "hp": 367,
+    "lck": 81,
+    "oil": 2,
+    "rld": 74
+  }
 }

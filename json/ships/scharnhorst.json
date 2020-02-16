@@ -6,5 +6,18 @@
   "id": "248",
   "name": "Scharnhorst",
   "nationality": "ironblood",
-  "slug": "scharnhorst"
+  "slug": "scharnhorst",
+  "stats": {
+    "aa": 46,
+    "acc": 22,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 69,
+    "hp": 1241,
+    "lck": 43,
+    "oil": 4,
+    "rld": 58
+  }
 }

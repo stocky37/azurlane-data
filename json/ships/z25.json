@@ -6,5 +6,18 @@
   "id": "237",
   "name": "Z25",
   "nationality": "ironblood",
-  "slug": "z25"
+  "slug": "z25",
+  "stats": {
+    "aa": 29,
+    "acc": 62,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 58,
+    "fp": 22,
+    "hp": 344,
+    "lck": 72,
+    "oil": 2,
+    "rld": 70
+  }
 }

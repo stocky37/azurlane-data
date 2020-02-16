@@ -6,5 +6,18 @@
   "id": "Collab021",
   "name": "22",
   "nationality": "bilibili",
-  "slug": "22"
+  "slug": "22",
+  "stats": {
+    "aa": 28,
+    "acc": 67,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 60,
+    "fp": 10,
+    "hp": 230,
+    "lck": 22,
+    "oil": 2,
+    "rld": 66
+  }
 }

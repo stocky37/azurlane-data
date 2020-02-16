@@ -6,5 +6,18 @@
   "id": "081",
   "name": "Amazon",
   "nationality": "royal-navy",
-  "slug": "amazon"
+  "slug": "amazon",
+  "stats": {
+    "aa": 29,
+    "acc": 68,
+    "arm": "light",
+    "asw": 43,
+    "avi": 0,
+    "eva": 79,
+    "fp": 12,
+    "hp": 221,
+    "lck": 72,
+    "oil": 2,
+    "rld": 70
+  }
 }

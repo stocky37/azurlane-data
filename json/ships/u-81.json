@@ -6,5 +6,18 @@
   "id": "341",
   "name": "U-81",
   "nationality": "ironblood",
-  "slug": "u-81"
+  "slug": "u-81",
+  "stats": {
+    "aa": 0,
+    "acc": 60,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 9,
+    "hp": 211,
+    "lck": 23,
+    "oil": 2,
+    "rld": 40
+  }
 }

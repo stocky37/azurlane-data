@@ -6,5 +6,18 @@
   "id": "Collab005",
   "name": "Purple Heart",
   "nationality": "neptunia",
-  "slug": "purple-heart"
+  "slug": "purple-heart",
+  "stats": {
+    "aa": 59,
+    "acc": 54,
+    "arm": "light",
+    "asw": 31,
+    "avi": 0,
+    "eva": 29,
+    "fp": 31,
+    "hp": 637,
+    "lck": 87,
+    "oil": 3,
+    "rld": 66
+  }
 }

@@ -6,5 +6,18 @@
   "id": "255",
   "name": "Chang Chun",
   "nationality": "eastern-radiance",
-  "slug": "chang-chun"
+  "slug": "chang-chun",
+  "stats": {
+    "aa": 32,
+    "acc": 67,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 61,
+    "fp": 24,
+    "hp": 367,
+    "lck": 61,
+    "oil": 2,
+    "rld": 73
+  }
 }

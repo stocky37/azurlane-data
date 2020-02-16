@@ -6,5 +6,18 @@
   "id": "295",
   "name": "Niizuki",
   "nationality": "sakura-empire",
-  "slug": "niizuki"
+  "slug": "niizuki",
+  "stats": {
+    "aa": 36,
+    "acc": 67,
+    "arm": "light",
+    "asw": 49,
+    "avi": 0,
+    "eva": 67,
+    "fp": 14,
+    "hp": 394,
+    "lck": 32,
+    "oil": 2,
+    "rld": 77
+  }
 }

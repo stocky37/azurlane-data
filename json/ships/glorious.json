@@ -6,5 +6,18 @@
   "id": "148",
   "name": "Glorious",
   "nationality": "royal-navy",
-  "slug": "glorious"
+  "slug": "glorious",
+  "stats": {
+    "aa": 55,
+    "acc": 30,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 68,
+    "eva": 12,
+    "fp": 0,
+    "hp": 1062,
+    "lck": 32,
+    "oil": 4,
+    "rld": 40
+  }
 }

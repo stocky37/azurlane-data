@@ -6,5 +6,18 @@
   "id": "Collab044",
   "name": "Super Gamer Kizuna AI",
   "nationality": "kizunaai",
-  "slug": "super-gamer-kizuna-ai"
+  "slug": "super-gamer-kizuna-ai",
+  "stats": {
+    "aa": 37,
+    "acc": 19,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 11,
+    "fp": 78,
+    "hp": 1233,
+    "lck": 66,
+    "oil": 5,
+    "rld": 52
+  }
 }

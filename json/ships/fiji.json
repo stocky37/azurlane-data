@@ -6,5 +6,18 @@
   "id": "327",
   "name": "Fiji",
   "nationality": "royal-navy",
-  "slug": "fiji"
+  "slug": "fiji",
+  "stats": {
+    "aa": 48,
+    "acc": 59,
+    "arm": "light",
+    "asw": 28,
+    "avi": 0,
+    "eva": 29,
+    "fp": 29,
+    "hp": 617,
+    "lck": 11,
+    "oil": 2,
+    "rld": 67
+  }
 }

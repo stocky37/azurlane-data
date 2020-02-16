@@ -6,5 +6,18 @@
   "id": "342",
   "name": "Dace",
   "nationality": "eagle-union",
-  "slug": "dace"
+  "slug": "dace",
+  "stats": {
+    "aa": 0,
+    "acc": 61,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 13,
+    "hp": 273,
+    "lck": 68,
+    "oil": 2,
+    "rld": 33
+  }
 }

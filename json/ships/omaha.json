@@ -6,5 +6,18 @@
   "id": "029",
   "name": "Omaha",
   "nationality": "eagle-union",
-  "slug": "omaha"
+  "slug": "omaha",
+  "stats": {
+    "aa": 53,
+    "acc": 52,
+    "arm": "light",
+    "asw": 19,
+    "avi": 0,
+    "eva": 30,
+    "fp": 26,
+    "hp": 554,
+    "lck": 67,
+    "oil": 2,
+    "rld": 67
+  }
 }

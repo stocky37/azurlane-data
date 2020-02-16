@@ -6,5 +6,18 @@
   "id": "198",
   "name": "Ashigara",
   "nationality": "sakura-empire",
-  "slug": "ashigara"
+  "slug": "ashigara",
+  "stats": {
+    "aa": 32,
+    "acc": 43,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 13,
+    "fp": 43,
+    "hp": 732,
+    "lck": 60,
+    "oil": 3,
+    "rld": 62
+  }
 }

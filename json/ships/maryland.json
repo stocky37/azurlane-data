@@ -6,5 +6,18 @@
   "id": "061",
   "name": "Maryland",
   "nationality": "eagle-union",
-  "slug": "maryland"
+  "slug": "maryland",
+  "stats": {
+    "aa": 40,
+    "acc": 20,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 4,
+    "fp": 77,
+    "hp": 1251,
+    "lck": 70,
+    "oil": 5,
+    "rld": 54
+  }
 }

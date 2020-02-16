@@ -6,5 +6,18 @@
   "id": "064",
   "name": "Washington",
   "nationality": "eagle-union",
-  "slug": "washington"
+  "slug": "washington",
+  "stats": {
+    "aa": 79,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 82,
+    "hp": 1353,
+    "lck": 89,
+    "oil": 5,
+    "rld": 58
+  }
 }

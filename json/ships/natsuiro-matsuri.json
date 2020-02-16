@@ -6,5 +6,18 @@
   "id": "Collab054",
   "name": "Natsuiro Matsuri",
   "nationality": "hololive",
-  "slug": "natsuiro-matsuri"
+  "slug": "natsuiro-matsuri",
+  "stats": {
+    "aa": 31,
+    "acc": 69,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 71,
+    "fp": 13,
+    "hp": 284,
+    "lck": 87,
+    "oil": 2,
+    "rld": 76
+  }
 }

@@ -6,5 +6,18 @@
   "id": "355",
   "name": "Bush",
   "nationality": "eagle-union",
-  "slug": "bush"
+  "slug": "bush",
+  "stats": {
+    "aa": 35,
+    "acc": 73,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 59,
+    "fp": 16,
+    "hp": 331,
+    "lck": 34,
+    "oil": 2,
+    "rld": 74
+  }
 }

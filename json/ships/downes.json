@@ -6,5 +6,18 @@
   "id": "006",
   "name": "Downes",
   "nationality": "eagle-union",
-  "slug": "downes"
+  "slug": "downes",
+  "stats": {
+    "aa": 31,
+    "acc": 67,
+    "arm": "light",
+    "asw": 44,
+    "avi": 0,
+    "eva": 60,
+    "fp": 14,
+    "hp": 280,
+    "lck": 63,
+    "oil": 1,
+    "rld": 70
+  }
 }

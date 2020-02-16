@@ -6,5 +6,18 @@
   "id": "017",
   "name": "Spence",
   "nationality": "eagle-union",
-  "slug": "spence"
+  "slug": "spence",
+  "stats": {
+    "aa": 32,
+    "acc": 72,
+    "arm": "light",
+    "asw": 50,
+    "avi": 0,
+    "eva": 59,
+    "fp": 15,
+    "hp": 325,
+    "lck": 20,
+    "oil": 1,
+    "rld": 72
+  }
 }

@@ -6,5 +6,18 @@
   "id": "071",
   "name": "Bogue",
   "nationality": "eagle-union",
-  "slug": "bogue"
+  "slug": "bogue",
+  "stats": {
+    "aa": 47,
+    "acc": 28,
+    "arm": "medium",
+    "asw": 36,
+    "avi": 52,
+    "eva": 15,
+    "fp": 0,
+    "hp": 654,
+    "lck": 78,
+    "oil": 2,
+    "rld": 66
+  }
 }

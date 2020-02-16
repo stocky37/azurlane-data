@@ -6,5 +6,18 @@
   "id": "203",
   "name": "Choukai",
   "nationality": "sakura-empire",
-  "slug": "choukai"
+  "slug": "choukai",
+  "stats": {
+    "aa": 33,
+    "acc": 46,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 13,
+    "fp": 48,
+    "hp": 738,
+    "lck": 50,
+    "oil": 4,
+    "rld": 64
+  }
 }

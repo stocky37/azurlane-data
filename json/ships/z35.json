@@ -6,5 +6,18 @@
   "id": "345",
   "name": "Z35",
   "nationality": "ironblood",
-  "slug": "z35"
+  "slug": "z35",
+  "stats": {
+    "aa": 34,
+    "acc": 66,
+    "arm": "light",
+    "asw": 50,
+    "avi": 0,
+    "eva": 59,
+    "fp": 15,
+    "hp": 340,
+    "lck": 35,
+    "oil": 2,
+    "rld": 74
+  }
 }

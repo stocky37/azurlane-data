@@ -6,5 +6,18 @@
   "id": "135",
   "name": "Prince of Wales",
   "nationality": "royal-navy",
-  "slug": "prince-of-wales"
+  "slug": "prince-of-wales",
+  "stats": {
+    "aa": 43,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 82,
+    "hp": 1334,
+    "lck": 19,
+    "oil": 5,
+    "rld": 57
+  }
 }

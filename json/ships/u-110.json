@@ -6,5 +6,18 @@
   "id": "416",
   "name": "U-110",
   "nationality": "ironblood",
-  "slug": "u-110"
+  "slug": "u-110",
+  "stats": {
+    "aa": 0,
+    "acc": 61,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 9,
+    "hp": 236,
+    "lck": 28,
+    "oil": 2,
+    "rld": 30
+  }
 }

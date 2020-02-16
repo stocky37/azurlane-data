@@ -6,5 +6,18 @@
   "id": "425",
   "name": "Suruga",
   "nationality": "sakura-empire",
-  "slug": "suruga"
+  "slug": "suruga",
+  "stats": {
+    "aa": 40,
+    "acc": 21,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 80,
+    "hp": 1364,
+    "lck": 37,
+    "oil": 5,
+    "rld": 51
+  }
 }

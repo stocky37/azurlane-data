@@ -6,5 +6,18 @@
   "id": "165",
   "name": "Shigure",
   "nationality": "sakura-empire",
-  "slug": "shigure"
+  "slug": "shigure",
+  "stats": {
+    "aa": 28,
+    "acc": 67,
+    "arm": "light",
+    "asw": 44,
+    "avi": 0,
+    "eva": 71,
+    "fp": 12,
+    "hp": 284,
+    "lck": 84,
+    "oil": 2,
+    "rld": 78
+  }
 }

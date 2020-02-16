@@ -6,5 +6,18 @@
   "id": "389",
   "name": "Echo",
   "nationality": "royal-navy",
-  "slug": "echo"
+  "slug": "echo",
+  "stats": {
+    "aa": 28,
+    "acc": 65,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 78,
+    "fp": 14,
+    "hp": 226,
+    "lck": 65,
+    "oil": 2,
+    "rld": 71
+  }
 }

@@ -6,5 +6,18 @@
   "id": "320",
   "name": "Mikasa",
   "nationality": "sakura-empire",
-  "slug": "mikasa"
+  "slug": "mikasa",
+  "stats": {
+    "aa": 32,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 3,
+    "fp": 63,
+    "hp": 884,
+    "lck": 95,
+    "oil": 5,
+    "rld": 60
+  }
 }

@@ -6,5 +6,18 @@
   "id": "123",
   "name": "Norfolk",
   "nationality": "royal-navy",
-  "slug": "norfolk"
+  "slug": "norfolk",
+  "stats": {
+    "aa": 45,
+    "acc": 38,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 9,
+    "fp": 33,
+    "hp": 798,
+    "lck": 69,
+    "oil": 3,
+    "rld": 59
+  }
 }

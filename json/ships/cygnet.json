@@ -6,5 +6,18 @@
   "id": "090",
   "name": "Cygnet",
   "nationality": "royal-navy",
-  "slug": "cygnet"
+  "slug": "cygnet",
+  "stats": {
+    "aa": 28,
+    "acc": 65,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 78,
+    "fp": 13,
+    "hp": 219,
+    "lck": 72,
+    "oil": 1,
+    "rld": 70
+  }
 }

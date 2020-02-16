@@ -6,5 +6,18 @@
   "id": "Collab035",
   "name": "Saraana",
   "nationality": "utawarerumono",
-  "slug": "saraana"
+  "slug": "saraana",
+  "stats": {
+    "aa": 48,
+    "acc": 27,
+    "arm": "light",
+    "asw": 17,
+    "avi": 44,
+    "eva": 19,
+    "fp": 0,
+    "hp": 721,
+    "lck": 96,
+    "oil": 3,
+    "rld": 57
+  }
 }

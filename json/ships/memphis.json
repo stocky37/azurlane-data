@@ -6,5 +6,18 @@
   "id": "360",
   "name": "Memphis",
   "nationality": "eagle-union",
-  "slug": "memphis"
+  "slug": "memphis",
+  "stats": {
+    "aa": 55,
+    "acc": 52,
+    "arm": "light",
+    "asw": 20,
+    "avi": 0,
+    "eva": 30,
+    "fp": 27,
+    "hp": 565,
+    "lck": 67,
+    "oil": 2,
+    "rld": 68
+  }
 }

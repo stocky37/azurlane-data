@@ -6,5 +6,18 @@
   "id": "Plan010",
   "name": "Azuma",
   "nationality": "sakura-empire",
-  "slug": "azuma"
+  "slug": "azuma",
+  "stats": {
+    "aa": 42,
+    "acc": 43,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 11,
+    "fp": 58,
+    "hp": 1291,
+    "lck": 0,
+    "oil": 9,
+    "rld": 62
+  }
 }

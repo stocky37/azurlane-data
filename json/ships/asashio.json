@@ -6,5 +6,18 @@
   "id": "331",
   "name": "Asashio",
   "nationality": "sakura-empire",
-  "slug": "asashio"
+  "slug": "asashio",
+  "stats": {
+    "aa": 28,
+    "acc": 67,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 71,
+    "fp": 12,
+    "hp": 312,
+    "lck": 32,
+    "oil": 2,
+    "rld": 72
+  }
 }

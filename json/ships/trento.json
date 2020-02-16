@@ -6,5 +6,18 @@
   "id": "414",
   "name": "Trento",
   "nationality": "sardegna-empire",
-  "slug": "trento"
+  "slug": "trento",
+  "stats": {
+    "aa": 35,
+    "acc": 39,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 10,
+    "fp": 43,
+    "hp": 612,
+    "lck": 42,
+    "oil": 3,
+    "rld": 59
+  }
 }

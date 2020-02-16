@@ -6,5 +6,18 @@
   "id": "233",
   "name": "Z1",
   "nationality": "ironblood",
-  "slug": "z1"
+  "slug": "z1",
+  "stats": {
+    "aa": 29,
+    "acc": 63,
+    "arm": "light",
+    "asw": 48,
+    "avi": 0,
+    "eva": 55,
+    "fp": 12,
+    "hp": 334,
+    "lck": 40,
+    "oil": 2,
+    "rld": 76
+  }
 }

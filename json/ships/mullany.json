@@ -6,5 +6,18 @@
   "id": "375",
   "name": "Mullany",
   "nationality": "eagle-union",
-  "slug": "mullany"
+  "slug": "mullany",
+  "stats": {
+    "aa": 32,
+    "acc": 72,
+    "arm": "light",
+    "asw": 52,
+    "avi": 0,
+    "eva": 59,
+    "fp": 17,
+    "hp": 341,
+    "lck": 89,
+    "oil": 2,
+    "rld": 76
+  }
 }

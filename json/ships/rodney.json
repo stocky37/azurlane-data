@@ -6,5 +6,18 @@
   "id": "133",
   "name": "Rodney",
   "nationality": "royal-navy",
-  "slug": "rodney"
+  "slug": "rodney",
+  "stats": {
+    "aa": 41,
+    "acc": 22,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 5,
+    "fp": 79,
+    "hp": 1272,
+    "lck": 81,
+    "oil": 5,
+    "rld": 55
+  }
 }

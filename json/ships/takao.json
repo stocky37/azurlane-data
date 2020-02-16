@@ -6,5 +6,18 @@
   "id": "200",
   "name": "Takao",
   "nationality": "sakura-empire",
-  "slug": "takao"
+  "slug": "takao",
+  "stats": {
+    "aa": 33,
+    "acc": 46,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 13,
+    "fp": 50,
+    "hp": 738,
+    "lck": 65,
+    "oil": 4,
+    "rld": 64
+  }
 }

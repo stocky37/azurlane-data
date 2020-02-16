@@ -6,5 +6,18 @@
   "id": "229",
   "name": "Zuikaku",
   "nationality": "sakura-empire",
-  "slug": "zuikaku"
+  "slug": "zuikaku",
+  "stats": {
+    "aa": 61,
+    "acc": 30,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 79,
+    "eva": 14,
+    "fp": 0,
+    "hp": 1231,
+    "lck": 73,
+    "oil": 4,
+    "rld": 44
+  }
 }

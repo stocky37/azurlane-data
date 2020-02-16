@@ -6,5 +6,18 @@
   "id": "Plan001",
   "name": "HMS Neptune",
   "nationality": "royal-navy",
-  "slug": "hms-neptune"
+  "slug": "hms-neptune",
+  "stats": {
+    "aa": 69,
+    "acc": 54,
+    "arm": "light",
+    "asw": 37,
+    "avi": 0,
+    "eva": 28,
+    "fp": 32,
+    "hp": 815,
+    "lck": 0,
+    "oil": 7,
+    "rld": 60
+  }
 }

@@ -6,5 +6,18 @@
   "id": "100",
   "name": "Hunter",
   "nationality": "royal-navy",
-  "slug": "hunter"
+  "slug": "hunter",
+  "stats": {
+    "aa": 29,
+    "acc": 70,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 78,
+    "fp": 14,
+    "hp": 221,
+    "lck": 24,
+    "oil": 2,
+    "rld": 72
+  }
 }

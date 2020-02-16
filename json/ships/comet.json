@@ -6,5 +6,18 @@
   "id": "088",
   "name": "Comet",
   "nationality": "royal-navy",
-  "slug": "comet"
+  "slug": "comet",
+  "stats": {
+    "aa": 28,
+    "acc": 65,
+    "arm": "light",
+    "asw": 51,
+    "avi": 0,
+    "eva": 78,
+    "fp": 13,
+    "hp": 219,
+    "lck": 54,
+    "oil": 1,
+    "rld": 70
+  }
 }

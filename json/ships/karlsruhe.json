@@ -6,5 +6,18 @@
   "id": "239",
   "name": "Karlsruhe",
   "nationality": "ironblood",
-  "slug": "karlsruhe"
+  "slug": "karlsruhe",
+  "stats": {
+    "aa": 63,
+    "acc": 51,
+    "arm": "light",
+    "asw": 21,
+    "avi": 0,
+    "eva": 29,
+    "fp": 28,
+    "hp": 578,
+    "lck": 39,
+    "oil": 2,
+    "rld": 64
+  }
 }

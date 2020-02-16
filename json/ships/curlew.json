@@ -6,5 +6,18 @@
   "id": "373",
   "name": "Curlew",
   "nationality": "royal-navy",
-  "slug": "curlew"
+  "slug": "curlew",
+  "stats": {
+    "aa": 33,
+    "acc": 57,
+    "arm": "light",
+    "asw": 13,
+    "avi": 0,
+    "eva": 26,
+    "fp": 24,
+    "hp": 477,
+    "lck": 45,
+    "oil": 2,
+    "rld": 70
+  }
 }

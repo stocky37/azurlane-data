@@ -6,5 +6,18 @@
   "id": "265",
   "name": "Z20",
   "nationality": "ironblood",
-  "slug": "z20"
+  "slug": "z20",
+  "stats": {
+    "aa": 27,
+    "acc": 67,
+    "arm": "light",
+    "asw": 46,
+    "avi": 0,
+    "eva": 55,
+    "fp": 12,
+    "hp": 324,
+    "lck": 71,
+    "oil": 1,
+    "rld": 72
+  }
 }

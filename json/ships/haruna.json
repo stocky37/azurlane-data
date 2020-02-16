@@ -6,5 +6,18 @@
   "id": "206",
   "name": "Haruna",
   "nationality": "sakura-empire",
-  "slug": "haruna"
+  "slug": "haruna",
+  "stats": {
+    "aa": 51,
+    "acc": 21,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 68,
+    "hp": 1087,
+    "lck": 47,
+    "oil": 5,
+    "rld": 58
+  }
 }

@@ -6,5 +6,18 @@
   "id": "Plan006",
   "name": "Saint Louis",
   "nationality": "iris-libre",
-  "slug": "saint-louis"
+  "slug": "saint-louis",
+  "stats": {
+    "aa": 46,
+    "acc": 47,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 10,
+    "fp": 52,
+    "hp": 943,
+    "lck": 0,
+    "oil": 7,
+    "rld": 70
+  }
 }

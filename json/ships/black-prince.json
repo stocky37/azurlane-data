@@ -6,5 +6,18 @@
   "id": "408",
   "name": "Black Prince",
   "nationality": "royal-navy",
-  "slug": "black-prince"
+  "slug": "black-prince",
+  "stats": {
+    "aa": 72,
+    "acc": 58,
+    "arm": "light",
+    "asw": 36,
+    "avi": 0,
+    "eva": 28,
+    "fp": 26,
+    "hp": 623,
+    "lck": 58,
+    "oil": 3,
+    "rld": 66
+  }
 }

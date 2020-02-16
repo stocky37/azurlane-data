@@ -6,5 +6,18 @@
   "id": "078",
   "name": "Hornet",
   "nationality": "eagle-union",
-  "slug": "hornet"
+  "slug": "hornet",
+  "stats": {
+    "aa": 58,
+    "acc": 33,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 76,
+    "eva": 13,
+    "fp": 0,
+    "hp": 979,
+    "lck": 15,
+    "oil": 4,
+    "rld": 45
+  }
 }

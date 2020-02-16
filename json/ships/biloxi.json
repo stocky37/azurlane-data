@@ -6,5 +6,18 @@
   "id": "428",
   "name": "Biloxi",
   "nationality": "eagle-union",
-  "slug": "biloxi"
+  "slug": "biloxi",
+  "stats": {
+    "aa": 61,
+    "acc": 58,
+    "arm": "light",
+    "asw": 24,
+    "avi": 0,
+    "eva": 30,
+    "fp": 28,
+    "hp": 751,
+    "lck": 68,
+    "oil": 3,
+    "rld": 69
+  }
 }

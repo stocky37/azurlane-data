@@ -6,5 +6,18 @@
   "id": "429",
   "name": "Uranami",
   "nationality": "sakura-empire",
-  "slug": "uranami"
+  "slug": "uranami",
+  "stats": {
+    "aa": 27,
+    "acc": 69,
+    "arm": "light",
+    "asw": 48,
+    "avi": 0,
+    "eva": 72,
+    "fp": 12,
+    "hp": 290,
+    "lck": 75,
+    "oil": 3,
+    "rld": 76
+  }
 }

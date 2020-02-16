@@ -6,5 +6,18 @@
   "id": "Collab034",
   "name": "Uruuru",
   "nationality": "utawarerumono",
-  "slug": "uruuru"
+  "slug": "uruuru",
+  "stats": {
+    "aa": 48,
+    "acc": 27,
+    "arm": "light",
+    "asw": 17,
+    "avi": 44,
+    "eva": 19,
+    "fp": 0,
+    "hp": 721,
+    "lck": 69,
+    "oil": 3,
+    "rld": 57
+  }
 }

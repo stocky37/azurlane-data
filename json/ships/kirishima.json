@@ -6,5 +6,18 @@
   "id": "207",
   "name": "Kirishima",
   "nationality": "sakura-empire",
-  "slug": "kirishima"
+  "slug": "kirishima",
+  "stats": {
+    "aa": 51,
+    "acc": 21,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 0,
+    "eva": 8,
+    "fp": 69,
+    "hp": 1087,
+    "lck": 37,
+    "oil": 5,
+    "rld": 59
+  }
 }

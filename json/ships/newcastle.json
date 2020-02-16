@@ -6,5 +6,18 @@
   "id": "361",
   "name": "Newcastle",
   "nationality": "royal-navy",
-  "slug": "newcastle"
+  "slug": "newcastle",
+  "stats": {
+    "aa": 66,
+    "acc": 55,
+    "arm": "light",
+    "asw": 20,
+    "avi": 0,
+    "eva": 29,
+    "fp": 27,
+    "hp": 637,
+    "lck": 78,
+    "oil": 2,
+    "rld": 66
+  }
 }

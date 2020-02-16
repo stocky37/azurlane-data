@@ -6,5 +6,18 @@
   "id": "082",
   "name": "Acasta",
   "nationality": "royal-navy",
-  "slug": "acasta"
+  "slug": "acasta",
+  "stats": {
+    "aa": 29,
+    "acc": 63,
+    "arm": "light",
+    "asw": 42,
+    "avi": 0,
+    "eva": 78,
+    "fp": 13,
+    "hp": 221,
+    "lck": 43,
+    "oil": 2,
+    "rld": 71
+  }
 }

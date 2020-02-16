@@ -6,5 +6,18 @@
   "id": "Plan002",
   "name": "Monarch",
   "nationality": "royal-navy",
-  "slug": "monarch"
+  "slug": "monarch",
+  "stats": {
+    "aa": 43,
+    "acc": 21,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 83,
+    "hp": 1334,
+    "lck": 0,
+    "oil": 9,
+    "rld": 62
+  }
 }

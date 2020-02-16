@@ -6,5 +6,18 @@
   "id": "Plan004",
   "name": "Izumo",
   "nationality": "sakura-empire",
-  "slug": "izumo"
+  "slug": "izumo",
+  "stats": {
+    "aa": 44,
+    "acc": 20,
+    "arm": "heavy",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 84,
+    "hp": 1423,
+    "lck": 0,
+    "oil": 9,
+    "rld": 54
+  }
 }

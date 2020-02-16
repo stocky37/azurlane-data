@@ -6,5 +6,18 @@
   "id": "340",
   "name": "I-58",
   "nationality": "sakura-empire",
-  "slug": "i-58"
+  "slug": "i-58",
+  "stats": {
+    "aa": 0,
+    "acc": 58,
+    "arm": "light",
+    "asw": 0,
+    "avi": 0,
+    "eva": 7,
+    "fp": 11,
+    "hp": 335,
+    "lck": 58,
+    "oil": 2,
+    "rld": 29
+  }
 }

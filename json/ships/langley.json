@@ -6,5 +6,18 @@
   "id": "072",
   "name": "Langley",
   "nationality": "eagle-union",
-  "slug": "langley"
+  "slug": "langley",
+  "stats": {
+    "aa": 46,
+    "acc": 26,
+    "arm": "medium",
+    "asw": 23,
+    "avi": 38,
+    "eva": 15,
+    "fp": 0,
+    "hp": 744,
+    "lck": 32,
+    "oil": 2,
+    "rld": 45
+  }
 }

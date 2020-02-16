@@ -6,5 +6,18 @@
   "id": "107",
   "name": "Dido",
   "nationality": "royal-navy",
-  "slug": "dido"
+  "slug": "dido",
+  "stats": {
+    "aa": 74,
+    "acc": 55,
+    "arm": "light",
+    "asw": 41,
+    "avi": 0,
+    "eva": 28,
+    "fp": 29,
+    "hp": 647,
+    "lck": 85,
+    "oil": 4,
+    "rld": 71
+  }
 }

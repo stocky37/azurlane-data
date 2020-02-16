@@ -6,5 +6,18 @@
   "id": "018",
   "name": "Benson",
   "nationality": "eagle-union",
-  "slug": "benson"
+  "slug": "benson",
+  "stats": {
+    "aa": 32,
+    "acc": 67,
+    "arm": "light",
+    "asw": 47,
+    "avi": 0,
+    "eva": 60,
+    "fp": 16,
+    "hp": 294,
+    "lck": 72,
+    "oil": 2,
+    "rld": 75
+  }
 }

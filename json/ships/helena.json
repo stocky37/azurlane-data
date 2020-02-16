@@ -6,5 +6,18 @@
   "id": "033",
   "name": "Helena",
   "nationality": "eagle-union",
-  "slug": "helena"
+  "slug": "helena",
+  "stats": {
+    "aa": 60,
+    "acc": 60,
+    "arm": "light",
+    "asw": 26,
+    "avi": 0,
+    "eva": 28,
+    "fp": 32,
+    "hp": 620,
+    "lck": 33,
+    "oil": 3,
+    "rld": 68
+  }
 }

@@ -1,2 +1,3 @@
-from azurlane.items.ship.ship import Ship, ShipLoader
-from azurlane.items.ship.construction import Construction, ConstructionLoader
+from .construction import Construction, ConstructionLoader
+from .stats import Stats, StatsLoader
+from .ship import Ship, ShipLoader

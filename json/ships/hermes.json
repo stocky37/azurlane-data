@@ -6,5 +6,18 @@
   "id": "140",
   "name": "Hermes",
   "nationality": "royal-navy",
-  "slug": "hermes"
+  "slug": "hermes",
+  "stats": {
+    "aa": 46,
+    "acc": 26,
+    "arm": "medium",
+    "asw": 25,
+    "avi": 52,
+    "eva": 18,
+    "fp": 0,
+    "hp": 687,
+    "lck": 41,
+    "oil": 2,
+    "rld": 64
+  }
 }

@@ -6,5 +6,18 @@
   "id": "226",
   "name": "Souryuu",
   "nationality": "sakura-empire",
-  "slug": "souryuu"
+  "slug": "souryuu",
+  "stats": {
+    "aa": 59,
+    "acc": 29,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 74,
+    "eva": 14,
+    "fp": 0,
+    "hp": 875,
+    "lck": 36,
+    "oil": 4,
+    "rld": 45
+  }
 }

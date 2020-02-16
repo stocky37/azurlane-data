@@ -6,5 +6,18 @@
   "id": "415",
   "name": "Carabiniere",
   "nationality": "sardegna-empire",
-  "slug": "carabiniere"
+  "slug": "carabiniere",
+  "stats": {
+    "aa": 30,
+    "acc": 69,
+    "arm": "light",
+    "asw": 50,
+    "avi": 0,
+    "eva": 79,
+    "fp": 23,
+    "hp": 291,
+    "lck": 65,
+    "oil": 2,
+    "rld": 74
+  }
 }

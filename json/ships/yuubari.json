@@ -6,5 +6,18 @@
   "id": "179",
   "name": "Yuubari",
   "nationality": "sakura-empire",
-  "slug": "yuubari"
+  "slug": "yuubari",
+  "stats": {
+    "aa": 58,
+    "acc": 48,
+    "arm": "light",
+    "asw": 20,
+    "avi": 0,
+    "eva": 31,
+    "fp": 24,
+    "hp": 369,
+    "lck": 53,
+    "oil": 2,
+    "rld": 67
+  }
 }

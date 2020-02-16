@@ -6,5 +6,18 @@
   "id": "252",
   "name": "Graf Zeppelin",
   "nationality": "ironblood",
-  "slug": "graf-zeppelin"
+  "slug": "graf-zeppelin",
+  "stats": {
+    "aa": 60,
+    "acc": 30,
+    "arm": "medium",
+    "asw": 0,
+    "avi": 76,
+    "eva": 14,
+    "fp": 0,
+    "hp": 1317,
+    "lck": 45,
+    "oil": 4,
+    "rld": 42
+  }
 }

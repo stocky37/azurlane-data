@@ -6,5 +6,18 @@
   "id": "426",
   "name": "Ryuuhou",
   "nationality": "sakura-empire",
-  "slug": "ryuuhou"
+  "slug": "ryuuhou",
+  "stats": {
+    "aa": 52,
+    "acc": 27,
+    "arm": "medium",
+    "asw": 27,
+    "avi": 59,
+    "eva": 19,
+    "fp": 0,
+    "hp": 824,
+    "lck": 70,
+    "oil": 4,
+    "rld": 69
+  }
 }
